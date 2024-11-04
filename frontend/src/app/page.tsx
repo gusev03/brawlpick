@@ -14,58 +14,32 @@ export default function Home() {
           </p>
         </div>
         <div className="grid grid-cols-2 gap-6">
-          <Link
-            href="/brawlball"
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-7"
-          >
-            <Image
-              src="/brawl_ball_icon.png"
-              alt="Brawl Ball icon"
-              width={28}
-              height={28}
-              className="mr-3"
-            />
-            Brawl Ball
-          </Link>
-          <Link
-            href="/gemgrab"
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-7"
-          >
-            <Image
-              src="/gem_grab_icon.png"
-              alt="Gem Grab icon"
-              width={28}
-              height={28}
-              className="mr-3"
-            />
-            Gem Grab
-          </Link>
-          <Link
-            href="/heist"
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-7"
-          >
-            <Image
-              src="/heist_icon.png"
-              alt="Heist icon"
-              width={28}
-              height={28}
-              className="mr-3"
-            />
-            Heist
-          </Link>
-          <Link
-            href="/knockout"
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-7"
-          >
-            <Image
-              src="/knock_out_icon.png"
-              alt="Knock Out icon"
-              width={28}
-              height={28}
-              className="mr-3"
-            />
-            Knock Out
-          </Link>
+          {[
+            { mode: 'brawlball', icon: '/game_modes/brawl_ball_icon.png', label: 'Brawl Ball' },
+            { mode: 'gemgrab', icon: '/game_modes/gem_grab_icon.png', label: 'Gem Grab' },
+            { mode: 'heist', icon: '/game_modes/heist_icon.png', label: 'Heist' },
+            { mode: 'knockout', icon: '/game_modes/knock_out_icon.png', label: 'Knock Out' },
+            { mode: 'bounty', icon: '/game_modes/bounty_icon.png', label: 'Bounty' },
+            { mode: 'hotzone', icon: '/game_modes/hot_zone_icon.png', label: 'Hot Zone' },
+            { mode: 'payload', icon: '/game_modes/payload_icon.png', label: 'Payload' },
+            { mode: 'zombieplunder', icon: '/game_modes/zombie_plunder_icon.png', label: 'Zombie Plunder' },
+            { mode: 'volleybrawl', icon: '/game_modes/volley_brawl_icon.png', label: 'Volley Brawl' }
+          ].map(({ mode, icon, label }) => (
+            <Link
+              key={mode}
+              href={`/${mode}`}
+              className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-7"
+            >
+              <Image
+                src={icon}
+                alt={`${label} icon`}
+                width={28}
+                height={28}
+                className="mr-3"
+              />
+              {label}
+            </Link>
+          ))}
         </div>
       </main>
       <footer className="row-start-3 flex items-center justify-center gap-4">

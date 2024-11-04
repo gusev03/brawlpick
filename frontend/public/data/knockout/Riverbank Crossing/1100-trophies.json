@@ -1,0 +1,37 @@
+[
+    {
+        "brawler": "SHELLY",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "DRACO",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "KENJI",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "ANGELO",
+        "games_played": 3,
+        "win_rate": 0.6666666666666666
+    },
+    {
+        "brawler": "EL PRIMO",
+        "games_played": 4,
+        "win_rate": 0.5
+    },
+    {
+        "brawler": "GRAY",
+        "games_played": 4,
+        "win_rate": 0.5
+    },
+    {
+        "brawler": "JUJU",
+        "games_played": 3,
+        "win_rate": 0.3333333333333333
+    }
+]

@@ -31,7 +31,7 @@ async def process_player(db: Database, player_id: str, seen_battles: set[str], p
 
         data["battle_time"] = battle["battleTime"]
         battle_datetime = datetime.strptime(data["battle_time"].replace('Z', ''), '%Y%m%dT%H%M%S.%f').replace(tzinfo=timezone.utc)
-        cutoff_date = datetime(2024, 10, 5, tzinfo=timezone.utc)
+        cutoff_date = datetime(2024, 11, 1, tzinfo=timezone.utc)
 
         if battle_datetime < cutoff_date:
             continue
@@ -139,17 +139,8 @@ async def main():
 
             workers = []
 
-            # Less workers in the beginning to prevent rate limiting from Brawl Stars API
-            # First 10 seconds of processing is usually very fast
+            # Create 16 workers
             logger.info("Creating first batch of workers...")
-            for _ in range(16):
-                workers.append(asyncio.create_task(worker()))
-
-            # Wait 10 seconds before creating more workers
-            time.sleep(10)
-
-            # Create more workers
-            logger.info("Creating second batch of workers...")
             for _ in range(16):
                 workers.append(asyncio.create_task(worker()))
             

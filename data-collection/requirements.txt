@@ -2,3 +2,4 @@ asyncpg
 aiohttp
 logging
 json
+aiofiles
