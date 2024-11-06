@@ -1,8 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { use } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface BrawlerStats {
   brawler: string;
@@ -24,7 +25,7 @@ export default function MapPage({ params }: MapPageProps) {
   const [minGames, setMinGames] = useState(500);
   
   // Fetch data when trophy level changes
-  const fetchData = async (level: number) => {
+  const fetchData = useCallback(async (level: number) => {
     try {
       const response = await fetch(`/data/${gameMode}/${mapName}/${level}-trophies.json`);
       if (!response.ok) throw new Error('Data not found');
@@ -34,12 +35,12 @@ export default function MapPage({ params }: MapPageProps) {
       console.error('Error fetching data:', error);
       setStats([]);
     }
-  };
+  }, [gameMode, mapName]);
 
   // Initial data fetch
   useEffect(() => {
     fetchData(700);
-  }, [gameMode, mapName]);
+  }, [gameMode, mapName, fetchData]);
 
   // Update data when trophy level changes
   const handleTrophyLevelChange = (level: number) => {
@@ -146,9 +147,11 @@ export default function MapPage({ params }: MapPageProps) {
               >
                 <div className="flex items-center p-1.5">
                   <div className="h-12 w-12 flex-shrink-0">
-                    <img
+                    <Image
                       src={`/characters/${stat.brawler.toLowerCase().replace(/[ .-]/g, '')}_portrait.png`}
                       alt={stat.brawler}
+                      width={48}
+                      height={48}
                       className="w-full h-full object-contain"
                     />
                   </div>
@@ -196,9 +199,11 @@ export default function MapPage({ params }: MapPageProps) {
                   >
                     <div className="flex items-center p-1.5">
                       <div className="h-12 w-12 flex-shrink-0">
-                        <img
+                        <Image
                           src={`/characters/${stat.brawler.toLowerCase().replace(/[ .-]/g, '')}_portrait.png`}
                           alt={stat.brawler}
+                          width={48}
+                          height={48}
                           className="w-full h-full object-contain"
                         />
                       </div>

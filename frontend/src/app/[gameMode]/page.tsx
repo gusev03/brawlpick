@@ -17,8 +17,8 @@ async function getMapsForGameMode(gameMode: string) {
   try {
     const maps = await fs.promises.readdir(gameModeDir);
     return maps;
-  } catch (error) {
-    console.error(`Error reading maps for ${gameMode}:`, error);
+  } catch {
+    console.error(`Error reading maps for ${gameMode}`);
     return [];
   }
 }
