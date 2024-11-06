@@ -30,7 +30,7 @@ async function getMapGames(gameMode: string, mapName: string) {
     const fileContent = await fs.promises.readFile(dataPath, 'utf8');
     const data = JSON.parse(fileContent);
     return data.reduce((total: number, stat: { games_played: number }) => total + stat.games_played, 0);
-  } catch (error) {
+  } catch {
     return 0;
   }
 }
