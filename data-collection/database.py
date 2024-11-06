@@ -21,8 +21,8 @@ class Database:
             database=os.getenv('POSTGRES_DB'),
             host=os.getenv('POSTGRES_HOST'),
             port=os.getenv('POSTGRES_PORT'),
-            min_size=1,
-            max_size=16
+            min_size=10,
+            max_size=20
         )
 
     async def initialize_table(self):

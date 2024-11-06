@@ -108,7 +108,7 @@ export default function MapPage({ params }: MapPageProps) {
           </div>
 
           <div className="flex items-center gap-2">
-            <span className="text-sm text-gray-600 dark:text-gray-400">Min Games:</span>
+            <span className="text-sm text-gray-600 dark:text-gray-400">Minimum Games:</span>
             <div className="inline-flex rounded-lg shadow-sm bg-white dark:bg-gray-800">
               {[100, 250, 500, 1000, 2000].map((value) => (
                 <button

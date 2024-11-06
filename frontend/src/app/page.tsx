@@ -10,7 +10,7 @@ export default function Home() {
             Brawl Pick
           </h1>
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            Last updated November 3rd, 2024
+            Last updated November 5th, 2024
           </p>
         </div>
         <div className="grid grid-cols-2 gap-6">
@@ -19,10 +19,9 @@ export default function Home() {
             { mode: 'gemgrab', icon: '/game_modes/gem_grab_icon.png', label: 'Gem Grab' },
             { mode: 'heist', icon: '/game_modes/heist_icon.png', label: 'Heist' },
             { mode: 'knockout', icon: '/game_modes/knock_out_icon.png', label: 'Knock Out' },
-            { mode: 'bounty', icon: '/game_modes/bounty_icon.png', label: 'Bounty' },
             { mode: 'hotzone', icon: '/game_modes/hot_zone_icon.png', label: 'Hot Zone' },
             { mode: 'payload', icon: '/game_modes/payload_icon.png', label: 'Payload' },
-            { mode: 'zombieplunder', icon: '/game_modes/zombie_plunder_icon.png', label: 'Zombie Plunder' },
+            { mode: 'trophythieves', icon: '/game_modes/zombie_plunder_icon.png', label: 'Zombie Plunder' },
             { mode: 'volleybrawl', icon: '/game_modes/volley_brawl_icon.png', label: 'Volley Brawl' }
           ].map(({ mode, icon, label }) => (
             <Link

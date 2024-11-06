@@ -1,0 +1,47 @@
+[
+    {
+        "brawler": "BULL",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "CLANCY",
+        "games_played": 2,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "CORDELIUS",
+        "games_played": 2,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "FRANK",
+        "games_played": 2,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "JESSIE",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "MOE",
+        "games_played": 2,
+        "win_rate": 0.5
+    },
+    {
+        "brawler": "SPROUT",
+        "games_played": 2,
+        "win_rate": 0.5
+    },
+    {
+        "brawler": "CHESTER",
+        "games_played": 1,
+        "win_rate": 0.0
+    },
+    {
+        "brawler": "STU",
+        "games_played": 1,
+        "win_rate": 0.0
+    }
+]

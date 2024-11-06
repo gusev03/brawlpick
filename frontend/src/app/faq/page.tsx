@@ -16,23 +16,23 @@ export default function FAQ() {
         
         <div className="space-y-6">
           <div className="p-6 rounded-lg border border-black/[.08] dark:border-white/[.145]">
-            <h2 className="text-xl font-semibold mb-3">What is Brawl Pick?</h2>
+            <h2 className="text-xl font-semibold mb-3">Question 1</h2>
             <p className="text-gray-700 dark:text-gray-300">
-              Brawl Pick is a tool that helps Brawl Stars players make informed decisions about which brawlers to pick in different game modes.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
           </div>
 
           <div className="p-6 rounded-lg border border-black/[.08] dark:border-white/[.145]">
-            <h2 className="text-xl font-semibold mb-3">How are the statistics calculated?</h2>
+            <h2 className="text-xl font-semibold mb-3">Question 2</h2>
             <p className="text-gray-700 dark:text-gray-300">
-              Our statistics are based on analysis of high-trophy matches and competitive play data, updated regularly to reflect the current meta.
+              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
             </p>
           </div>
 
           <div className="p-6 rounded-lg border border-black/[.08] dark:border-white/[.145]">
-            <h2 className="text-xl font-semibold mb-3">How often is the data updated?</h2>
+            <h2 className="text-xl font-semibold mb-3">Question 3</h2>
             <p className="text-gray-700 dark:text-gray-300">
-              The data is updated daily to ensure you have access to the most current meta information.
+              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
             </p>
           </div>
         </div>

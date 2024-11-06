@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import MapImage from '@/components/MapImage';
 
 interface GameModePageProps {
   params: Promise<{
@@ -34,23 +35,28 @@ async function getMapGames(gameMode: string, mapName: string) {
   }
 }
 
+const gameModeLabels: { [key: string]: string } = {
+  brawlball: 'Brawl Ball',
+  gemgrab: 'Gem Grab',
+  heist: 'Heist',
+  knockout: 'Knock Out',
+  bounty: 'Bounty',
+  hotzone: 'Hot Zone',
+  trophythieves: 'Zombie Plunder',
+  payload: 'Payload',
+  volleybrawl: 'Volley Brawl'
+};
+
+function getMapImagePath(gameMode: string, mapName: string): string {
+  const formattedGameMode = gameModeLabels[gameMode].toLowerCase().replace(/ /g, '_');
+  const formattedMapName = mapName.toLowerCase().replace(/ /g, '_');
+  return `/game_maps/${formattedGameMode}/${formattedMapName}.png`;
+}
+
 export default async function GameModePage({ params }: GameModePageProps) {
   const { gameMode } = await params;
   
-  const validGameModes = ['brawlball', 'gemgrab', 'heist', 'knockout', 'bounty', 'hotzone', 'zombieplunder', 'payload', 'volleybrawl'];
-  
-  const gameModeLabels: { [key: string]: string } = {
-    brawlball: 'Brawl Ball',
-    gemgrab: 'Gem Grab',
-    heist: 'Heist',
-    knockout: 'Knock Out',
-    bounty: 'Bounty',
-    hotzone: 'Hot Zone',
-    duels: 'Duels',
-    basketbrawl: 'Basket Brawl',
-    volleybrawl: 'Volley Brawl'
-  };
-  
+  const validGameModes = ['brawlball', 'gemgrab', 'heist', 'knockout', 'bounty', 'hotzone', 'trophythieves', 'payload', 'volleybrawl'];
   
   if (!validGameModes.includes(gameMode)) {
     notFound();
@@ -65,10 +71,17 @@ export default async function GameModePage({ params }: GameModePageProps) {
       name: map,
       games: await getMapGames(gameMode, map)
     }))
-  );
+  ).then(stats => stats.filter(map => map.games >= 100000));  // Filter maps with < 100k games
 
   return (
     <main className="container mx-auto px-4 py-8">
+      <Link
+        href="/"
+        className="inline-block mb-6 text-blue-600 dark:text-blue-400 hover:underline"
+      >
+        ← Back to Home
+      </Link>
+      
       <h1 className="text-3xl font-bold mb-6">{gameModeLabels[gameMode]}</h1>
       
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -78,9 +91,15 @@ export default async function GameModePage({ params }: GameModePageProps) {
           <Link
             key={name}
             href={`/${gameMode}/${name}`}
-            className="p-6 rounded-lg border border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
+            className="p-4 rounded-lg border border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
           >
-            <h2 className="text-xl font-semibold mb-2">
+            <div className="aspect-[4/3] mb-3 overflow-hidden rounded-lg bg-gray-100 dark:bg-gray-800">
+              <MapImage
+                src={getMapImagePath(gameMode, name)}
+                alt={`${name} map`}
+              />
+            </div>
+            <h2 className="text-lg font-semibold mb-1">
               {name.split('_').map(word => 
                 word.charAt(0).toUpperCase() + word.slice(1)
               ).join(' ')}
