@@ -48,9 +48,20 @@ const gameModeLabels: { [key: string]: string } = {
 };
 
 function getMapImagePath(gameMode: string, mapName: string): string {
-  const formattedGameMode = gameModeLabels[gameMode].toLowerCase().replace(/ /g, '_');
+  const gameModeToFolder: { [key: string]: string } = {
+    brawlball: 'brawl_ball',
+    gemgrab: 'gem_grab',
+    heist: 'heist',
+    knockout: 'knock_out',
+    bounty: 'bounty',
+    hotzone: 'hot_zone',
+    trophythieves: 'zombie_plunder',
+    payload: 'payload',
+    volleybrawl: 'volley_brawl'
+  };
+
   const formattedMapName = mapName.toLowerCase().replace(/ /g, '_');
-  return `/game_maps/${formattedGameMode}/${formattedMapName}.png`;
+  return `/game_maps/${gameModeToFolder[gameMode]}/${formattedMapName}.png`;
 }
 
 export default async function GameModePage({ params }: GameModePageProps) {
