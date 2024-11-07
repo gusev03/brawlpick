@@ -16,16 +16,26 @@
     },
     {
         "brawler": "DARRYL",
-        "games_played": 2,
-        "win_rate": 1.0
-    },
-    {
-        "brawler": "FRANK",
         "games_played": 3,
         "win_rate": 1.0
     },
     {
+        "brawler": "FANG",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "FRANK",
+        "games_played": 4,
+        "win_rate": 1.0
+    },
+    {
         "brawler": "GALE",
+        "games_played": 2,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "KENJI",
         "games_played": 1,
         "win_rate": 1.0
     },

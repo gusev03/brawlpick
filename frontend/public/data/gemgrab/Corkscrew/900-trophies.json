@@ -30,12 +30,22 @@
         "win_rate": 1.0
     },
     {
+        "brawler": "GALE",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "GUS",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
         "brawler": "MANDY",
         "games_played": 1,
         "win_rate": 1.0
     },
     {
-        "brawler": "POCO",
+        "brawler": "MOE",
         "games_played": 1,
         "win_rate": 1.0
     },
@@ -50,17 +60,17 @@
         "win_rate": 0.6666666666666666
     },
     {
+        "brawler": "CROW",
+        "games_played": 6,
+        "win_rate": 0.6666666666666666
+    },
+    {
         "brawler": "FANG",
         "games_played": 9,
         "win_rate": 0.6666666666666666
     },
     {
         "brawler": "JESSIE",
-        "games_played": 3,
-        "win_rate": 0.6666666666666666
-    },
-    {
-        "brawler": "KENJI",
         "games_played": 3,
         "win_rate": 0.6666666666666666
     },
@@ -80,11 +90,6 @@
         "win_rate": 0.6
     },
     {
-        "brawler": "CROW",
-        "games_played": 5,
-        "win_rate": 0.6
-    },
-    {
         "brawler": "ASH",
         "games_played": 7,
         "win_rate": 0.5714285714285714
@@ -95,17 +100,22 @@
         "win_rate": 0.5
     },
     {
-        "brawler": "RICO",
+        "brawler": "KENJI",
+        "games_played": 4,
+        "win_rate": 0.5
+    },
+    {
+        "brawler": "POCO",
         "games_played": 2,
         "win_rate": 0.5
     },
     {
-        "brawler": "STU",
-        "games_played": 6,
-        "win_rate": 0.5
+        "brawler": "MORTIS",
+        "games_played": 9,
+        "win_rate": 0.4444444444444444
     },
     {
-        "brawler": "MORTIS",
+        "brawler": "STU",
         "games_played": 7,
         "win_rate": 0.42857142857142855
     },
@@ -116,6 +126,11 @@
     },
     {
         "brawler": "DARRYL",
+        "games_played": 3,
+        "win_rate": 0.3333333333333333
+    },
+    {
+        "brawler": "RICO",
         "games_played": 3,
         "win_rate": 0.3333333333333333
     },
@@ -136,6 +151,11 @@
     },
     {
         "brawler": "GRAY",
+        "games_played": 1,
+        "win_rate": 0.0
+    },
+    {
+        "brawler": "LARRY & LAWRIE",
         "games_played": 1,
         "win_rate": 0.0
     },

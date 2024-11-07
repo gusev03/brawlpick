@@ -11,7 +11,12 @@
     },
     {
         "brawler": "GENE",
-        "games_played": 3,
+        "games_played": 4,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "GRAY",
+        "games_played": 1,
         "win_rate": 1.0
     },
     {
@@ -21,12 +26,12 @@
     },
     {
         "brawler": "LILY",
-        "games_played": 1,
+        "games_played": 2,
         "win_rate": 1.0
     },
     {
         "brawler": "MANDY",
-        "games_played": 1,
+        "games_played": 2,
         "win_rate": 1.0
     },
     {
@@ -41,12 +46,12 @@
     },
     {
         "brawler": "PIPER",
-        "games_played": 2,
+        "games_played": 3,
         "win_rate": 1.0
     },
     {
         "brawler": "GROM",
-        "games_played": 1,
+        "games_played": 2,
         "win_rate": 0.0
     },
     {

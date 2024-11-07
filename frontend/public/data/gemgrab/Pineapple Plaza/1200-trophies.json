@@ -45,6 +45,16 @@
         "win_rate": 1.0
     },
     {
+        "brawler": "MR. P",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
+        "brawler": "OTIS",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
         "brawler": "PENNY",
         "games_played": 1,
         "win_rate": 1.0
@@ -55,24 +65,19 @@
         "win_rate": 1.0
     },
     {
-        "brawler": "PIPER",
-        "games_played": 27,
-        "win_rate": 0.9629629629629629
-    },
-    {
         "brawler": "SURGE",
         "games_played": 15,
         "win_rate": 0.9333333333333333
     },
     {
-        "brawler": "MORTIS",
-        "games_played": 10,
-        "win_rate": 0.9
+        "brawler": "PIPER",
+        "games_played": 28,
+        "win_rate": 0.9285714285714286
     },
     {
         "brawler": "RICO",
-        "games_played": 26,
-        "win_rate": 0.8846153846153846
+        "games_played": 27,
+        "win_rate": 0.8888888888888888
     },
     {
         "brawler": "8-BIT",
@@ -81,13 +86,23 @@
     },
     {
         "brawler": "MOE",
-        "games_played": 26,
-        "win_rate": 0.8461538461538461
+        "games_played": 27,
+        "win_rate": 0.8518518518518519
+    },
+    {
+        "brawler": "MORTIS",
+        "games_played": 11,
+        "win_rate": 0.8181818181818182
     },
     {
         "brawler": "STU",
-        "games_played": 9,
-        "win_rate": 0.7777777777777778
+        "games_played": 10,
+        "win_rate": 0.7
+    },
+    {
+        "brawler": "KENJI",
+        "games_played": 5,
+        "win_rate": 0.6
     },
     {
         "brawler": "DARRYL",
@@ -105,8 +120,8 @@
         "win_rate": 0.5
     },
     {
-        "brawler": "KENJI",
-        "games_played": 4,
+        "brawler": "MAX",
+        "games_played": 2,
         "win_rate": 0.5
     },
     {
@@ -131,11 +146,6 @@
     },
     {
         "brawler": "LEON",
-        "games_played": 1,
-        "win_rate": 0.0
-    },
-    {
-        "brawler": "MAX",
         "games_played": 1,
         "win_rate": 0.0
     }

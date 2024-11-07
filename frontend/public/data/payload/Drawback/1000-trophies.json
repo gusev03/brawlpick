@@ -36,8 +36,8 @@
     },
     {
         "brawler": "FRANK",
-        "games_played": 5,
-        "win_rate": 0.8
+        "games_played": 6,
+        "win_rate": 0.6666666666666666
     },
     {
         "brawler": "MOE",
@@ -61,6 +61,11 @@
     },
     {
         "brawler": "JUJU",
+        "games_played": 2,
+        "win_rate": 0.5
+    },
+    {
+        "brawler": "KENJI",
         "games_played": 2,
         "win_rate": 0.5
     },

@@ -1,5 +1,10 @@
 [
     {
+        "brawler": "BERRY",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
         "brawler": "BIBI",
         "games_played": 1,
         "win_rate": 1.0
@@ -75,6 +80,11 @@
         "win_rate": 1.0
     },
     {
+        "brawler": "PEARL",
+        "games_played": 1,
+        "win_rate": 1.0
+    },
+    {
         "brawler": "R-T",
         "games_played": 1,
         "win_rate": 1.0
@@ -85,14 +95,14 @@
         "win_rate": 0.9444444444444444
     },
     {
-        "brawler": "JESSIE",
+        "brawler": "CROW",
         "games_played": 17,
         "win_rate": 0.9411764705882353
     },
     {
-        "brawler": "CROW",
-        "games_played": 16,
-        "win_rate": 0.9375
+        "brawler": "JESSIE",
+        "games_played": 17,
+        "win_rate": 0.9411764705882353
     },
     {
         "brawler": "PIPER",
@@ -101,8 +111,8 @@
     },
     {
         "brawler": "SANDY",
-        "games_played": 34,
-        "win_rate": 0.9117647058823529
+        "games_played": 35,
+        "win_rate": 0.9142857142857143
     },
     {
         "brawler": "PENNY",
@@ -115,28 +125,28 @@
         "win_rate": 0.8888888888888888
     },
     {
-        "brawler": "TARA",
-        "games_played": 50,
-        "win_rate": 0.88
-    },
-    {
         "brawler": "MOE",
-        "games_played": 58,
-        "win_rate": 0.8620689655172413
+        "games_played": 60,
+        "win_rate": 0.8666666666666667
     },
     {
-        "brawler": "GUS",
-        "games_played": 35,
+        "brawler": "TARA",
+        "games_played": 52,
+        "win_rate": 0.8653846153846154
+    },
+    {
+        "brawler": "STU",
+        "games_played": 7,
         "win_rate": 0.8571428571428571
-    },
-    {
-        "brawler": "SURGE",
-        "games_played": 50,
-        "win_rate": 0.84
     },
     {
         "brawler": "GALE",
         "games_played": 6,
+        "win_rate": 0.8333333333333334
+    },
+    {
+        "brawler": "GUS",
+        "games_played": 36,
         "win_rate": 0.8333333333333334
     },
     {
@@ -145,14 +155,9 @@
         "win_rate": 0.8333333333333334
     },
     {
-        "brawler": "STU",
-        "games_played": 6,
-        "win_rate": 0.8333333333333334
-    },
-    {
-        "brawler": "GENE",
-        "games_played": 66,
-        "win_rate": 0.803030303030303
+        "brawler": "SURGE",
+        "games_played": 52,
+        "win_rate": 0.8269230769230769
     },
     {
         "brawler": "BULL",
@@ -160,19 +165,24 @@
         "win_rate": 0.8
     },
     {
+        "brawler": "GENE",
+        "games_played": 67,
+        "win_rate": 0.7910447761194029
+    },
+    {
+        "brawler": "KENJI",
+        "games_played": 19,
+        "win_rate": 0.7894736842105263
+    },
+    {
         "brawler": "CHESTER",
         "games_played": 18,
         "win_rate": 0.7777777777777778
     },
     {
-        "brawler": "KENJI",
-        "games_played": 18,
-        "win_rate": 0.7777777777777778
-    },
-    {
-        "brawler": "MORTIS",
-        "games_played": 66,
-        "win_rate": 0.7575757575757576
+        "brawler": "AMBER",
+        "games_played": 28,
+        "win_rate": 0.75
     },
     {
         "brawler": "KIT",
@@ -180,9 +190,9 @@
         "win_rate": 0.75
     },
     {
-        "brawler": "AMBER",
-        "games_played": 27,
-        "win_rate": 0.7407407407407407
+        "brawler": "MORTIS",
+        "games_played": 68,
+        "win_rate": 0.75
     },
     {
         "brawler": "BO",
@@ -195,19 +205,19 @@
         "win_rate": 0.6666666666666666
     },
     {
+        "brawler": "ROSA",
+        "games_played": 8,
+        "win_rate": 0.625
+    },
+    {
         "brawler": "LILY",
         "games_played": 7,
         "win_rate": 0.5714285714285714
     },
     {
-        "brawler": "ROSA",
-        "games_played": 7,
-        "win_rate": 0.5714285714285714
-    },
-    {
         "brawler": "CLANCY",
-        "games_played": 18,
-        "win_rate": 0.5555555555555556
+        "games_played": 19,
+        "win_rate": 0.5263157894736842
     },
     {
         "brawler": "BUZZ",

@@ -21,7 +21,7 @@
     },
     {
         "brawler": "BYRON",
-        "games_played": 3,
+        "games_played": 4,
         "win_rate": 1.0
     },
     {
@@ -46,7 +46,7 @@
     },
     {
         "brawler": "JUJU",
-        "games_played": 12,
+        "games_played": 15,
         "win_rate": 1.0
     },
     {
@@ -71,8 +71,8 @@
     },
     {
         "brawler": "GUS",
-        "games_played": 9,
-        "win_rate": 0.7777777777777778
+        "games_played": 10,
+        "win_rate": 0.8
     },
     {
         "brawler": "STU",
@@ -80,12 +80,22 @@
         "win_rate": 0.75
     },
     {
-        "brawler": "BO",
-        "games_played": 2,
-        "win_rate": 0.5
+        "brawler": "CHESTER",
+        "games_played": 3,
+        "win_rate": 0.6666666666666666
     },
     {
-        "brawler": "CHESTER",
+        "brawler": "MELODIE",
+        "games_played": 3,
+        "win_rate": 0.6666666666666666
+    },
+    {
+        "brawler": "PENNY",
+        "games_played": 7,
+        "win_rate": 0.5714285714285714
+    },
+    {
+        "brawler": "BO",
         "games_played": 2,
         "win_rate": 0.5
     },
@@ -97,16 +107,6 @@
     {
         "brawler": "KENJI",
         "games_played": 4,
-        "win_rate": 0.5
-    },
-    {
-        "brawler": "MELODIE",
-        "games_played": 2,
-        "win_rate": 0.5
-    },
-    {
-        "brawler": "PENNY",
-        "games_played": 6,
         "win_rate": 0.5
     },
     {
