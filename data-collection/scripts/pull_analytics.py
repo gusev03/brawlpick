@@ -134,7 +134,7 @@ async def main():
         data_teams = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
         
         for record in team_records:
-            game_mode = record['game_mode']
+            game_mode = record['game_mode'].lower()
             game_map = record['game_map']
             bucket = record['bucket']
             team = record['team']
