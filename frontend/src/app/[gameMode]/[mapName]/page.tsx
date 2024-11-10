@@ -44,25 +44,39 @@ export default function MapPage({ params }: MapPageProps) {
     try {
       let endpoint;
       const subFolder = viewMode === 'trophies' || viewMode === 'teams' ? 'trophies' : 'ranked';
+      const decodedMapName = decodeURIComponent(mapName);
+      const encodedMapName = encodeURIComponent(decodedMapName);
+      const gameModeFolder = gameMode.toLowerCase();
       
       if (viewMode === 'ranked') {
-        endpoint = `/data/${gameMode}/${mapName}/ranked/brawler-${rank}-rank.json`;
+        endpoint = `/data/${gameModeFolder}/${encodedMapName}/ranked/brawler-${rank}-rank.json`;
       } else if (viewMode === 'teams') {
-        endpoint = `/data/${gameMode}/${mapName}/${subFolder}/team-${level}-trophies.json`;
+        endpoint = `/data/${gameModeFolder}/${encodedMapName}/${subFolder}/team-${level}-trophies.json`;
       } else {
-        endpoint = `/data/${gameMode}/${mapName}/${subFolder}/brawler-${level}-trophies.json`;
+        endpoint = `/data/${gameModeFolder}/${encodedMapName}/${subFolder}/brawler-${level}-trophies.json`;
       }
       
+      console.log('Attempting to fetch:', endpoint);
       const response = await fetch(endpoint);
-      if (!response.ok) throw new Error('Data not found');
+      if (!response.ok) {
+        console.error('Response not OK:', response.status, response.statusText);
+        throw new Error(`Data not found: ${response.status}`);
+      }
       const data = await response.json();
+      console.log('Data fetched successfully');
+      
       if (viewMode === 'teams') {
         setTeamStats(data);
       } else {
         setStats(data);
       }
     } catch (error) {
-      console.error('Error fetching data:', error);
+      console.error('Error fetching data:', error, {
+        gameMode,
+        mapName,
+        viewMode,
+        level
+      });
       if (viewMode === 'teams') {
         setTeamStats([]);
       } else {
@@ -74,13 +88,24 @@ export default function MapPage({ params }: MapPageProps) {
   useEffect(() => {
     const checkDataAvailability = async () => {
       try {
-        const trophyResponse = await fetch(`/data/${gameMode}/${mapName}/trophies/brawler-700-trophies.json`);
+        const decodedMapName = decodeURIComponent(mapName);
+        const encodedMapName = encodeURIComponent(decodedMapName);
+        const gameModeFolder = gameMode.toLowerCase();
+
+        console.log('Checking availability for:', {
+          gameMode: gameModeFolder,
+          mapName: encodedMapName
+        });
+
+        const trophyResponse = await fetch(`/data/${gameModeFolder}/${encodedMapName}/trophies/brawler-700-trophies.json`);
         const hasTrophy = trophyResponse.ok;
         setHasTrophyData(hasTrophy);
+        console.log('Trophy data available:', hasTrophy);
 
-        const rankedResponse = await fetch(`/data/${gameMode}/${mapName}/ranked/brawler-10-rank.json`);
+        const rankedResponse = await fetch(`/data/${gameModeFolder}/${encodedMapName}/ranked/brawler-10-rank.json`);
         const hasRanked = rankedResponse.ok;
         setHasRankedData(hasRanked);
+        console.log('Ranked data available:', hasRanked);
 
         if (!viewMode) {
           if (hasTrophy) {
