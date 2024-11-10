@@ -1,0 +1,362 @@
+[
+    {
+        "team": [
+            "CARL",
+            "FRANK",
+            "GROM"
+        ],
+        "games_played": 916,
+        "win_rate": 0.9126637554585153
+    },
+    {
+        "team": [
+            "BERRY",
+            "BIBI",
+            "CARL"
+        ],
+        "games_played": 334,
+        "win_rate": 0.8143712574850299
+    },
+    {
+        "team": [
+            "FRANK",
+            "GROM",
+            "KENJI"
+        ],
+        "games_played": 776,
+        "win_rate": 0.7925257731958762
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "GROM"
+        ],
+        "games_played": 817,
+        "win_rate": 0.7503059975520195
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "GROM"
+        ],
+        "games_played": 462,
+        "win_rate": 0.7445887445887446
+    },
+    {
+        "team": [
+            "FRANK",
+            "GROM",
+            "SURGE"
+        ],
+        "games_played": 347,
+        "win_rate": 0.7204610951008645
+    },
+    {
+        "team": [
+            "GROM",
+            "KENJI",
+            "PENNY"
+        ],
+        "games_played": 440,
+        "win_rate": 0.7204545454545455
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "PENNY"
+        ],
+        "games_played": 437,
+        "win_rate": 0.7025171624713958
+    },
+    {
+        "team": [
+            "FRANK",
+            "GROM",
+            "PENNY"
+        ],
+        "games_played": 322,
+        "win_rate": 0.6770186335403726
+    },
+    {
+        "team": [
+            "BIBI",
+            "GROM",
+            "PENNY"
+        ],
+        "games_played": 304,
+        "win_rate": 0.6743421052631579
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
+            "PENNY"
+        ],
+        "games_played": 349,
+        "win_rate": 0.6446991404011462
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "GROM"
+        ],
+        "games_played": 400,
+        "win_rate": 0.63
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "FRANK"
+        ],
+        "games_played": 399,
+        "win_rate": 0.6190476190476191
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "MICO"
+        ],
+        "games_played": 400,
+        "win_rate": 0.615
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "PENNY"
+        ],
+        "games_played": 566,
+        "win_rate": 0.6148409893992933
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "KENJI",
+            "PENNY"
+        ],
+        "games_played": 320,
+        "win_rate": 0.6125
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "PENNY"
+        ],
+        "games_played": 358,
+        "win_rate": 0.5977653631284916
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "PENNY"
+        ],
+        "games_played": 530,
+        "win_rate": 0.5886792452830188
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "FRANK",
+            "PENNY"
+        ],
+        "games_played": 338,
+        "win_rate": 0.5857988165680473
+    },
+    {
+        "team": [
+            "BIBI",
+            "JESSIE",
+            "PENNY"
+        ],
+        "games_played": 345,
+        "win_rate": 0.5797101449275363
+    },
+    {
+        "team": [
+            "COLT",
+            "GROM",
+            "PENNY"
+        ],
+        "games_played": 469,
+        "win_rate": 0.5778251599147122
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "KENJI"
+        ],
+        "games_played": 472,
+        "win_rate": 0.5699152542372882
+    },
+    {
+        "team": [
+            "COLT",
+            "GROM",
+            "MICO"
+        ],
+        "games_played": 309,
+        "win_rate": 0.56957928802589
+    },
+    {
+        "team": [
+            "FRANK",
+            "JESSIE",
+            "PENNY"
+        ],
+        "games_played": 383,
+        "win_rate": 0.566579634464752
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "PENNY"
+        ],
+        "games_played": 308,
+        "win_rate": 0.564935064935065
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "PENNY"
+        ],
+        "games_played": 580,
+        "win_rate": 0.5620689655172414
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "PENNY"
+        ],
+        "games_played": 681,
+        "win_rate": 0.5477239353891337
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "PENNY"
+        ],
+        "games_played": 525,
+        "win_rate": 0.5428571428571428
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 679,
+        "win_rate": 0.5346097201767305
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "FRANK"
+        ],
+        "games_played": 658,
+        "win_rate": 0.5319148936170213
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "PENNY"
+        ],
+        "games_played": 627,
+        "win_rate": 0.5311004784688995
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "JESSIE"
+        ],
+        "games_played": 368,
+        "win_rate": 0.5135869565217391
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "KENJI"
+        ],
+        "games_played": 308,
+        "win_rate": 0.5097402597402597
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 309,
+        "win_rate": 0.5080906148867314
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "JESSIE"
+        ],
+        "games_played": 353,
+        "win_rate": 0.5070821529745042
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "JESSIE"
+        ],
+        "games_played": 311,
+        "win_rate": 0.5048231511254019
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "PENNY"
+        ],
+        "games_played": 315,
+        "win_rate": 0.5015873015873016
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "DYNAMIKE"
+        ],
+        "games_played": 432,
+        "win_rate": 0.4791666666666667
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "FRANK"
+        ],
+        "games_played": 567,
+        "win_rate": 0.4603174603174603
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "KENJI"
+        ],
+        "games_played": 478,
+        "win_rate": 0.42677824267782427
+    }
+]

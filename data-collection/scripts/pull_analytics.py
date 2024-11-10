@@ -4,8 +4,93 @@ import os
 import json
 from collections import defaultdict
 
-# Trophy buckets: 700+, 800+, ..., 1200+
-TROPHY_BUCKETS = [700, 800, 900, 1000, 1100, 1200]
+TROPHY_BUCKETS = [700, 800, 900, 1000] # Trophy buckets: 700+, 800+, 900+, 1000+
+RANK_BUCKETS = list(range(10, 20))  # 10-19 for Power League ranks
+
+async def fetch_trophy_stats(conn):
+    trophy_query = f"""
+        WITH bucketed_battles AS (
+            SELECT
+                game_mode,
+                game_map,
+                brawler,
+                result,
+                rank,
+                unnest(array{TROPHY_BUCKETS}) AS bucket
+            FROM battles
+            WHERE
+                game_type = 'ranked' AND
+                rank >= ANY(array{TROPHY_BUCKETS})
+        )
+        SELECT
+            game_mode,
+            game_map,
+            bucket,
+            brawler,
+            COUNT(*) AS games_played,
+            SUM(CASE WHEN result = 'victory' THEN 1 ELSE 0 END) AS victories
+        FROM bucketed_battles
+        WHERE rank >= bucket
+        GROUP BY game_mode, game_map, bucket, brawler
+    """
+    return await conn.fetch(trophy_query)
+
+async def fetch_power_league_stats(conn):
+    power_league_query = f"""
+        WITH bucketed_battles AS (
+            SELECT
+                game_mode,
+                game_map,
+                brawler,
+                result,
+                rank,
+                unnest(array{RANK_BUCKETS}) AS bucket
+            FROM battles
+            WHERE
+                game_type = 'soloRanked' AND
+                rank >= ANY(array{RANK_BUCKETS})
+        )
+        SELECT
+            game_mode,
+            game_map,
+            bucket,
+            brawler,
+            COUNT(*) AS games_played,
+            SUM(CASE WHEN result = 'victory' THEN 1 ELSE 0 END) AS victories
+        FROM bucketed_battles
+        WHERE rank >= bucket
+        GROUP BY game_mode, game_map, bucket, brawler
+    """
+    return await conn.fetch(power_league_query)
+
+async def fetch_team_stats(conn):
+    team_query = f"""
+        WITH bucketed_battles AS (
+            SELECT
+                game_mode,
+                game_map,
+                team,
+                result,
+                rank,
+                unnest(array{TROPHY_BUCKETS}) AS bucket
+            FROM battles
+            WHERE
+                game_type = 'ranked' AND
+                rank >= ANY(array{TROPHY_BUCKETS})
+        )
+        SELECT
+            game_mode,
+            game_map,
+            bucket,
+            team,
+            COUNT(*) AS games_played,
+            SUM(CASE WHEN result = 'victory' THEN 1 ELSE 0 END) AS victories
+        FROM bucketed_battles
+        WHERE rank >= bucket
+        GROUP BY game_mode, game_map, bucket, team
+        HAVING COUNT(*) >= 300
+    """
+    return await conn.fetch(team_query)
 
 async def main():
     # Check environment variables
@@ -33,92 +118,105 @@ async def main():
 
     try:
         print("\nConnection successful.")
+        print("\nExecuting queries...")
+        
+        trophy_records = await fetch_trophy_stats(conn)
+        power_league_records = await fetch_power_league_stats(conn)
+        team_records = await fetch_team_stats(conn)
 
-        # Prepare the SQL query
-        # We'll generate a CTE that computes the applicable trophy buckets for each battle
-        sql_query = f"""
-            WITH bucketed_battles AS (
-                SELECT
-                    game_mode,
-                    game_map,
-                    brawler,
-                    result,
-                    rank,
-                    unnest(array{TROPHY_BUCKETS}) AS bucket
-                FROM battles
-                WHERE
-                    game_type = 'ranked' AND
-                    rank >= ANY(array{TROPHY_BUCKETS})
-            )
-            SELECT
-                game_mode,
-                game_map,
-                bucket,
-                brawler,
-                COUNT(*) AS games_played,
-                SUM(CASE WHEN result = 'victory' THEN 1 ELSE 0 END) AS victories
-            FROM bucketed_battles
-            WHERE rank >= bucket
-            GROUP BY game_mode, game_map, bucket, brawler
-        """
+        # Process trophy records
+        process_brawler_records(trophy_records, 'trophies')
 
-        print("\nExecuting aggregation query...")
-        records = await conn.fetch(sql_query)
+        # Process Power League records
+        process_brawler_records(power_league_records, 'ranked')
 
-        if not records:
-            print("No data found.")
-            return
-
-        print("\nProcessing records and writing JSON files...")
-
-        # Organize data into a nested dictionary
-        # data[game_mode][game_map][bucket] = list of brawler stats
-        data = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
-
-        for record in records:
+        # Process team records
+        data_teams = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+        
+        for record in team_records:
             game_mode = record['game_mode']
             game_map = record['game_map']
             bucket = record['bucket']
-            brawler = record['brawler']
+            team = record['team']
             games_played = record['games_played']
             victories = record['victories']
             win_rate = victories / games_played if games_played > 0 else 0
 
-            data[game_mode][game_map][bucket].append({
-                'brawler': brawler,
+            data_teams[game_mode][game_map][bucket].append({
+                'team': json.loads(team),
                 'games_played': games_played,
                 'win_rate': win_rate
             })
 
-        # Write data to JSON files
-        for game_mode, maps in data.items():
+        # Modified team data writing
+        for game_mode, maps in data_teams.items():
             if game_mode is None:
                 continue
             for game_map, buckets in maps.items():
                 if game_map is None:
                     continue
-                for bucket, brawler_stats in buckets.items():
+                for bucket, team_stats in buckets.items():
                     if bucket is None:
                         continue
-                    
-                    # Sort brawler stats by win rate descending
-                    brawler_stats.sort(key=lambda x: x['win_rate'], reverse=True)
 
-                    # Ensure directory exists
-                    directory = os.path.join('data', str(game_mode), str(game_map))
+                    # Sort team stats by win rate descending
+                    team_stats.sort(key=lambda x: x['win_rate'], reverse=True)
+
+                    directory = os.path.join('data', str(game_mode), str(game_map), 'trophies')
                     os.makedirs(directory, exist_ok=True)
 
-                    # Write to JSON file
-                    file_path = os.path.join(directory, f'{bucket}-trophies.json')
+                    # Write to JSON file with trophy bucket in filename
+                    file_path = os.path.join(directory, f'team-{bucket}-trophies.json')
                     with open(file_path, 'w') as f:
-                        json.dump(brawler_stats, f, indent=4)
+                        json.dump(team_stats, f, indent=4)
 
-                    print(f"✅ Written data to {file_path}")
+                    print(f"✅ Written team data to {file_path}")
 
     except Exception as e:
         print(f"\n❌ Error: {e}")
     finally:
         await conn.close()
+
+def process_brawler_records(records, mode_type):
+    data = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    
+    for record in records:
+        game_mode = record['game_mode']
+        game_map = record['game_map']
+        bucket = record['bucket']
+        brawler = record['brawler']
+        games_played = record['games_played']
+        victories = record['victories']
+        win_rate = victories / games_played if games_played > 0 else 0
+
+        data[game_mode][game_map][bucket].append({
+            'brawler': brawler,
+            'games_played': games_played // 3,
+            'win_rate': win_rate
+        })
+
+    for game_mode, maps in data.items():
+        if game_mode is None:
+            continue
+        for game_map, buckets in maps.items():
+            if game_map is None:
+                continue
+            for bucket, brawler_stats in buckets.items():
+                if bucket is None:
+                    continue
+
+                brawler_stats.sort(key=lambda x: x['win_rate'], reverse=True)
+                
+                directory = os.path.join('data', str(game_mode), str(game_map), mode_type)
+                os.makedirs(directory, exist_ok=True)
+
+                suffix = 'rank' if mode_type == 'ranked' else 'trophies'
+                file_path = os.path.join(directory, f'brawler-{bucket}-{suffix}.json')
+                
+                with open(file_path, 'w') as f:
+                    json.dump(brawler_stats, f, indent=4)
+
+                print(f"✅ Written data to {file_path}")
 
 if __name__ == "__main__":
     asyncio.run(main())

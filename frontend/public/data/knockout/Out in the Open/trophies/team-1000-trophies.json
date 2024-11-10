@@ -1,0 +1,29 @@
+[
+    {
+        "team": [
+            "ANGELO",
+            "GUS",
+            "PIPER"
+        ],
+        "games_played": 301,
+        "win_rate": 0.6810631229235881
+    },
+    {
+        "team": [
+            "ANGELO",
+            "MANDY",
+            "PIPER"
+        ],
+        "games_played": 330,
+        "win_rate": 0.5606060606060606
+    },
+    {
+        "team": [
+            "BROCK",
+            "MANDY",
+            "PIPER"
+        ],
+        "games_played": 314,
+        "win_rate": 0.4585987261146497
+    }
+]

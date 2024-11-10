@@ -1,0 +1,38 @@
+[
+    {
+        "team": [
+            "COLT",
+            "GENE",
+            "TICK"
+        ],
+        "games_played": 330,
+        "win_rate": 0.6909090909090909
+    },
+    {
+        "team": [
+            "COLT",
+            "GENE",
+            "GUS"
+        ],
+        "games_played": 338,
+        "win_rate": 0.6804733727810651
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "GENE"
+        ],
+        "games_played": 672,
+        "win_rate": 0.6666666666666666
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "FRANK"
+        ],
+        "games_played": 326,
+        "win_rate": 0.6226993865030674
+    }
+]

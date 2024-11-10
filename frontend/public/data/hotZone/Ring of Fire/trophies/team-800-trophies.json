@@ -1,0 +1,884 @@
+[
+    {
+        "team": [
+            "CLANCY",
+            "KENJI",
+            "POCO"
+        ],
+        "games_played": 375,
+        "win_rate": 0.792
+    },
+    {
+        "team": [
+            "JESSIE",
+            "MORTIS",
+            "POCO"
+        ],
+        "games_played": 372,
+        "win_rate": 0.771505376344086
+    },
+    {
+        "team": [
+            "CROW",
+            "EMZ",
+            "JESSIE"
+        ],
+        "games_played": 303,
+        "win_rate": 0.7425742574257426
+    },
+    {
+        "team": [
+            "FRANK",
+            "JESSIE",
+            "POCO"
+        ],
+        "games_played": 362,
+        "win_rate": 0.7403314917127072
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "POCO"
+        ],
+        "games_played": 593,
+        "win_rate": 0.7268128161888702
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "PENNY"
+        ],
+        "games_played": 325,
+        "win_rate": 0.7230769230769231
+    },
+    {
+        "team": [
+            "BO",
+            "JESSIE",
+            "KENJI"
+        ],
+        "games_played": 310,
+        "win_rate": 0.7161290322580646
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 993,
+        "win_rate": 0.7079556898288016
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "POCO"
+        ],
+        "games_played": 381,
+        "win_rate": 0.7034120734908137
+    },
+    {
+        "team": [
+            "BO",
+            "FRANK",
+            "TICK"
+        ],
+        "games_played": 308,
+        "win_rate": 0.6818181818181818
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "KENJI"
+        ],
+        "games_played": 456,
+        "win_rate": 0.6622807017543859
+    },
+    {
+        "team": [
+            "BIBI",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 395,
+        "win_rate": 0.6582278481012658
+    },
+    {
+        "team": [
+            "FRANK",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 779,
+        "win_rate": 0.6431322207958922
+    },
+    {
+        "team": [
+            "CROW",
+            "KENJI",
+            "POCO"
+        ],
+        "games_played": 341,
+        "win_rate": 0.6363636363636364
+    },
+    {
+        "team": [
+            "BIBI",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 319,
+        "win_rate": 0.6269592476489029
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 1672,
+        "win_rate": 0.6232057416267942
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 328,
+        "win_rate": 0.6219512195121951
+    },
+    {
+        "team": [
+            "FANG",
+            "FRANK",
+            "TICK"
+        ],
+        "games_played": 315,
+        "win_rate": 0.6190476190476191
+    },
+    {
+        "team": [
+            "JESSIE",
+            "MEG",
+            "TICK"
+        ],
+        "games_played": 369,
+        "win_rate": 0.6178861788617886
+    },
+    {
+        "team": [
+            "BO",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 868,
+        "win_rate": 0.6163594470046083
+    },
+    {
+        "team": [
+            "FANG",
+            "JESSIE",
+            "POCO"
+        ],
+        "games_played": 326,
+        "win_rate": 0.6134969325153374
+    },
+    {
+        "team": [
+            "MORTIS",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 625,
+        "win_rate": 0.6128
+    },
+    {
+        "team": [
+            "FRANK",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 337,
+        "win_rate": 0.6083086053412463
+    },
+    {
+        "team": [
+            "KENJI",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 1308,
+        "win_rate": 0.6062691131498471
+    },
+    {
+        "team": [
+            "CLANCY",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 555,
+        "win_rate": 0.6018018018018018
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 423,
+        "win_rate": 0.5981087470449172
+    },
+    {
+        "team": [
+            "BO",
+            "FANG",
+            "TICK"
+        ],
+        "games_played": 551,
+        "win_rate": 0.5898366606170599
+    },
+    {
+        "team": [
+            "KENJI",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 518,
+        "win_rate": 0.5791505791505791
+    },
+    {
+        "team": [
+            "KENJI",
+            "PENNY",
+            "TICK"
+        ],
+        "games_played": 559,
+        "win_rate": 0.5778175313059034
+    },
+    {
+        "team": [
+            "CLANCY",
+            "CROW",
+            "TICK"
+        ],
+        "games_played": 348,
+        "win_rate": 0.5775862068965517
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 589,
+        "win_rate": 0.5755517826825127
+    },
+    {
+        "team": [
+            "POCO",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 544,
+        "win_rate": 0.5716911764705882
+    },
+    {
+        "team": [
+            "CROW",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 845,
+        "win_rate": 0.5715976331360947
+    },
+    {
+        "team": [
+            "CLANCY",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 580,
+        "win_rate": 0.5706896551724138
+    },
+    {
+        "team": [
+            "EMZ",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 675,
+        "win_rate": 0.5674074074074074
+    },
+    {
+        "team": [
+            "GALE",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 382,
+        "win_rate": 0.5654450261780105
+    },
+    {
+        "team": [
+            "CROW",
+            "FRANK",
+            "TICK"
+        ],
+        "games_played": 448,
+        "win_rate": 0.5647321428571429
+    },
+    {
+        "team": [
+            "BO",
+            "PENNY",
+            "TICK"
+        ],
+        "games_played": 362,
+        "win_rate": 0.5607734806629834
+    },
+    {
+        "team": [
+            "MORTIS",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 334,
+        "win_rate": 0.5508982035928144
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 993,
+        "win_rate": 0.5508559919436052
+    },
+    {
+        "team": [
+            "JESSIE",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 751,
+        "win_rate": 0.5472703062583223
+    },
+    {
+        "team": [
+            "FANG",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 654,
+        "win_rate": 0.5458715596330275
+    },
+    {
+        "team": [
+            "BO",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 880,
+        "win_rate": 0.5443181818181818
+    },
+    {
+        "team": [
+            "FRANK",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 742,
+        "win_rate": 0.5417789757412399
+    },
+    {
+        "team": [
+            "FANG",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 685,
+        "win_rate": 0.5416058394160584
+    },
+    {
+        "team": [
+            "JESSIE",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 1246,
+        "win_rate": 0.5401284109149278
+    },
+    {
+        "team": [
+            "CROW",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 1039,
+        "win_rate": 0.5370548604427334
+    },
+    {
+        "team": [
+            "BO",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 577,
+        "win_rate": 0.5320623916811091
+    },
+    {
+        "team": [
+            "CLANCY",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 383,
+        "win_rate": 0.5300261096605744
+    },
+    {
+        "team": [
+            "CROW",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 842,
+        "win_rate": 0.5296912114014252
+    },
+    {
+        "team": [
+            "BO",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 409,
+        "win_rate": 0.5281173594132029
+    },
+    {
+        "team": [
+            "CROW",
+            "JESSIE",
+            "POCO"
+        ],
+        "games_played": 358,
+        "win_rate": 0.5279329608938548
+    },
+    {
+        "team": [
+            "BO",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 351,
+        "win_rate": 0.5270655270655271
+    },
+    {
+        "team": [
+            "GALE",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 308,
+        "win_rate": 0.525974025974026
+    },
+    {
+        "team": [
+            "CLANCY",
+            "COLT",
+            "TICK"
+        ],
+        "games_played": 468,
+        "win_rate": 0.5256410256410257
+    },
+    {
+        "team": [
+            "FRANK",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 346,
+        "win_rate": 0.523121387283237
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "TICK"
+        ],
+        "games_played": 522,
+        "win_rate": 0.5229885057471264
+    },
+    {
+        "team": [
+            "JESSIE",
+            "SANDY",
+            "TICK"
+        ],
+        "games_played": 321,
+        "win_rate": 0.5171339563862928
+    },
+    {
+        "team": [
+            "CROW",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 367,
+        "win_rate": 0.5122615803814714
+    },
+    {
+        "team": [
+            "FANG",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 738,
+        "win_rate": 0.5121951219512195
+    },
+    {
+        "team": [
+            "GALE",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 309,
+        "win_rate": 0.511326860841424
+    },
+    {
+        "team": [
+            "EDGAR",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 520,
+        "win_rate": 0.5096153846153846
+    },
+    {
+        "team": [
+            "FANG",
+            "PENNY",
+            "TICK"
+        ],
+        "games_played": 333,
+        "win_rate": 0.5045045045045045
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "POCO"
+        ],
+        "games_played": 437,
+        "win_rate": 0.4988558352402746
+    },
+    {
+        "team": [
+            "COLT",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 816,
+        "win_rate": 0.48651960784313725
+    },
+    {
+        "team": [
+            "CROW",
+            "FANG",
+            "TICK"
+        ],
+        "games_played": 524,
+        "win_rate": 0.4847328244274809
+    },
+    {
+        "team": [
+            "JESSIE",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 750,
+        "win_rate": 0.4746666666666667
+    },
+    {
+        "team": [
+            "COLT",
+            "CROW",
+            "TICK"
+        ],
+        "games_played": 828,
+        "win_rate": 0.47342995169082125
+    },
+    {
+        "team": [
+            "EMZ",
+            "FANG",
+            "TICK"
+        ],
+        "games_played": 300,
+        "win_rate": 0.47
+    },
+    {
+        "team": [
+            "EMZ",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 414,
+        "win_rate": 0.4613526570048309
+    },
+    {
+        "team": [
+            "CROW",
+            "SPIKE",
+            "TICK"
+        ],
+        "games_played": 388,
+        "win_rate": 0.45618556701030927
+    },
+    {
+        "team": [
+            "FANG",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 340,
+        "win_rate": 0.45588235294117646
+    },
+    {
+        "team": [
+            "EMZ",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 406,
+        "win_rate": 0.45566502463054187
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 1292,
+        "win_rate": 0.4551083591331269
+    },
+    {
+        "team": [
+            "BO",
+            "CROW",
+            "TICK"
+        ],
+        "games_played": 453,
+        "win_rate": 0.45474613686534215
+    },
+    {
+        "team": [
+            "CROW",
+            "EMZ",
+            "TICK"
+        ],
+        "games_played": 474,
+        "win_rate": 0.45147679324894513
+    },
+    {
+        "team": [
+            "EMZ",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 328,
+        "win_rate": 0.45121951219512196
+    },
+    {
+        "team": [
+            "COLT",
+            "FANG",
+            "TICK"
+        ],
+        "games_played": 619,
+        "win_rate": 0.4458804523424879
+    },
+    {
+        "team": [
+            "COLT",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 544,
+        "win_rate": 0.44485294117647056
+    },
+    {
+        "team": [
+            "CROW",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 488,
+        "win_rate": 0.444672131147541
+    },
+    {
+        "team": [
+            "CROW",
+            "PENNY",
+            "TICK"
+        ],
+        "games_played": 375,
+        "win_rate": 0.44266666666666665
+    },
+    {
+        "team": [
+            "KENJI",
+            "SPIKE",
+            "TICK"
+        ],
+        "games_played": 687,
+        "win_rate": 0.4410480349344978
+    },
+    {
+        "team": [
+            "COLT",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 487,
+        "win_rate": 0.4353182751540041
+    },
+    {
+        "team": [
+            "PENNY",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 455,
+        "win_rate": 0.4351648351648352
+    },
+    {
+        "team": [
+            "JESSIE",
+            "SPIKE",
+            "TICK"
+        ],
+        "games_played": 583,
+        "win_rate": 0.4339622641509434
+    },
+    {
+        "team": [
+            "FANG",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 303,
+        "win_rate": 0.42244224422442245
+    },
+    {
+        "team": [
+            "COLT",
+            "CROW",
+            "JESSIE"
+        ],
+        "games_played": 315,
+        "win_rate": 0.4222222222222222
+    },
+    {
+        "team": [
+            "BO",
+            "COLT",
+            "TICK"
+        ],
+        "games_played": 625,
+        "win_rate": 0.4208
+    },
+    {
+        "team": [
+            "JESSIE",
+            "PENNY",
+            "TICK"
+        ],
+        "games_played": 650,
+        "win_rate": 0.42
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 344,
+        "win_rate": 0.3953488372093023
+    },
+    {
+        "team": [
+            "BO",
+            "EMZ",
+            "TICK"
+        ],
+        "games_played": 312,
+        "win_rate": 0.3942307692307692
+    },
+    {
+        "team": [
+            "COLT",
+            "PENNY",
+            "TICK"
+        ],
+        "games_played": 430,
+        "win_rate": 0.3697674418604651
+    },
+    {
+        "team": [
+            "BO",
+            "SPIKE",
+            "TICK"
+        ],
+        "games_played": 304,
+        "win_rate": 0.3684210526315789
+    },
+    {
+        "team": [
+            "POCO",
+            "SPIKE",
+            "TICK"
+        ],
+        "games_played": 512,
+        "win_rate": 0.3515625
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "TICK"
+        ],
+        "games_played": 319,
+        "win_rate": 0.3510971786833856
+    },
+    {
+        "team": [
+            "COLT",
+            "EMZ",
+            "TICK"
+        ],
+        "games_played": 481,
+        "win_rate": 0.3388773388773389
+    },
+    {
+        "team": [
+            "FANG",
+            "SPIKE",
+            "TICK"
+        ],
+        "games_played": 308,
+        "win_rate": 0.33766233766233766
+    },
+    {
+        "team": [
+            "COLT",
+            "SPIKE",
+            "TICK"
+        ],
+        "games_played": 578,
+        "win_rate": 0.32698961937716264
+    }
+]

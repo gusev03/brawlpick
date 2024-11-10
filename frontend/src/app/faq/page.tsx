@@ -14,25 +14,25 @@ export default function FAQ() {
         </div>
         <h1 className="text-3xl font-bold mb-8">Frequently Asked Questions</h1>
         
-        <div className="space-y-6">
-          <div className="p-6 rounded-lg border border-black/[.08] dark:border-white/[.145]">
-            <h2 className="text-xl font-semibold mb-3">Question 1</h2>
+        <div className="divide-y divide-black/[.08] dark:divide-white/[.145]">
+          <div className="py-6">
+            <h2 className="text-xl font-semibold mb-3">Why isn&apos;t today&apos;s game map available?</h2>
             <p className="text-gray-700 dark:text-gray-300">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              The site updates every 12 hours. If a map hasn&apos;t been played since the last balance changes, it won&apos;t show until the site updates again.
             </p>
           </div>
 
-          <div className="p-6 rounded-lg border border-black/[.08] dark:border-white/[.145]">
-            <h2 className="text-xl font-semibold mb-3">Question 2</h2>
+          <div className="py-6">
+            <h2 className="text-xl font-semibold mb-3">Will Solo Showdown, Duo Showdown, and Duels be added?</h2>
             <p className="text-gray-700 dark:text-gray-300">
-              Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              These modes may be added soon, but currently only 3v3 and 5v5 modes are available.
             </p>
           </div>
 
-          <div className="p-6 rounded-lg border border-black/[.08] dark:border-white/[.145]">
-            <h2 className="text-xl font-semibold mb-3">Question 3</h2>
+          <div className="py-6">
+            <h2 className="text-xl font-semibold mb-3">How can I reach the creator?</h2>
             <p className="text-gray-700 dark:text-gray-300">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+              Add and message <strong>@golemz</strong> on Discord.
             </p>
           </div>
         </div>

@@ -10,19 +10,18 @@ export default function Home() {
             Brawl Pick
           </h1>
           <p className="text-sm text-gray-600 dark:text-gray-400">
-            Last updated November 5th, 2024
+            Last updated November 9th, 2024
           </p>
         </div>
-        <div className="grid grid-cols-2 gap-6">
+        <div className="grid grid-cols-2 gap-6 [&>*:last-child:nth-child(odd)]:col-span-2 [&>*:last-child:nth-child(odd)]:w-1/2 [&>*:last-child:nth-child(odd)]:justify-self-center">
           {[
             { mode: 'brawlball', icon: '/game_modes/brawl_ball_icon.png', label: 'Brawl Ball' },
             { mode: 'gemgrab', icon: '/game_modes/gem_grab_icon.png', label: 'Gem Grab' },
             { mode: 'heist', icon: '/game_modes/heist_icon.png', label: 'Heist' },
             { mode: 'knockout', icon: '/game_modes/knock_out_icon.png', label: 'Knock Out' },
+            { mode: 'bounty', icon: '/game_modes/bounty_icon.png', label: 'Bounty' },
             { mode: 'hotzone', icon: '/game_modes/hot_zone_icon.png', label: 'Hot Zone' },
-            { mode: 'payload', icon: '/game_modes/payload_icon.png', label: 'Payload' },
-            { mode: 'trophythieves', icon: '/game_modes/zombie_plunder_icon.png', label: 'Zombie Plunder' },
-            { mode: 'volleybrawl', icon: '/game_modes/volley_brawl_icon.png', label: 'Volley Brawl' }
+            { mode: 'siege', icon: '/game_modes/payload_icon.png', label: 'Other' }
           ].map(({ mode, icon, label }) => (
             <Link
               key={mode}

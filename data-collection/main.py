@@ -5,13 +5,13 @@ from brawl_stars_api import get_top_players, get_player_battlelog
 from database import Database
 from collections import deque
 from datetime import datetime, timezone
-import time
+import os
 
 async def get_top_players_ids() -> list[str]:
     top_players = await get_top_players()
     return [player["tag"] for player in top_players["items"]]
 
-async def process_player(db: Database, player_id: str, seen_battles: set[str], processed_players: set[str]):
+async def process_player(db: Database, player_id: str, seen_battles: set[str], processed_players: set[str], cutoff_date: datetime, minimum_trophies: int, minimum_power_league_rank: int):
     battlelog = await get_player_battlelog(player_id)
     battlelog = battlelog["items"]
     new_players = []
@@ -30,8 +30,7 @@ async def process_player(db: Database, player_id: str, seen_battles: set[str], p
             continue
 
         data["battle_time"] = battle["battleTime"]
-        battle_datetime = datetime.strptime(data["battle_time"].replace('Z', ''), '%Y%m%dT%H%M%S.%f').replace(tzinfo=timezone.utc)
-        cutoff_date = datetime(2024, 11, 1, tzinfo=timezone.utc)
+        battle_datetime = datetime.strptime(data["battle_time"].replace('.000Z', ''), '%Y%m%dT%H%M%S').replace(tzinfo=timezone.utc)
 
         if battle_datetime < cutoff_date:
             continue
@@ -44,6 +43,7 @@ async def process_player(db: Database, player_id: str, seen_battles: set[str], p
 
         if data["battle_id"] in seen_battles:
             continue
+        
         seen_battles.add(data["battle_id"])
 
         if player_id not in [player["tag"] for player in data["team1"]]:
@@ -91,7 +91,8 @@ async def process_player(db: Database, player_id: str, seen_battles: set[str], p
             battle_entry["brawler"] = player["brawler"]["name"]
             battle_entry["power"] = player["brawler"]["power"]
             battle_entry["rank"] = player["brawler"]["trophies"]
-            battles_to_insert.append(battle_entry)
+            if (data["game_type"] == "ranked" and battle_entry["rank"] >= minimum_trophies) or (data["game_type"] == "soloRanked" and battle_entry["rank"] >= minimum_power_league_rank):
+                battles_to_insert.append(battle_entry)
             if player["tag"] not in processed_players:
                 new_players.append(player["tag"])
                 processed_players.add(player["tag"])
@@ -105,6 +106,13 @@ async def main():
     
     logging.basicConfig(level=logging.INFO)
     logger = logging.getLogger(__name__)
+ 
+    if not (cutoff_date_env := os.getenv('CUTOFF_DATE')):
+        raise EnvironmentError("❌ CUTOFF_DATE not set")
+    
+    cutoff_date = datetime.strptime(cutoff_date_env, '%Y-%m-%d').replace(tzinfo=timezone.utc)
+    minimum_trophies = int(os.getenv('MINIMUM_TROPHIES', 0))
+    minimum_power_league_rank = int(os.getenv('MINIMUM_POWER_LEAGUE_RANK', 0))
     
     # Connect and initialize the postgres database
     logger.info("Connecting and initializing database...")
@@ -129,7 +137,7 @@ async def main():
                 while queue:
                     player_id = queue.popleft()
                     try:
-                        seen_battles_local, processed_players_local, new_players = await process_player(db, player_id, seen_battles, processed_players)
+                        seen_battles_local, processed_players_local, new_players = await process_player(db, player_id, seen_battles, processed_players, cutoff_date, minimum_trophies, minimum_power_league_rank)
                         seen_battles.update(seen_battles_local)
                         processed_players.update(processed_players_local)
                         queue.extend(new_players)

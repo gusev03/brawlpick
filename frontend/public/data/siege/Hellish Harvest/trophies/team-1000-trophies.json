@@ -1,0 +1,47 @@
+[
+    {
+        "team": [
+            "CARL",
+            "FRANK",
+            "GROM"
+        ],
+        "games_played": 869,
+        "win_rate": 0.9194476409666283
+    },
+    {
+        "team": [
+            "FRANK",
+            "GROM",
+            "KENJI"
+        ],
+        "games_played": 653,
+        "win_rate": 0.8238897396630934
+    },
+    {
+        "team": [
+            "BERRY",
+            "BIBI",
+            "CARL"
+        ],
+        "games_played": 314,
+        "win_rate": 0.8184713375796179
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "GROM"
+        ],
+        "games_played": 496,
+        "win_rate": 0.7943548387096774
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 333,
+        "win_rate": 0.5705705705705706
+    }
+]

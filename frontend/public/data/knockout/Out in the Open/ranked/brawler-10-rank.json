@@ -1,0 +1,427 @@
+[
+    {
+        "brawler": "JUJU",
+        "games_played": 126,
+        "win_rate": 0.5763157894736842
+    },
+    {
+        "brawler": "ANGELO",
+        "games_played": 354,
+        "win_rate": 0.5659133709981168
+    },
+    {
+        "brawler": "MOE",
+        "games_played": 165,
+        "win_rate": 0.5352112676056338
+    },
+    {
+        "brawler": "GUS",
+        "games_played": 374,
+        "win_rate": 0.5346975088967971
+    },
+    {
+        "brawler": "PEARL",
+        "games_played": 174,
+        "win_rate": 0.5153256704980843
+    },
+    {
+        "brawler": "BUSTER",
+        "games_played": 62,
+        "win_rate": 0.5133689839572193
+    },
+    {
+        "brawler": "BROCK",
+        "games_played": 536,
+        "win_rate": 0.5124223602484472
+    },
+    {
+        "brawler": "CHESTER",
+        "games_played": 60,
+        "win_rate": 0.510989010989011
+    },
+    {
+        "brawler": "LEON",
+        "games_played": 394,
+        "win_rate": 0.5088757396449705
+    },
+    {
+        "brawler": "EVE",
+        "games_played": 97,
+        "win_rate": 0.5068493150684932
+    },
+    {
+        "brawler": "MR. P",
+        "games_played": 92,
+        "win_rate": 0.5054151624548736
+    },
+    {
+        "brawler": "MANDY",
+        "games_played": 357,
+        "win_rate": 0.49906716417910446
+    },
+    {
+        "brawler": "KIT",
+        "games_played": 132,
+        "win_rate": 0.4987405541561713
+    },
+    {
+        "brawler": "LILY",
+        "games_played": 144,
+        "win_rate": 0.4976958525345622
+    },
+    {
+        "brawler": "GENE",
+        "games_played": 434,
+        "win_rate": 0.495398773006135
+    },
+    {
+        "brawler": "R-T",
+        "games_played": 76,
+        "win_rate": 0.49344978165938863
+    },
+    {
+        "brawler": "KENJI",
+        "games_played": 136,
+        "win_rate": 0.4682926829268293
+    },
+    {
+        "brawler": "SQUEAK",
+        "games_played": 105,
+        "win_rate": 0.4668769716088328
+    },
+    {
+        "brawler": "NANI",
+        "games_played": 322,
+        "win_rate": 0.4591520165460186
+    },
+    {
+        "brawler": "MEG",
+        "games_played": 61,
+        "win_rate": 0.45652173913043476
+    },
+    {
+        "brawler": "TICK",
+        "games_played": 211,
+        "win_rate": 0.4519685039370079
+    },
+    {
+        "brawler": "PIPER",
+        "games_played": 487,
+        "win_rate": 0.4493844049247606
+    },
+    {
+        "brawler": "BYRON",
+        "games_played": 428,
+        "win_rate": 0.4490272373540856
+    },
+    {
+        "brawler": "RICO",
+        "games_played": 304,
+        "win_rate": 0.4440789473684211
+    },
+    {
+        "brawler": "SPIKE",
+        "games_played": 211,
+        "win_rate": 0.4353312302839117
+    },
+    {
+        "brawler": "EDGAR",
+        "games_played": 156,
+        "win_rate": 0.4337606837606838
+    },
+    {
+        "brawler": "GRAY",
+        "games_played": 70,
+        "win_rate": 0.4312796208530806
+    },
+    {
+        "brawler": "CARL",
+        "games_played": 118,
+        "win_rate": 0.4297752808988764
+    },
+    {
+        "brawler": "BO",
+        "games_played": 71,
+        "win_rate": 0.4272300469483568
+    },
+    {
+        "brawler": "FANG",
+        "games_played": 95,
+        "win_rate": 0.4181184668989547
+    },
+    {
+        "brawler": "SURGE",
+        "games_played": 73,
+        "win_rate": 0.416289592760181
+    },
+    {
+        "brawler": "GROM",
+        "games_played": 130,
+        "win_rate": 0.41581632653061223
+    },
+    {
+        "brawler": "MELODIE",
+        "games_played": 30,
+        "win_rate": 0.41304347826086957
+    },
+    {
+        "brawler": "STU",
+        "games_played": 170,
+        "win_rate": 0.408203125
+    },
+    {
+        "brawler": "BUZZ",
+        "games_played": 29,
+        "win_rate": 0.4044943820224719
+    },
+    {
+        "brawler": "BELLE",
+        "games_played": 333,
+        "win_rate": 0.4004004004004004
+    },
+    {
+        "brawler": "CROW",
+        "games_played": 211,
+        "win_rate": 0.3990536277602524
+    },
+    {
+        "brawler": "DARRYL",
+        "games_played": 117,
+        "win_rate": 0.3881019830028329
+    },
+    {
+        "brawler": "COLETTE",
+        "games_played": 70,
+        "win_rate": 0.38571428571428573
+    },
+    {
+        "brawler": "MORTIS",
+        "games_played": 86,
+        "win_rate": 0.38461538461538464
+    },
+    {
+        "brawler": "PENNY",
+        "games_played": 75,
+        "win_rate": 0.38222222222222224
+    },
+    {
+        "brawler": "COLT",
+        "games_played": 413,
+        "win_rate": 0.3801452784503632
+    },
+    {
+        "brawler": "MAX",
+        "games_played": 148,
+        "win_rate": 0.3797752808988764
+    },
+    {
+        "brawler": "MICO",
+        "games_played": 22,
+        "win_rate": 0.373134328358209
+    },
+    {
+        "brawler": "GALE",
+        "games_played": 137,
+        "win_rate": 0.36739659367396593
+    },
+    {
+        "brawler": "MAISIE",
+        "games_played": 55,
+        "win_rate": 0.3614457831325301
+    },
+    {
+        "brawler": "8-BIT",
+        "games_played": 62,
+        "win_rate": 0.3602150537634409
+    },
+    {
+        "brawler": "JESSIE",
+        "games_played": 77,
+        "win_rate": 0.3593073593073593
+    },
+    {
+        "brawler": "BEA",
+        "games_played": 110,
+        "win_rate": 0.3564954682779456
+    },
+    {
+        "brawler": "SPROUT",
+        "games_played": 52,
+        "win_rate": 0.34177215189873417
+    },
+    {
+        "brawler": "FRANK",
+        "games_played": 40,
+        "win_rate": 0.33884297520661155
+    },
+    {
+        "brawler": "LOLA",
+        "games_played": 40,
+        "win_rate": 0.3305785123966942
+    },
+    {
+        "brawler": "OTIS",
+        "games_played": 31,
+        "win_rate": 0.3263157894736842
+    },
+    {
+        "brawler": "SANDY",
+        "games_played": 22,
+        "win_rate": 0.3181818181818182
+    },
+    {
+        "brawler": "CHARLIE",
+        "games_played": 14,
+        "win_rate": 0.30952380952380953
+    },
+    {
+        "brawler": "CORDELIUS",
+        "games_played": 22,
+        "win_rate": 0.3088235294117647
+    },
+    {
+        "brawler": "DYNAMIKE",
+        "games_played": 63,
+        "win_rate": 0.2931937172774869
+    },
+    {
+        "brawler": "LOU",
+        "games_played": 24,
+        "win_rate": 0.2916666666666667
+    },
+    {
+        "brawler": "EMZ",
+        "games_played": 41,
+        "win_rate": 0.2764227642276423
+    },
+    {
+        "brawler": "BONNIE",
+        "games_played": 58,
+        "win_rate": 0.2742857142857143
+    },
+    {
+        "brawler": "JANET",
+        "games_played": 20,
+        "win_rate": 0.25806451612903225
+    },
+    {
+        "brawler": "RUFFS",
+        "games_played": 19,
+        "win_rate": 0.2542372881355932
+    },
+    {
+        "brawler": "LARRY & LAWRIE",
+        "games_played": 36,
+        "win_rate": 0.24545454545454545
+    },
+    {
+        "brawler": "AMBER",
+        "games_played": 34,
+        "win_rate": 0.23076923076923078
+    },
+    {
+        "brawler": "POCO",
+        "games_played": 64,
+        "win_rate": 0.22916666666666666
+    },
+    {
+        "brawler": "BIBI",
+        "games_played": 42,
+        "win_rate": 0.2283464566929134
+    },
+    {
+        "brawler": "GRIFF",
+        "games_played": 46,
+        "win_rate": 0.2
+    },
+    {
+        "brawler": "JACKY",
+        "games_played": 20,
+        "win_rate": 0.2
+    },
+    {
+        "brawler": "TARA",
+        "games_played": 31,
+        "win_rate": 0.18085106382978725
+    },
+    {
+        "brawler": "CLANCY",
+        "games_played": 11,
+        "win_rate": 0.14285714285714285
+    },
+    {
+        "brawler": "CHUCK",
+        "games_played": 17,
+        "win_rate": 0.13725490196078433
+    },
+    {
+        "brawler": "SAM",
+        "games_played": 15,
+        "win_rate": 0.13043478260869565
+    },
+    {
+        "brawler": "SHELLY",
+        "games_played": 54,
+        "win_rate": 0.12883435582822086
+    },
+    {
+        "brawler": "BARLEY",
+        "games_played": 46,
+        "win_rate": 0.11510791366906475
+    },
+    {
+        "brawler": "DRACO",
+        "games_played": 9,
+        "win_rate": 0.10714285714285714
+    },
+    {
+        "brawler": "WILLOW",
+        "games_played": 17,
+        "win_rate": 0.0784313725490196
+    },
+    {
+        "brawler": "DOUG",
+        "games_played": 14,
+        "win_rate": 0.06976744186046512
+    },
+    {
+        "brawler": "NITA",
+        "games_played": 44,
+        "win_rate": 0.06716417910447761
+    },
+    {
+        "brawler": "ROSA",
+        "games_played": 40,
+        "win_rate": 0.06666666666666667
+    },
+    {
+        "brawler": "ASH",
+        "games_played": 20,
+        "win_rate": 0.06557377049180328
+    },
+    {
+        "brawler": "EL PRIMO",
+        "games_played": 41,
+        "win_rate": 0.056451612903225805
+    },
+    {
+        "brawler": "BERRY",
+        "games_played": 14,
+        "win_rate": 0.046511627906976744
+    },
+    {
+        "brawler": "HANK",
+        "games_played": 27,
+        "win_rate": 0.03614457831325301
+    },
+    {
+        "brawler": "BULL",
+        "games_played": 42,
+        "win_rate": 0.031496062992125984
+    },
+    {
+        "brawler": "PAM",
+        "games_played": 33,
+        "win_rate": 0.030303030303030304
+    }
+]

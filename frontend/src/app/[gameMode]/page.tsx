@@ -12,25 +12,75 @@ interface GameModePageProps {
 
 // Add this function to get maps for a specific game mode
 async function getMapsForGameMode(gameMode: string) {
-  const gameModeDir = path.join(process.cwd(), 'public', 'data', gameMode);
+  const gameModeToFolder: { [key: string]: string } = {
+    brawlball: 'brawlBall',
+    gemgrab: 'gemGrab',
+    heist: 'heist',
+    knockout: 'knockout',
+    bounty: 'bounty',
+    hotzone: 'hotZone',
+    siege: 'siege'
+  };
+
+  const folderName = gameModeToFolder[gameMode];
+  const gameModeDir = path.join(process.cwd(), 'public', 'data', folderName);
   
   try {
-    const maps = await fs.promises.readdir(gameModeDir);
-    return maps;
-  } catch {
-    console.error(`Error reading maps for ${gameMode}`);
+    // Get all map folders
+    const mapFolders = await fs.promises.readdir(gameModeDir);
+    return mapFolders;
+  } catch (error) {
+    console.error(`Error reading maps for ${gameMode}:`, error);
     return [];
   }
 }
 
 // Add this function to get total games for a map
 async function getMapGames(gameMode: string, mapName: string) {
+  const gameModeToFolder: { [key: string]: string } = {
+    brawlball: 'brawlBall',
+    gemgrab: 'gemGrab',
+    heist: 'heist',
+    knockout: 'knockout',
+    bounty: 'bounty',
+    hotzone: 'hotZone',
+    siege: 'siege'
+  };
+
   try {
-    const dataPath = path.join(process.cwd(), 'public', 'data', gameMode, mapName, '700-trophies.json');
-    const fileContent = await fs.promises.readFile(dataPath, 'utf8');
+    // First try to read from trophies folder
+    const trophiesPath = path.join(
+      process.cwd(), 
+      'public', 
+      'data', 
+      gameModeToFolder[gameMode], 
+      mapName, 
+      'trophies',
+      'brawler-700-trophies.json'
+    );
+
+    // If trophies file doesn't exist, try ranked folder
+    const rankedPath = path.join(
+      process.cwd(), 
+      'public', 
+      'data', 
+      gameModeToFolder[gameMode], 
+      mapName, 
+      'ranked',
+      'brawler-10-rank.json'
+    );
+
+    let fileContent;
+    try {
+      fileContent = await fs.promises.readFile(trophiesPath, 'utf8');
+    } catch {
+      fileContent = await fs.promises.readFile(rankedPath, 'utf8');
+    }
+
     const data = JSON.parse(fileContent);
     return data.reduce((total: number, stat: { games_played: number }) => total + stat.games_played, 0);
-  } catch {
+  } catch (error) {
+    console.error(`Error reading map games for ${mapName}:`, error);
     return 0;
   }
 }
@@ -42,9 +92,7 @@ const gameModeLabels: { [key: string]: string } = {
   knockout: 'Knock Out',
   bounty: 'Bounty',
   hotzone: 'Hot Zone',
-  trophythieves: 'Zombie Plunder',
-  payload: 'Payload',
-  volleybrawl: 'Volley Brawl'
+  siege: 'Siege'
 };
 
 function getMapImagePath(gameMode: string, mapName: string): string {
@@ -55,9 +103,7 @@ function getMapImagePath(gameMode: string, mapName: string): string {
     knockout: 'knock_out',
     bounty: 'bounty',
     hotzone: 'hot_zone',
-    trophythieves: 'zombie_plunder',
-    payload: 'payload',
-    volleybrawl: 'volley_brawl'
+    siege: 'siege'
   };
 
   const formattedMapName = mapName.toLowerCase().replace(/ /g, '_');
@@ -67,7 +113,7 @@ function getMapImagePath(gameMode: string, mapName: string): string {
 export default async function GameModePage({ params }: GameModePageProps) {
   const { gameMode } = await params;
   
-  const validGameModes = ['brawlball', 'gemgrab', 'heist', 'knockout', 'bounty', 'hotzone', 'trophythieves', 'payload', 'volleybrawl'];
+  const validGameModes = ['brawlball', 'gemgrab', 'heist', 'knockout', 'bounty', 'hotzone', 'siege'];
   
   if (!validGameModes.includes(gameMode)) {
     notFound();
@@ -82,7 +128,7 @@ export default async function GameModePage({ params }: GameModePageProps) {
       name: map,
       games: await getMapGames(gameMode, map)
     }))
-  ).then(stats => stats.filter(map => map.games >= 100000));  // Filter maps with < 100k games
+  ).then(stats => stats.filter(map => map.games >= 5000));
 
   return (
     <main className="container mx-auto px-4 py-8">

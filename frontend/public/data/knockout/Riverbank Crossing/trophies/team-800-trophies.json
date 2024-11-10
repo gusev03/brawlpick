@@ -1,0 +1,24 @@
+[
+    {
+        "team": [
+            "ANGELO",
+            "COLT",
+            "EL PRIMO",
+            "GRAY",
+            "MELODIE"
+        ],
+        "games_played": 340,
+        "win_rate": 0.9558823529411765
+    },
+    {
+        "team": [
+            "ANGELO",
+            "EDGAR",
+            "EL PRIMO",
+            "GRAY",
+            "SAM"
+        ],
+        "games_played": 333,
+        "win_rate": 0.8288288288288288
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "team": [
+            "COLT",
+            "GENE",
+            "GROM"
+        ],
+        "games_played": 305,
+        "win_rate": 0.7180327868852459
+    },
+    {
+        "team": [
+            "COLT",
+            "GENE",
+            "GUS"
+        ],
+        "games_played": 365,
+        "win_rate": 0.6821917808219178
+    },
+    {
+        "team": [
+            "COLT",
+            "GENE",
+            "JUJU"
+        ],
+        "games_played": 310,
+        "win_rate": 0.6774193548387096
+    },
+    {
+        "team": [
+            "COLT",
+            "GENE",
+            "TICK"
+        ],
+        "games_played": 447,
+        "win_rate": 0.6756152125279642
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "GENE"
+        ],
+        "games_played": 851,
+        "win_rate": 0.6580493537015276
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "FRANK"
+        ],
+        "games_played": 508,
+        "win_rate": 0.6003937007874016
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "PIPER"
+        ],
+        "games_played": 491,
+        "win_rate": 0.5987780040733197
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "RICO"
+        ],
+        "games_played": 578,
+        "win_rate": 0.5916955017301038
+    },
+    {
+        "team": [
+            "COLT",
+            "CROW",
+            "DYNAMIKE"
+        ],
+        "games_played": 305,
+        "win_rate": 0.5573770491803278
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "EDGAR",
+            "SURGE"
+        ],
+        "games_played": 320,
+        "win_rate": 0.546875
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "KENJI"
+        ],
+        "games_played": 492,
+        "win_rate": 0.5223577235772358
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "SURGE"
+        ],
+        "games_played": 493,
+        "win_rate": 0.5091277890466531
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "LEON"
+        ],
+        "games_played": 300,
+        "win_rate": 0.5066666666666667
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "LEON"
+        ],
+        "games_played": 346,
+        "win_rate": 0.476878612716763
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "EDGAR"
+        ],
+        "games_played": 625,
+        "win_rate": 0.4608
+    },
+    {
+        "team": [
+            "COLT",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 333,
+        "win_rate": 0.4594594594594595
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 360,
+        "win_rate": 0.44722222222222224
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "TICK"
+        ],
+        "games_played": 485,
+        "win_rate": 0.41855670103092785
+    }
+]
