@@ -1,0 +1,47 @@
+[
+    {
+        "team": [
+            "MOE",
+            "PIPER",
+            "RICO"
+        ],
+        "games_played": 550,
+        "win_rate": 0.8072727272727273
+    },
+    {
+        "team": [
+            "GENE",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 326,
+        "win_rate": 0.656441717791411
+    },
+    {
+        "team": [
+            "MORTIS",
+            "SURGE",
+            "TARA"
+        ],
+        "games_played": 326,
+        "win_rate": 0.5858895705521472
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 530,
+        "win_rate": 0.5716981132075472
+    },
+    {
+        "team": [
+            "MORTIS",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 622,
+        "win_rate": 0.5401929260450161
+    }
+]

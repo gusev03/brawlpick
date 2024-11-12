@@ -1,0 +1,68 @@
+[
+    {
+        "team": [
+            "BYRON",
+            "COLT",
+            "GALE",
+            "MELODIE",
+            "STU"
+        ],
+        "games_played": 630,
+        "win_rate": 0.9841269841269841
+    },
+    {
+        "team": [
+            "BELLE",
+            "BUSTER",
+            "FRANK",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 425,
+        "win_rate": 0.9176470588235294
+    },
+    {
+        "team": [
+            "BELLE",
+            "GENE",
+            "JACKY",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 330,
+        "win_rate": 0.8787878787878788
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "FANG",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 304,
+        "win_rate": 0.5197368421052632
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "FANG",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 313,
+        "win_rate": 0.402555910543131
+    },
+    {
+        "team": [
+            "COLT",
+            "FANG",
+            "KENJI",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 316,
+        "win_rate": 0.3829113924050633
+    }
+]

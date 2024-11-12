@@ -1,0 +1,614 @@
+[
+    {
+        "team": [
+            "AMBER",
+            "CARL",
+            "MELODIE"
+        ],
+        "games_played": 645,
+        "win_rate": 0.834108527131783
+    },
+    {
+        "team": [
+            "BIBI",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 310,
+        "win_rate": 0.8290322580645161
+    },
+    {
+        "team": [
+            "CARL",
+            "COLT",
+            "MOE"
+        ],
+        "games_played": 998,
+        "win_rate": 0.8186372745490982
+    },
+    {
+        "team": [
+            "CARL",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 944,
+        "win_rate": 0.809322033898305
+    },
+    {
+        "team": [
+            "CARL",
+            "COLT",
+            "RICO"
+        ],
+        "games_played": 3765,
+        "win_rate": 0.7784860557768924
+    },
+    {
+        "team": [
+            "CARL",
+            "COLETTE",
+            "RICO"
+        ],
+        "games_played": 554,
+        "win_rate": 0.7779783393501805
+    },
+    {
+        "team": [
+            "CARL",
+            "MELODIE",
+            "RICO"
+        ],
+        "games_played": 681,
+        "win_rate": 0.7444933920704846
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "RICO"
+        ],
+        "games_played": 998,
+        "win_rate": 0.7274549098196392
+    },
+    {
+        "team": [
+            "CARL",
+            "COLT",
+            "MELODIE"
+        ],
+        "games_played": 1557,
+        "win_rate": 0.7174052665382146
+    },
+    {
+        "team": [
+            "AMBER",
+            "COLT",
+            "MELODIE"
+        ],
+        "games_played": 351,
+        "win_rate": 0.6951566951566952
+    },
+    {
+        "team": [
+            "BIBI",
+            "CARL",
+            "COLT"
+        ],
+        "games_played": 935,
+        "win_rate": 0.6941176470588235
+    },
+    {
+        "team": [
+            "COLT",
+            "MELODIE",
+            "MOE"
+        ],
+        "games_played": 555,
+        "win_rate": 0.6918918918918919
+    },
+    {
+        "team": [
+            "COLT",
+            "MELODIE",
+            "RICO"
+        ],
+        "games_played": 1673,
+        "win_rate": 0.6706515242080096
+    },
+    {
+        "team": [
+            "COLETTE",
+            "MELODIE",
+            "RICO"
+        ],
+        "games_played": 418,
+        "win_rate": 0.6698564593301436
+    },
+    {
+        "team": [
+            "BIBI",
+            "MELODIE",
+            "NITA"
+        ],
+        "games_played": 332,
+        "win_rate": 0.6656626506024096
+    },
+    {
+        "team": [
+            "BIBI",
+            "CARL",
+            "RICO"
+        ],
+        "games_played": 370,
+        "win_rate": 0.6594594594594595
+    },
+    {
+        "team": [
+            "CARL",
+            "JESSIE",
+            "MELODIE"
+        ],
+        "games_played": 330,
+        "win_rate": 0.6515151515151515
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "FRANK"
+        ],
+        "games_played": 328,
+        "win_rate": 0.6463414634146342
+    },
+    {
+        "team": [
+            "CARL",
+            "COLETTE",
+            "COLT"
+        ],
+        "games_played": 568,
+        "win_rate": 0.6443661971830986
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "MELODIE"
+        ],
+        "games_played": 947,
+        "win_rate": 0.6367476240760296
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "MELODIE"
+        ],
+        "games_played": 1300,
+        "win_rate": 0.6253846153846154
+    },
+    {
+        "team": [
+            "CARL",
+            "COLT",
+            "EDGAR"
+        ],
+        "games_played": 490,
+        "win_rate": 0.6204081632653061
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "FRANK"
+        ],
+        "games_played": 330,
+        "win_rate": 0.6151515151515151
+    },
+    {
+        "team": [
+            "COLETTE",
+            "COLT",
+            "MELODIE"
+        ],
+        "games_played": 729,
+        "win_rate": 0.6104252400548696
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "RICO"
+        ],
+        "games_played": 640,
+        "win_rate": 0.603125
+    },
+    {
+        "team": [
+            "CARL",
+            "COLT",
+            "NITA"
+        ],
+        "games_played": 454,
+        "win_rate": 0.6013215859030837
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "NITA"
+        ],
+        "games_played": 786,
+        "win_rate": 0.6005089058524173
+    },
+    {
+        "team": [
+            "CARL",
+            "MELODIE",
+            "NITA"
+        ],
+        "games_played": 330,
+        "win_rate": 0.6
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "JESSIE",
+            "MELODIE"
+        ],
+        "games_played": 432,
+        "win_rate": 0.5949074074074074
+    },
+    {
+        "team": [
+            "CLANCY",
+            "COLT",
+            "RICO"
+        ],
+        "games_played": 323,
+        "win_rate": 0.5944272445820433
+    },
+    {
+        "team": [
+            "COLT",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 309,
+        "win_rate": 0.5889967637540453
+    },
+    {
+        "team": [
+            "EDGAR",
+            "JESSIE",
+            "MELODIE"
+        ],
+        "games_played": 440,
+        "win_rate": 0.5863636363636363
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLETTE",
+            "COLT"
+        ],
+        "games_played": 439,
+        "win_rate": 0.5831435079726651
+    },
+    {
+        "team": [
+            "JESSIE",
+            "MELODIE",
+            "RICO"
+        ],
+        "games_played": 352,
+        "win_rate": 0.5823863636363636
+    },
+    {
+        "team": [
+            "CARL",
+            "COLT",
+            "DYNAMIKE"
+        ],
+        "games_played": 396,
+        "win_rate": 0.5782828282828283
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "MELODIE"
+        ],
+        "games_played": 821,
+        "win_rate": 0.5700365408038977
+    },
+    {
+        "team": [
+            "COLT",
+            "NITA",
+            "RICO"
+        ],
+        "games_played": 625,
+        "win_rate": 0.568
+    },
+    {
+        "team": [
+            "COLT",
+            "MELODIE",
+            "NITA"
+        ],
+        "games_played": 942,
+        "win_rate": 0.5658174097664543
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "EDGAR"
+        ],
+        "games_played": 612,
+        "win_rate": 0.5620915032679739
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "RICO"
+        ],
+        "games_played": 341,
+        "win_rate": 0.5571847507331378
+    },
+    {
+        "team": [
+            "COLETTE",
+            "COLT",
+            "RICO"
+        ],
+        "games_played": 523,
+        "win_rate": 0.5430210325047801
+    },
+    {
+        "team": [
+            "COLETTE",
+            "COLT",
+            "NITA"
+        ],
+        "games_played": 329,
+        "win_rate": 0.541033434650456
+    },
+    {
+        "team": [
+            "CHUCK",
+            "COLT",
+            "RICO"
+        ],
+        "games_played": 405,
+        "win_rate": 0.5407407407407407
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "MELODIE"
+        ],
+        "games_played": 395,
+        "win_rate": 0.5316455696202531
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "NITA"
+        ],
+        "games_played": 429,
+        "win_rate": 0.5314685314685315
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "RICO"
+        ],
+        "games_played": 484,
+        "win_rate": 0.5206611570247934
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "DYNAMIKE"
+        ],
+        "games_played": 522,
+        "win_rate": 0.5191570881226054
+    },
+    {
+        "team": [
+            "EDGAR",
+            "MELODIE",
+            "NITA"
+        ],
+        "games_played": 354,
+        "win_rate": 0.5169491525423728
+    },
+    {
+        "team": [
+            "BIBI",
+            "JESSIE",
+            "MELODIE"
+        ],
+        "games_played": 366,
+        "win_rate": 0.5136612021857924
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "NITA"
+        ],
+        "games_played": 303,
+        "win_rate": 0.504950495049505
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "MELODIE"
+        ],
+        "games_played": 1184,
+        "win_rate": 0.5025337837837838
+    },
+    {
+        "team": [
+            "CHUCK",
+            "COLT",
+            "MELODIE"
+        ],
+        "games_played": 556,
+        "win_rate": 0.49460431654676257
+    },
+    {
+        "team": [
+            "CARL",
+            "COLT",
+            "JESSIE"
+        ],
+        "games_played": 547,
+        "win_rate": 0.48811700182815354
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "JESSIE"
+        ],
+        "games_played": 609,
+        "win_rate": 0.4876847290640394
+    },
+    {
+        "team": [
+            "COLETTE",
+            "COLT",
+            "JESSIE"
+        ],
+        "games_played": 406,
+        "win_rate": 0.4852216748768473
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "NITA"
+        ],
+        "games_played": 498,
+        "win_rate": 0.4839357429718876
+    },
+    {
+        "team": [
+            "JESSIE",
+            "MELODIE",
+            "NITA"
+        ],
+        "games_played": 493,
+        "win_rate": 0.4746450304259635
+    },
+    {
+        "team": [
+            "BIBI",
+            "CHUCK",
+            "COLT"
+        ],
+        "games_played": 384,
+        "win_rate": 0.4635416666666667
+    },
+    {
+        "team": [
+            "EDGAR",
+            "JESSIE",
+            "NITA"
+        ],
+        "games_played": 312,
+        "win_rate": 0.46153846153846156
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "RICO"
+        ],
+        "games_played": 719,
+        "win_rate": 0.4561891515994437
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "JESSIE"
+        ],
+        "games_played": 888,
+        "win_rate": 0.44707207207207206
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "NITA"
+        ],
+        "games_played": 858,
+        "win_rate": 0.4347319347319347
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "JESSIE"
+        ],
+        "games_played": 909,
+        "win_rate": 0.42794279427942794
+    },
+    {
+        "team": [
+            "CHUCK",
+            "COLT",
+            "NITA"
+        ],
+        "games_played": 377,
+        "win_rate": 0.40318302387267907
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "JESSIE"
+        ],
+        "games_played": 424,
+        "win_rate": 0.3915094339622642
+    },
+    {
+        "team": [
+            "CHUCK",
+            "COLT",
+            "EDGAR"
+        ],
+        "games_played": 326,
+        "win_rate": 0.3588957055214724
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "EDGAR"
+        ],
+        "games_played": 396,
+        "win_rate": 0.3383838383838384
+    },
+    {
+        "team": [
+            "CHUCK",
+            "COLT",
+            "JESSIE"
+        ],
+        "games_played": 481,
+        "win_rate": 0.3367983367983368
+    }
+]

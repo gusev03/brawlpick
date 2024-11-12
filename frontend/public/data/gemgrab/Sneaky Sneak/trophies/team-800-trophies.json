@@ -1,12 +1,30 @@
 [
     {
         "team": [
-            "COLT",
+            "EDGAR",
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 361,
-        "win_rate": 0.5096952908587258
+        "games_played": 301,
+        "win_rate": 0.5714285714285714
+    },
+    {
+        "team": [
+            "CROW",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 308,
+        "win_rate": 0.5292207792207793
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 319,
+        "win_rate": 0.5203761755485894
     },
     {
         "team": [
@@ -14,8 +32,26 @@
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 348,
-        "win_rate": 0.5028735632183908
+        "games_played": 374,
+        "win_rate": 0.516042780748663
+    },
+    {
+        "team": [
+            "COLT",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 388,
+        "win_rate": 0.5051546391752577
+    },
+    {
+        "team": [
+            "CROW",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 303,
+        "win_rate": 0.49504950495049505
     },
     {
         "team": [
@@ -23,8 +59,8 @@
             "SURGE",
             "TICK"
         ],
-        "games_played": 324,
-        "win_rate": 0.4876543209876543
+        "games_played": 358,
+        "win_rate": 0.49441340782122906
     },
     {
         "team": [
@@ -32,7 +68,7 @@
             "MORTIS",
             "TICK"
         ],
-        "games_played": 347,
-        "win_rate": 0.4783861671469741
+        "games_played": 373,
+        "win_rate": 0.46648793565683644
     }
 ]

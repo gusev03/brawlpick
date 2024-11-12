@@ -1,0 +1,47 @@
+[
+    {
+        "team": [
+            "CROW",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 324,
+        "win_rate": 0.6327160493827161
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 510,
+        "win_rate": 0.5333333333333333
+    },
+    {
+        "team": [
+            "COLT",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 352,
+        "win_rate": 0.4914772727272727
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 322,
+        "win_rate": 0.48757763975155277
+    },
+    {
+        "team": [
+            "MORTIS",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 307,
+        "win_rate": 0.4788273615635179
+    }
+]

@@ -1,12 +1,21 @@
 [
     {
         "team": [
+            "CLANCY",
+            "KENJI",
+            "POCO"
+        ],
+        "games_played": 307,
+        "win_rate": 0.8566775244299675
+    },
+    {
+        "team": [
             "FRANK",
             "KENJI",
             "TICK"
         ],
-        "games_played": 542,
-        "win_rate": 0.7509225092250923
+        "games_played": 615,
+        "win_rate": 0.7333333333333333
     },
     {
         "team": [
@@ -14,8 +23,8 @@
             "POCO",
             "TICK"
         ],
-        "games_played": 314,
-        "win_rate": 0.6496815286624203
+        "games_played": 379,
+        "win_rate": 0.6437994722955145
     },
     {
         "team": [
@@ -23,17 +32,8 @@
             "POCO",
             "TICK"
         ],
-        "games_played": 537,
-        "win_rate": 0.6126629422718808
-    },
-    {
-        "team": [
-            "BO",
-            "KENJI",
-            "TICK"
-        ],
-        "games_played": 325,
-        "win_rate": 0.5876923076923077
+        "games_played": 718,
+        "win_rate": 0.5974930362116991
     },
     {
         "team": [
@@ -41,8 +41,17 @@
             "KENJI",
             "TICK"
         ],
-        "games_played": 353,
-        "win_rate": 0.5835694050991501
+        "games_played": 400,
+        "win_rate": 0.595
+    },
+    {
+        "team": [
+            "BO",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 399,
+        "win_rate": 0.5839598997493735
     },
     {
         "team": [
@@ -50,8 +59,8 @@
             "KENJI",
             "TICK"
         ],
-        "games_played": 556,
-        "win_rate": 0.5611510791366906
+        "games_played": 698,
+        "win_rate": 0.5315186246418339
     },
     {
         "team": [
@@ -59,8 +68,17 @@
             "KENJI",
             "TICK"
         ],
-        "games_played": 395,
-        "win_rate": 0.5468354430379747
+        "games_played": 494,
+        "win_rate": 0.5141700404858299
+    },
+    {
+        "team": [
+            "FANG",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 334,
+        "win_rate": 0.49101796407185627
     },
     {
         "team": [
@@ -68,7 +86,34 @@
             "JESSIE",
             "TICK"
         ],
-        "games_played": 315,
-        "win_rate": 0.5015873015873016
+        "games_played": 410,
+        "win_rate": 0.4902439024390244
+    },
+    {
+        "team": [
+            "JESSIE",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 418,
+        "win_rate": 0.4354066985645933
+    },
+    {
+        "team": [
+            "KENJI",
+            "SPIKE",
+            "TICK"
+        ],
+        "games_played": 351,
+        "win_rate": 0.4301994301994302
+    },
+    {
+        "team": [
+            "FRANK",
+            "JESSIE",
+            "TICK"
+        ],
+        "games_played": 323,
+        "win_rate": 0.42724458204334365
     }
 ]

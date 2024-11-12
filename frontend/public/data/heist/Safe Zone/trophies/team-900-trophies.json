@@ -5,8 +5,8 @@
             "COLT",
             "MELODIE"
         ],
-        "games_played": 696,
-        "win_rate": 0.6479885057471264
+        "games_played": 779,
+        "win_rate": 0.6354300385109114
     },
     {
         "team": [
@@ -14,8 +14,8 @@
             "COLT",
             "MICO"
         ],
-        "games_played": 459,
-        "win_rate": 0.6318082788671024
+        "games_played": 490,
+        "win_rate": 0.6306122448979592
     },
     {
         "team": [
@@ -23,8 +23,8 @@
             "COLETTE",
             "COLT"
         ],
-        "games_played": 636,
-        "win_rate": 0.6194968553459119
+        "games_played": 797,
+        "win_rate": 0.6072772898368883
     },
     {
         "team": [
@@ -32,8 +32,17 @@
             "COLETTE",
             "JESSIE"
         ],
-        "games_played": 318,
-        "win_rate": 0.5974842767295597
+        "games_played": 377,
+        "win_rate": 0.5862068965517241
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "MELODIE"
+        ],
+        "games_played": 311,
+        "win_rate": 0.5787781350482315
     },
     {
         "team": [
@@ -41,8 +50,8 @@
             "COLT",
             "JESSIE"
         ],
-        "games_played": 1352,
-        "win_rate": 0.5650887573964497
+        "games_played": 1628,
+        "win_rate": 0.5700245700245701
     },
     {
         "team": [
@@ -50,8 +59,17 @@
             "COLT",
             "CROW"
         ],
-        "games_played": 365,
-        "win_rate": 0.547945205479452
+        "games_played": 443,
+        "win_rate": 0.5688487584650113
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "MICO"
+        ],
+        "games_played": 339,
+        "win_rate": 0.5427728613569321
     },
     {
         "team": [
@@ -59,7 +77,16 @@
             "COLT",
             "JESSIE"
         ],
-        "games_played": 394,
-        "win_rate": 0.44416243654822335
+        "games_played": 463,
+        "win_rate": 0.44924406047516197
+    },
+    {
+        "team": [
+            "COLT",
+            "CROW",
+            "JESSIE"
+        ],
+        "games_played": 300,
+        "win_rate": 0.44666666666666666
     }
 ]

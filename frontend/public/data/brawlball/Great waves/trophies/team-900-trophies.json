@@ -1,0 +1,35 @@
+[
+    {
+        "team": [
+            "BEA",
+            "BELLE",
+            "MAX",
+            "MELODIE",
+            "RICO"
+        ],
+        "games_played": 345,
+        "win_rate": 0.9855072463768116
+    },
+    {
+        "team": [
+            "BYRON",
+            "COLT",
+            "MELODIE",
+            "MOE",
+            "STU"
+        ],
+        "games_played": 370,
+        "win_rate": 0.972972972972973
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FANG",
+            "JESSIE",
+            "MAX",
+            "MELODIE"
+        ],
+        "games_played": 320,
+        "win_rate": 0.875
+    }
+]

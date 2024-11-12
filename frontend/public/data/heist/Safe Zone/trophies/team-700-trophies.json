@@ -2,20 +2,20 @@
     {
         "team": [
             "CHUCK",
-            "EDGAR",
-            "JESSIE"
+            "JESSIE",
+            "MELODIE"
         ],
-        "games_played": 338,
-        "win_rate": 0.6745562130177515
+        "games_played": 327,
+        "win_rate": 0.6788990825688074
     },
     {
         "team": [
             "CHUCK",
-            "COLT",
-            "MELODIE"
+            "EDGAR",
+            "JESSIE"
         ],
-        "games_played": 799,
-        "win_rate": 0.6458072590738423
+        "games_played": 371,
+        "win_rate": 0.6549865229110512
     },
     {
         "team": [
@@ -23,8 +23,26 @@
             "COLETTE",
             "JESSIE"
         ],
-        "games_played": 662,
-        "win_rate": 0.6404833836858006
+        "games_played": 812,
+        "win_rate": 0.6477832512315271
+    },
+    {
+        "team": [
+            "CHUCK",
+            "COLT",
+            "MELODIE"
+        ],
+        "games_played": 896,
+        "win_rate": 0.6383928571428571
+    },
+    {
+        "team": [
+            "CARL",
+            "CHUCK",
+            "COLT"
+        ],
+        "games_played": 315,
+        "win_rate": 0.638095238095238
     },
     {
         "team": [
@@ -32,8 +50,17 @@
             "COLT",
             "MICO"
         ],
-        "games_played": 597,
-        "win_rate": 0.6348408710217756
+        "games_played": 651,
+        "win_rate": 0.631336405529954
+    },
+    {
+        "team": [
+            "CHUCK",
+            "COLT",
+            "PIPER"
+        ],
+        "games_played": 338,
+        "win_rate": 0.6242603550295858
     },
     {
         "team": [
@@ -41,26 +68,26 @@
             "COLT",
             "PENNY"
         ],
-        "games_played": 313,
-        "win_rate": 0.6261980830670927
+        "games_played": 359,
+        "win_rate": 0.6072423398328691
     },
     {
         "team": [
-            "COLT",
-            "JESSIE",
-            "MICO"
+            "COLETTE",
+            "CROW",
+            "JESSIE"
         ],
-        "games_played": 445,
-        "win_rate": 0.6112359550561798
+        "games_played": 328,
+        "win_rate": 0.6036585365853658
     },
     {
         "team": [
             "CHUCK",
-            "COLETTE",
-            "COLT"
+            "COLT",
+            "CROW"
         ],
-        "games_played": 982,
-        "win_rate": 0.6109979633401222
+        "games_played": 684,
+        "win_rate": 0.6023391812865497
     },
     {
         "team": [
@@ -68,35 +95,26 @@
             "CHUCK",
             "COLT"
         ],
-        "games_played": 320,
-        "win_rate": 0.590625
+        "games_played": 352,
+        "win_rate": 0.6022727272727273
     },
     {
         "team": [
             "CHUCK",
-            "COLT",
-            "JESSIE"
-        ],
-        "games_played": 1937,
-        "win_rate": 0.5895715023231802
-    },
-    {
-        "team": [
-            "CHUCK",
-            "COLT",
-            "CROW"
-        ],
-        "games_played": 538,
-        "win_rate": 0.5817843866171004
-    },
-    {
-        "team": [
             "COLETTE",
+            "COLT"
+        ],
+        "games_played": 1243,
+        "win_rate": 0.5993563958165729
+    },
+    {
+        "team": [
+            "CHUCK",
             "COLT",
             "JESSIE"
         ],
-        "games_played": 873,
-        "win_rate": 0.5773195876288659
+        "games_played": 2338,
+        "win_rate": 0.5915312232677502
     },
     {
         "team": [
@@ -104,17 +122,26 @@
             "CROW",
             "JESSIE"
         ],
-        "games_played": 340,
-        "win_rate": 0.5705882352941176
+        "games_played": 419,
+        "win_rate": 0.5871121718377088
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "MICO"
+        ],
+        "games_played": 520,
+        "win_rate": 0.5865384615384616
     },
     {
         "team": [
             "COLETTE",
             "COLT",
-            "CROW"
+            "JESSIE"
         ],
-        "games_played": 367,
-        "win_rate": 0.555858310626703
+        "games_played": 1041,
+        "win_rate": 0.5658021133525456
     },
     {
         "team": [
@@ -122,17 +149,17 @@
             "COLT",
             "EDGAR"
         ],
-        "games_played": 480,
-        "win_rate": 0.5541666666666667
+        "games_played": 546,
+        "win_rate": 0.5622710622710623
     },
     {
         "team": [
-            "CHUCK",
+            "COLETTE",
             "COLT",
-            "RICO"
+            "CROW"
         ],
-        "games_played": 334,
-        "win_rate": 0.5449101796407185
+        "games_played": 427,
+        "win_rate": 0.5550351288056206
     },
     {
         "team": [
@@ -140,8 +167,8 @@
             "JESSIE",
             "MELODIE"
         ],
-        "games_played": 407,
-        "win_rate": 0.5405405405405406
+        "games_played": 453,
+        "win_rate": 0.5408388520971302
     },
     {
         "team": [
@@ -149,8 +176,17 @@
             "CROW",
             "JESSIE"
         ],
-        "games_played": 546,
-        "win_rate": 0.5164835164835165
+        "games_played": 658,
+        "win_rate": 0.5303951367781155
+    },
+    {
+        "team": [
+            "CHUCK",
+            "COLT",
+            "RICO"
+        ],
+        "games_played": 420,
+        "win_rate": 0.5023809523809524
     },
     {
         "team": [
@@ -158,7 +194,52 @@
             "EDGAR",
             "JESSIE"
         ],
-        "games_played": 586,
-        "win_rate": 0.4812286689419795
+        "games_played": 688,
+        "win_rate": 0.47093023255813954
+    },
+    {
+        "team": [
+            "BROCK",
+            "COLT",
+            "JESSIE"
+        ],
+        "games_played": 318,
+        "win_rate": 0.46540880503144655
+    },
+    {
+        "team": [
+            "COLT",
+            "CROW",
+            "EDGAR"
+        ],
+        "games_played": 333,
+        "win_rate": 0.45645645645645644
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "RICO"
+        ],
+        "games_played": 337,
+        "win_rate": 0.45103857566765576
+    },
+    {
+        "team": [
+            "COLETTE",
+            "COLT",
+            "EDGAR"
+        ],
+        "games_played": 395,
+        "win_rate": 0.43291139240506327
+    },
+    {
+        "team": [
+            "COLT",
+            "JESSIE",
+            "PIPER"
+        ],
+        "games_played": 300,
+        "win_rate": 0.4266666666666667
     }
 ]

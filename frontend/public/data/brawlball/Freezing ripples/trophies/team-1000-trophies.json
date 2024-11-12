@@ -1,0 +1,35 @@
+[
+    {
+        "team": [
+            "BYRON",
+            "COLT",
+            "GALE",
+            "MELODIE",
+            "STU"
+        ],
+        "games_played": 624,
+        "win_rate": 0.9839743589743589
+    },
+    {
+        "team": [
+            "BELLE",
+            "BUSTER",
+            "FRANK",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 425,
+        "win_rate": 0.9176470588235294
+    },
+    {
+        "team": [
+            "BELLE",
+            "GENE",
+            "JACKY",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 330,
+        "win_rate": 0.8787878787878788
+    }
+]

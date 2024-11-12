@@ -1,21 +1,21 @@
 [
     {
         "team": [
-            "BEA",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 546,
-        "win_rate": 0.8663003663003663
-    },
-    {
-        "team": [
             "BARLEY",
             "KENJI",
             "STU"
         ],
-        "games_played": 314,
-        "win_rate": 0.8630573248407644
+        "games_played": 364,
+        "win_rate": 0.8681318681318682
+    },
+    {
+        "team": [
+            "BEA",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 559,
+        "win_rate": 0.8640429338103757
     },
     {
         "team": [
@@ -23,26 +23,8 @@
             "KENJI",
             "STU"
         ],
-        "games_played": 418,
-        "win_rate": 0.84688995215311
-    },
-    {
-        "team": [
-            "BUZZ",
-            "MORTIS",
-            "SAM"
-        ],
-        "games_played": 340,
-        "win_rate": 0.8382352941176471
-    },
-    {
-        "team": [
-            "LARRY & LAWRIE",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 418,
-        "win_rate": 0.8253588516746412
+        "games_played": 420,
+        "win_rate": 0.8476190476190476
     },
     {
         "team": [
@@ -50,8 +32,26 @@
             "NITA",
             "STU"
         ],
-        "games_played": 420,
-        "win_rate": 0.8238095238095238
+        "games_played": 439,
+        "win_rate": 0.8291571753986332
+    },
+    {
+        "team": [
+            "BUZZ",
+            "MORTIS",
+            "SAM"
+        ],
+        "games_played": 363,
+        "win_rate": 0.8264462809917356
+    },
+    {
+        "team": [
+            "LARRY & LAWRIE",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 448,
+        "win_rate": 0.8236607142857143
     },
     {
         "team": [
@@ -68,26 +68,17 @@
             "LARRY & LAWRIE",
             "MOE"
         ],
-        "games_played": 404,
-        "win_rate": 0.8094059405940595
+        "games_played": 418,
+        "win_rate": 0.8110047846889952
     },
     {
         "team": [
             "BEA",
-            "FRANK",
-            "MOE"
+            "COLT",
+            "STU"
         ],
-        "games_played": 337,
-        "win_rate": 0.7863501483679525
-    },
-    {
-        "team": [
-            "JESSIE",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 422,
-        "win_rate": 0.7677725118483413
+        "games_played": 326,
+        "win_rate": 0.803680981595092
     },
     {
         "team": [
@@ -95,26 +86,17 @@
             "DYNAMIKE",
             "GALE"
         ],
-        "games_played": 339,
-        "win_rate": 0.7669616519174042
+        "games_played": 352,
+        "win_rate": 0.7755681818181818
     },
     {
         "team": [
+            "BEA",
             "FRANK",
-            "MOE",
-            "NITA"
+            "MOE"
         ],
-        "games_played": 436,
-        "win_rate": 0.7660550458715596
-    },
-    {
-        "team": [
-            "JUJU",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 598,
-        "win_rate": 0.7608695652173914
+        "games_played": 358,
+        "win_rate": 0.7737430167597765
     },
     {
         "team": [
@@ -122,8 +104,8 @@
             "MOE",
             "MORTIS"
         ],
-        "games_played": 458,
-        "win_rate": 0.759825327510917
+        "games_played": 512,
+        "win_rate": 0.7734375
     },
     {
         "team": [
@@ -131,17 +113,8 @@
             "STU",
             "SURGE"
         ],
-        "games_played": 411,
-        "win_rate": 0.7518248175182481
-    },
-    {
-        "team": [
-            "KENJI",
-            "MAX",
-            "MOE"
-        ],
-        "games_played": 578,
-        "win_rate": 0.7491349480968859
+        "games_played": 496,
+        "win_rate": 0.7721774193548387
     },
     {
         "team": [
@@ -149,8 +122,53 @@
             "MAX",
             "MOE"
         ],
-        "games_played": 423,
-        "win_rate": 0.7470449172576832
+        "games_played": 519,
+        "win_rate": 0.766859344894027
+    },
+    {
+        "team": [
+            "FRANK",
+            "MOE",
+            "NITA"
+        ],
+        "games_played": 523,
+        "win_rate": 0.7648183556405354
+    },
+    {
+        "team": [
+            "JESSIE",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 430,
+        "win_rate": 0.7534883720930232
+    },
+    {
+        "team": [
+            "JUJU",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 635,
+        "win_rate": 0.7496062992125985
+    },
+    {
+        "team": [
+            "BUSTER",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 335,
+        "win_rate": 0.7432835820895523
+    },
+    {
+        "team": [
+            "BEA",
+            "MOE",
+            "MORTIS"
+        ],
+        "games_played": 412,
+        "win_rate": 0.7427184466019418
     },
     {
         "team": [
@@ -158,8 +176,17 @@
             "NITA",
             "STU"
         ],
-        "games_played": 398,
-        "win_rate": 0.7462311557788944
+        "games_played": 408,
+        "win_rate": 0.7377450980392157
+    },
+    {
+        "team": [
+            "KENJI",
+            "MAX",
+            "MOE"
+        ],
+        "games_played": 613,
+        "win_rate": 0.7373572593800979
     },
     {
         "team": [
@@ -167,8 +194,8 @@
             "RICO",
             "SURGE"
         ],
-        "games_played": 634,
-        "win_rate": 0.7381703470031545
+        "games_played": 668,
+        "win_rate": 0.7350299401197605
     },
     {
         "team": [
@@ -176,8 +203,17 @@
             "KENJI",
             "SURGE"
         ],
-        "games_played": 530,
-        "win_rate": 0.7339622641509433
+        "games_played": 538,
+        "win_rate": 0.7304832713754646
+    },
+    {
+        "team": [
+            "COLT",
+            "MOE",
+            "STU"
+        ],
+        "games_played": 571,
+        "win_rate": 0.7302977232924693
     },
     {
         "team": [
@@ -185,53 +221,8 @@
             "MOE",
             "SURGE"
         ],
-        "games_played": 428,
-        "win_rate": 0.7336448598130841
-    },
-    {
-        "team": [
-            "KENJI",
-            "MAX",
-            "SURGE"
-        ],
-        "games_played": 764,
-        "win_rate": 0.7329842931937173
-    },
-    {
-        "team": [
-            "BEA",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 489,
-        "win_rate": 0.7259713701431493
-    },
-    {
-        "team": [
-            "MAISIE",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 723,
-        "win_rate": 0.7233748271092669
-    },
-    {
-        "team": [
-            "BIBI",
-            "MOE",
-            "NITA"
-        ],
-        "games_played": 419,
-        "win_rate": 0.7231503579952268
-    },
-    {
-        "team": [
-            "BEA",
-            "MOE",
-            "MORTIS"
-        ],
-        "games_played": 382,
-        "win_rate": 0.7225130890052356
+        "games_played": 446,
+        "win_rate": 0.7286995515695067
     },
     {
         "team": [
@@ -239,17 +230,44 @@
             "STU",
             "SURGE"
         ],
-        "games_played": 2033,
-        "win_rate": 0.721593703885883
+        "games_played": 2165,
+        "win_rate": 0.7284064665127021
     },
     {
         "team": [
-            "COLT",
+            "BARLEY",
             "MOE",
-            "STU"
+            "SURGE"
         ],
-        "games_played": 531,
-        "win_rate": 0.71939736346516
+        "games_played": 305,
+        "win_rate": 0.7278688524590164
+    },
+    {
+        "team": [
+            "BEA",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 522,
+        "win_rate": 0.7203065134099617
+    },
+    {
+        "team": [
+            "KENJI",
+            "MAX",
+            "SURGE"
+        ],
+        "games_played": 799,
+        "win_rate": 0.7196495619524406
+    },
+    {
+        "team": [
+            "MAISIE",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 758,
+        "win_rate": 0.7189973614775725
     },
     {
         "team": [
@@ -257,35 +275,17 @@
             "MOE",
             "RICO"
         ],
-        "games_played": 413,
-        "win_rate": 0.7167070217917676
+        "games_played": 422,
+        "win_rate": 0.7156398104265402
     },
     {
         "team": [
-            "MAX",
-            "MORTIS",
-            "STU"
+            "BIBI",
+            "MOE",
+            "NITA"
         ],
-        "games_played": 404,
-        "win_rate": 0.7153465346534653
-    },
-    {
-        "team": [
-            "JUJU",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 493,
-        "win_rate": 0.7099391480730223
-    },
-    {
-        "team": [
-            "BEA",
-            "DYNAMIKE",
-            "MOE"
-        ],
-        "games_played": 303,
-        "win_rate": 0.7095709570957096
+        "games_played": 446,
+        "win_rate": 0.7152466367713004
     },
     {
         "team": [
@@ -293,8 +293,8 @@
             "DYNAMIKE",
             "SURGE"
         ],
-        "games_played": 477,
-        "win_rate": 0.7085953878406709
+        "games_played": 501,
+        "win_rate": 0.7105788423153693
     },
     {
         "team": [
@@ -302,8 +302,8 @@
             "MOE",
             "RICO"
         ],
-        "games_played": 419,
-        "win_rate": 0.7064439140811456
+        "games_played": 449,
+        "win_rate": 0.7082405345211581
     },
     {
         "team": [
@@ -311,8 +311,17 @@
             "KENJI",
             "RICO"
         ],
-        "games_played": 374,
-        "win_rate": 0.7032085561497327
+        "games_played": 401,
+        "win_rate": 0.7057356608478803
+    },
+    {
+        "team": [
+            "JUJU",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 515,
+        "win_rate": 0.7048543689320388
     },
     {
         "team": [
@@ -320,8 +329,35 @@
             "NITA",
             "SURGE"
         ],
-        "games_played": 782,
-        "win_rate": 0.7007672634271099
+        "games_played": 818,
+        "win_rate": 0.7029339853300733
+    },
+    {
+        "team": [
+            "MAX",
+            "MORTIS",
+            "STU"
+        ],
+        "games_played": 437,
+        "win_rate": 0.7025171624713958
+    },
+    {
+        "team": [
+            "BEA",
+            "DYNAMIKE",
+            "MOE"
+        ],
+        "games_played": 309,
+        "win_rate": 0.6957928802588996
+    },
+    {
+        "team": [
+            "MOE",
+            "RICO",
+            "TARA"
+        ],
+        "games_played": 370,
+        "win_rate": 0.6945945945945946
     },
     {
         "team": [
@@ -329,17 +365,8 @@
             "COLT",
             "MOE"
         ],
-        "games_played": 532,
-        "win_rate": 0.6992481203007519
-    },
-    {
-        "team": [
-            "MOE",
-            "RICO",
-            "TARA"
-        ],
-        "games_played": 364,
-        "win_rate": 0.6978021978021978
+        "games_played": 552,
+        "win_rate": 0.6938405797101449
     },
     {
         "team": [
@@ -347,17 +374,8 @@
             "MOE",
             "TARA"
         ],
-        "games_played": 346,
-        "win_rate": 0.6965317919075145
-    },
-    {
-        "team": [
-            "COLT",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 810,
-        "win_rate": 0.6938271604938272
+        "games_played": 366,
+        "win_rate": 0.6912568306010929
     },
     {
         "team": [
@@ -365,8 +383,17 @@
             "MOE",
             "STU"
         ],
-        "games_played": 1165,
-        "win_rate": 0.6935622317596567
+        "games_played": 1366,
+        "win_rate": 0.6874084919472914
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 843,
+        "win_rate": 0.6856465005931198
     },
     {
         "team": [
@@ -374,8 +401,17 @@
             "MOE",
             "SURGE"
         ],
-        "games_played": 2363,
-        "win_rate": 0.6906474820143885
+        "games_played": 2476,
+        "win_rate": 0.682956381260097
+    },
+    {
+        "team": [
+            "GALE",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 596,
+        "win_rate": 0.6778523489932886
     },
     {
         "team": [
@@ -383,26 +419,17 @@
             "GALE",
             "MOE"
         ],
-        "games_played": 304,
-        "win_rate": 0.6842105263157895
+        "games_played": 344,
+        "win_rate": 0.6773255813953488
     },
     {
         "team": [
-            "GALE",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 572,
-        "win_rate": 0.6835664335664335
-    },
-    {
-        "team": [
-            "FRANK",
             "MAX",
+            "MOE",
             "SURGE"
         ],
-        "games_played": 521,
-        "win_rate": 0.6775431861804223
+        "games_played": 409,
+        "win_rate": 0.6772616136919315
     },
     {
         "team": [
@@ -410,44 +437,35 @@
             "MOE",
             "SURGE"
         ],
-        "games_played": 1066,
-        "win_rate": 0.6763602251407129
+        "games_played": 1114,
+        "win_rate": 0.6732495511669659
     },
     {
         "team": [
-            "MAX",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 379,
-        "win_rate": 0.6728232189973615
-    },
-    {
-        "team": [
-            "JACKY",
-            "KENJI",
+            "BIBI",
+            "CLANCY",
             "MOE"
         ],
-        "games_played": 911,
-        "win_rate": 0.6717892425905598
+        "games_played": 525,
+        "win_rate": 0.6723809523809524
     },
     {
         "team": [
-            "JUJU",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 300,
-        "win_rate": 0.67
-    },
-    {
-        "team": [
-            "COLT",
-            "MOE",
+            "FRANK",
+            "MAX",
             "SURGE"
         ],
-        "games_played": 972,
-        "win_rate": 0.6697530864197531
+        "games_played": 558,
+        "win_rate": 0.6720430107526881
+    },
+    {
+        "team": [
+            "CLANCY",
+            "COLT",
+            "STU"
+        ],
+        "games_played": 379,
+        "win_rate": 0.6701846965699209
     },
     {
         "team": [
@@ -455,8 +473,98 @@
             "RICO",
             "STU"
         ],
-        "games_played": 1804,
-        "win_rate": 0.6690687361419069
+        "games_played": 1907,
+        "win_rate": 0.670162558993183
+    },
+    {
+        "team": [
+            "JACKY",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 985,
+        "win_rate": 0.6700507614213198
+    },
+    {
+        "team": [
+            "FRANK",
+            "MOE",
+            "STU"
+        ],
+        "games_played": 647,
+        "win_rate": 0.6676970633693973
+    },
+    {
+        "team": [
+            "COLT",
+            "MAISIE",
+            "MOE"
+        ],
+        "games_played": 305,
+        "win_rate": 0.6655737704918033
+    },
+    {
+        "team": [
+            "CLANCY",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 1168,
+        "win_rate": 0.6652397260273972
+    },
+    {
+        "team": [
+            "FRANK",
+            "GALE",
+            "MOE"
+        ],
+        "games_played": 465,
+        "win_rate": 0.6645161290322581
+    },
+    {
+        "team": [
+            "KENJI",
+            "MAISIE",
+            "MOE"
+        ],
+        "games_played": 491,
+        "win_rate": 0.6639511201629328
+    },
+    {
+        "team": [
+            "COLT",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 1032,
+        "win_rate": 0.6608527131782945
+    },
+    {
+        "team": [
+            "KENJI",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 3654,
+        "win_rate": 0.6584564860426929
+    },
+    {
+        "team": [
+            "KENJI",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 4074,
+        "win_rate": 0.6578301423662248
+    },
+    {
+        "team": [
+            "MOE",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 5184,
+        "win_rate": 0.6570216049382716
     },
     {
         "team": [
@@ -464,89 +572,8 @@
             "MOE",
             "MORTIS"
         ],
-        "games_played": 422,
-        "win_rate": 0.6682464454976303
-    },
-    {
-        "team": [
-            "CLANCY",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 1106,
-        "win_rate": 0.6636528028933092
-    },
-    {
-        "team": [
-            "GALE",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 762,
-        "win_rate": 0.6627296587926509
-    },
-    {
-        "team": [
-            "KENJI",
-            "MAISIE",
-            "MOE"
-        ],
-        "games_played": 475,
-        "win_rate": 0.6610526315789473
-    },
-    {
-        "team": [
-            "BIBI",
-            "CLANCY",
-            "MOE"
-        ],
-        "games_played": 474,
-        "win_rate": 0.6603375527426161
-    },
-    {
-        "team": [
-            "MOE",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 4891,
-        "win_rate": 0.6597832754038029
-    },
-    {
-        "team": [
-            "KENJI",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 3872,
-        "win_rate": 0.659349173553719
-    },
-    {
-        "team": [
-            "KENJI",
-            "MOE",
-            "RICO"
-        ],
-        "games_played": 3410,
-        "win_rate": 0.658357771260997
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "GALE",
-            "MOE"
-        ],
-        "games_played": 301,
-        "win_rate": 0.6578073089700996
-    },
-    {
-        "team": [
-            "BIBI",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 2215,
-        "win_rate": 0.6537246049661399
+        "games_played": 449,
+        "win_rate": 0.6570155902004454
     },
     {
         "team": [
@@ -554,8 +581,71 @@
             "RICO",
             "STU"
         ],
-        "games_played": 418,
-        "win_rate": 0.65311004784689
+        "games_played": 446,
+        "win_rate": 0.6569506726457399
+    },
+    {
+        "team": [
+            "CLANCY",
+            "JACKY",
+            "MOE"
+        ],
+        "games_played": 306,
+        "win_rate": 0.6568627450980392
+    },
+    {
+        "team": [
+            "GALE",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 798,
+        "win_rate": 0.656641604010025
+    },
+    {
+        "team": [
+            "BIBI",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 2341,
+        "win_rate": 0.6561298590346006
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "GALE",
+            "MOE"
+        ],
+        "games_played": 315,
+        "win_rate": 0.653968253968254
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "MOE"
+        ],
+        "games_played": 626,
+        "win_rate": 0.6533546325878594
+    },
+    {
+        "team": [
+            "DARRYL",
+            "DYNAMIKE",
+            "MOE"
+        ],
+        "games_played": 304,
+        "win_rate": 0.6480263157894737
+    },
+    {
+        "team": [
+            "JACKY",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 994,
+        "win_rate": 0.647887323943662
     },
     {
         "team": [
@@ -563,8 +653,35 @@
             "MOE",
             "SURGE"
         ],
-        "games_played": 1884,
-        "win_rate": 0.6502123142250531
+        "games_played": 2044,
+        "win_rate": 0.6457925636007827
+    },
+    {
+        "team": [
+            "BEA",
+            "DYNAMIKE",
+            "KENJI"
+        ],
+        "games_played": 309,
+        "win_rate": 0.6440129449838188
+    },
+    {
+        "team": [
+            "JUJU",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 323,
+        "win_rate": 0.6439628482972136
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 1820,
+        "win_rate": 0.6428571428571429
     },
     {
         "team": [
@@ -572,134 +689,8 @@
             "KENJI",
             "NITA"
         ],
-        "games_played": 351,
-        "win_rate": 0.6467236467236467
-    },
-    {
-        "team": [
-            "JACKY",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 915,
-        "win_rate": 0.6437158469945355
-    },
-    {
-        "team": [
-            "BIBI",
-            "GALE",
-            "KENJI"
-        ],
-        "games_played": 763,
-        "win_rate": 0.6435124508519003
-    },
-    {
-        "team": [
-            "CLANCY",
-            "COLT",
-            "STU"
-        ],
-        "games_played": 316,
-        "win_rate": 0.6424050632911392
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 1635,
-        "win_rate": 0.6422018348623854
-    },
-    {
-        "team": [
-            "FRANK",
-            "JACKY",
-            "MOE"
-        ],
-        "games_played": 567,
-        "win_rate": 0.6419753086419753
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "MOE",
-            "STU"
-        ],
-        "games_played": 498,
-        "win_rate": 0.6405622489959839
-    },
-    {
-        "team": [
-            "FRANK",
-            "MOE",
-            "STU"
-        ],
-        "games_played": 586,
-        "win_rate": 0.6399317406143344
-    },
-    {
-        "team": [
-            "KENJI",
-            "MAISIE",
-            "SURGE"
-        ],
-        "games_played": 895,
-        "win_rate": 0.6391061452513966
-    },
-    {
-        "team": [
-            "COLT",
-            "FRANK",
-            "MOE"
-        ],
-        "games_played": 583,
-        "win_rate": 0.6380789022298456
-    },
-    {
-        "team": [
-            "BUZZ",
-            "COLT",
-            "DYNAMIKE"
-        ],
-        "games_played": 343,
-        "win_rate": 0.6355685131195336
-    },
-    {
-        "team": [
-            "FRANK",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 2332,
-        "win_rate": 0.6355060034305318
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "JACKY",
-            "MOE"
-        ],
-        "games_played": 408,
-        "win_rate": 0.6348039215686274
-    },
-    {
-        "team": [
-            "NITA",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 468,
-        "win_rate": 0.6346153846153846
-    },
-    {
-        "team": [
-            "BIBI",
-            "NITA",
-            "RICO"
-        ],
-        "games_played": 845,
-        "win_rate": 0.6343195266272189
+        "games_played": 381,
+        "win_rate": 0.6404199475065617
     },
     {
         "team": [
@@ -707,17 +698,89 @@
             "MOE",
             "RICO"
         ],
+        "games_played": 335,
+        "win_rate": 0.6388059701492538
+    },
+    {
+        "team": [
+            "KENJI",
+            "MAX",
+            "RICO"
+        ],
+        "games_played": 450,
+        "win_rate": 0.6377777777777778
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 2467,
+        "win_rate": 0.6368058370490475
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "JACKY",
+            "MOE"
+        ],
+        "games_played": 478,
+        "win_rate": 0.6359832635983264
+    },
+    {
+        "team": [
+            "FRANK",
+            "JACKY",
+            "MOE"
+        ],
+        "games_played": 604,
+        "win_rate": 0.6357615894039735
+    },
+    {
+        "team": [
+            "MAX",
+            "STU",
+            "SURGE"
+        ],
         "games_played": 302,
-        "win_rate": 0.6324503311258278
+        "win_rate": 0.6357615894039735
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "MOE",
+            "STU"
+        ],
+        "games_played": 556,
+        "win_rate": 0.6348920863309353
+    },
+    {
+        "team": [
+            "BUZZ",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 776,
+        "win_rate": 0.6327319587628866
+    },
+    {
+        "team": [
+            "KENJI",
+            "MAISIE",
+            "SURGE"
+        ],
+        "games_played": 970,
+        "win_rate": 0.6319587628865979
     },
     {
         "team": [
             "BIBI",
-            "MAX",
-            "MORTIS"
+            "NITA",
+            "RICO"
         ],
-        "games_played": 386,
-        "win_rate": 0.6321243523316062
+        "games_played": 904,
+        "win_rate": 0.629424778761062
     },
     {
         "team": [
@@ -725,8 +788,35 @@
             "MOE",
             "RICO"
         ],
-        "games_played": 2169,
-        "win_rate": 0.6316274781005071
+        "games_played": 2312,
+        "win_rate": 0.6284602076124568
+    },
+    {
+        "team": [
+            "DARRYL",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 615,
+        "win_rate": 0.6276422764227643
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "FRANK",
+            "MOE"
+        ],
+        "games_played": 322,
+        "win_rate": 0.6273291925465838
+    },
+    {
+        "team": [
+            "NITA",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 488,
+        "win_rate": 0.6270491803278688
     },
     {
         "team": [
@@ -734,17 +824,17 @@
             "STU",
             "SURGE"
         ],
-        "games_played": 318,
-        "win_rate": 0.6289308176100629
+        "games_played": 333,
+        "win_rate": 0.6246246246246246
     },
     {
         "team": [
-            "FRANK",
+            "BIBI",
             "GALE",
-            "MOE"
+            "KENJI"
         ],
-        "games_played": 382,
-        "win_rate": 0.6282722513089005
+        "games_played": 826,
+        "win_rate": 0.6234866828087167
     },
     {
         "team": [
@@ -752,62 +842,8 @@
             "JACKY",
             "SURGE"
         ],
-        "games_played": 783,
-        "win_rate": 0.6270753512132823
-    },
-    {
-        "team": [
-            "KENJI",
-            "MAX",
-            "RICO"
-        ],
-        "games_played": 436,
-        "win_rate": 0.6261467889908257
-    },
-    {
-        "team": [
-            "BIBI",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 1410,
-        "win_rate": 0.6212765957446809
-    },
-    {
-        "team": [
-            "CLANCY",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 1012,
-        "win_rate": 0.6205533596837944
-    },
-    {
-        "team": [
-            "CLANCY",
-            "COLT",
-            "SURGE"
-        ],
-        "games_played": 532,
-        "win_rate": 0.6203007518796992
-    },
-    {
-        "team": [
-            "JUJU",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 428,
-        "win_rate": 0.6191588785046729
-    },
-    {
-        "team": [
-            "MAX",
-            "MORTIS",
-            "SURGE"
-        ],
-        "games_played": 513,
-        "win_rate": 0.6179337231968811
+        "games_played": 835,
+        "win_rate": 0.6227544910179641
     },
     {
         "team": [
@@ -815,8 +851,35 @@
             "MOE",
             "RICO"
         ],
-        "games_played": 565,
-        "win_rate": 0.6176991150442478
+        "games_played": 641,
+        "win_rate": 0.6209048361934477
+    },
+    {
+        "team": [
+            "BUZZ",
+            "COLT",
+            "DYNAMIKE"
+        ],
+        "games_played": 392,
+        "win_rate": 0.6198979591836735
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FRANK",
+            "MOE"
+        ],
+        "games_played": 764,
+        "win_rate": 0.6191099476439791
+    },
+    {
+        "team": [
+            "MAX",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 569,
+        "win_rate": 0.6186291739894552
     },
     {
         "team": [
@@ -824,71 +887,26 @@
             "SURGE",
             "TARA"
         ],
-        "games_played": 842,
-        "win_rate": 0.6175771971496437
-    },
-    {
-        "team": [
-            "FRANK",
-            "MAX",
-            "MORTIS"
-        ],
-        "games_played": 487,
-        "win_rate": 0.6160164271047228
-    },
-    {
-        "team": [
-            "BUZZ",
-            "MOE",
-            "RICO"
-        ],
-        "games_played": 726,
-        "win_rate": 0.6157024793388429
-    },
-    {
-        "team": [
-            "DARRYL",
-            "MOE",
-            "RICO"
-        ],
-        "games_played": 511,
-        "win_rate": 0.6144814090019569
+        "games_played": 870,
+        "win_rate": 0.6172413793103448
     },
     {
         "team": [
             "CLANCY",
-            "FRANK",
-            "MOE"
-        ],
-        "games_played": 679,
-        "win_rate": 0.6097201767304861
-    },
-    {
-        "team": [
-            "FRANK",
-            "MOE",
-            "RICO"
-        ],
-        "games_played": 1541,
-        "win_rate": 0.609344581440623
-    },
-    {
-        "team": [
-            "FRANK",
-            "KENJI",
-            "MAX"
-        ],
-        "games_played": 558,
-        "win_rate": 0.6075268817204301
-    },
-    {
-        "team": [
-            "JESSIE",
-            "KENJI",
+            "COLT",
             "SURGE"
         ],
-        "games_played": 370,
-        "win_rate": 0.6054054054054054
+        "games_played": 576,
+        "win_rate": 0.6163194444444444
+    },
+    {
+        "team": [
+            "BIBI",
+            "MAX",
+            "MORTIS"
+        ],
+        "games_played": 400,
+        "win_rate": 0.615
     },
     {
         "team": [
@@ -896,98 +914,17 @@
             "NITA",
             "RICO"
         ],
-        "games_played": 657,
-        "win_rate": 0.6012176560121766
+        "games_played": 707,
+        "win_rate": 0.6138613861386139
     },
     {
         "team": [
-            "BIBI",
-            "JACKY",
-            "MOE"
-        ],
-        "games_played": 651,
-        "win_rate": 0.6006144393241167
-    },
-    {
-        "team": [
-            "GALE",
-            "MOE",
-            "MORTIS"
-        ],
-        "games_played": 520,
-        "win_rate": 0.6
-    },
-    {
-        "team": [
-            "JACKY",
+            "JUJU",
             "KENJI",
-            "RICO"
-        ],
-        "games_played": 2068,
-        "win_rate": 0.5996131528046421
-    },
-    {
-        "team": [
-            "CLANCY",
-            "MOE",
-            "MORTIS"
-        ],
-        "games_played": 537,
-        "win_rate": 0.5977653631284916
-    },
-    {
-        "team": [
-            "GALE",
-            "KENJI",
-            "STU"
-        ],
-        "games_played": 307,
-        "win_rate": 0.5960912052117264
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "JESSIE",
-            "KENJI"
-        ],
-        "games_played": 344,
-        "win_rate": 0.5959302325581395
-    },
-    {
-        "team": [
-            "COLT",
-            "STU",
             "SURGE"
         ],
-        "games_played": 489,
-        "win_rate": 0.5950920245398773
-    },
-    {
-        "team": [
-            "DARRYL",
-            "FRANK",
-            "MOE"
-        ],
-        "games_played": 385,
-        "win_rate": 0.5948051948051948
-    },
-    {
-        "team": [
-            "GALE",
-            "JACKY",
-            "KENJI"
-        ],
-        "games_played": 506,
-        "win_rate": 0.5928853754940712
-    },
-    {
-        "team": [
-            "JACKY",
-            "MOE",
-            "RICO"
-        ],
-        "games_played": 1167,
-        "win_rate": 0.5921165381319623
+        "games_played": 456,
+        "win_rate": 0.6096491228070176
     },
     {
         "team": [
@@ -995,17 +932,80 @@
             "MOE",
             "NITA"
         ],
-        "games_played": 333,
-        "win_rate": 0.5915915915915916
+        "games_played": 371,
+        "win_rate": 0.6091644204851752
     },
     {
         "team": [
-            "BUZZ",
-            "DYNAMIKE",
+            "BIBI",
+            "KENJI",
             "MOE"
         ],
-        "games_played": 398,
-        "win_rate": 0.5904522613065326
+        "games_played": 1506,
+        "win_rate": 0.6082337317397079
+    },
+    {
+        "team": [
+            "CLANCY",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 1073,
+        "win_rate": 0.6076421248835042
+    },
+    {
+        "team": [
+            "JACKY",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 1227,
+        "win_rate": 0.6063569682151589
+    },
+    {
+        "team": [
+            "DARRYL",
+            "FRANK",
+            "MOE"
+        ],
+        "games_played": 419,
+        "win_rate": 0.6062052505966588
+    },
+    {
+        "team": [
+            "BIBI",
+            "JACKY",
+            "MOE"
+        ],
+        "games_played": 693,
+        "win_rate": 0.6046176046176046
+    },
+    {
+        "team": [
+            "JACKY",
+            "KENJI",
+            "RICO"
+        ],
+        "games_played": 2197,
+        "win_rate": 0.6017296313154301
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "MAX"
+        ],
+        "games_played": 605,
+        "win_rate": 0.6
+    },
+    {
+        "team": [
+            "FRANK",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 1651,
+        "win_rate": 0.5996365838885523
     },
     {
         "team": [
@@ -1013,8 +1013,89 @@
             "JACKY",
             "SURGE"
         ],
-        "games_played": 383,
-        "win_rate": 0.5900783289817232
+        "games_played": 402,
+        "win_rate": 0.599502487562189
+    },
+    {
+        "team": [
+            "GALE",
+            "JACKY",
+            "KENJI"
+        ],
+        "games_played": 539,
+        "win_rate": 0.5992578849721707
+    },
+    {
+        "team": [
+            "GALE",
+            "MOE",
+            "MORTIS"
+        ],
+        "games_played": 531,
+        "win_rate": 0.5988700564971752
+    },
+    {
+        "team": [
+            "BUZZ",
+            "DYNAMIKE",
+            "MOE"
+        ],
+        "games_played": 450,
+        "win_rate": 0.5977777777777777
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "JESSIE",
+            "KENJI"
+        ],
+        "games_played": 370,
+        "win_rate": 0.5972972972972973
+    },
+    {
+        "team": [
+            "FRANK",
+            "MAX",
+            "MORTIS"
+        ],
+        "games_played": 560,
+        "win_rate": 0.5964285714285714
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FRANK",
+            "STU"
+        ],
+        "games_played": 460,
+        "win_rate": 0.5956521739130435
+    },
+    {
+        "team": [
+            "GALE",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 430,
+        "win_rate": 0.5953488372093023
+    },
+    {
+        "team": [
+            "DARRYL",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 317,
+        "win_rate": 0.5930599369085173
+    },
+    {
+        "team": [
+            "CLANCY",
+            "MOE",
+            "MORTIS"
+        ],
+        "games_played": 585,
+        "win_rate": 0.5897435897435898
     },
     {
         "team": [
@@ -1022,35 +1103,35 @@
             "FRANK",
             "MOE"
         ],
-        "games_played": 1260,
-        "win_rate": 0.5896825396825397
+        "games_played": 1346,
+        "win_rate": 0.5891530460624071
     },
     {
         "team": [
-            "FRANK",
+            "BUZZ",
             "NITA",
-            "SURGE"
+            "RICO"
         ],
-        "games_played": 575,
-        "win_rate": 0.5895652173913043
+        "games_played": 300,
+        "win_rate": 0.5866666666666667
     },
     {
         "team": [
-            "MAX",
-            "RICO",
-            "SURGE"
+            "DYNAMIKE",
+            "FRANK",
+            "MOE"
         ],
-        "games_played": 389,
-        "win_rate": 0.5886889460154242
+        "games_played": 902,
+        "win_rate": 0.5853658536585366
     },
     {
         "team": [
-            "FANG",
-            "MOE",
+            "CLANCY",
+            "KENJI",
             "SURGE"
         ],
-        "games_played": 329,
-        "win_rate": 0.5866261398176292
+        "games_played": 1981,
+        "win_rate": 0.5850580514891469
     },
     {
         "team": [
@@ -1058,8 +1139,17 @@
             "FRANK",
             "GALE"
         ],
-        "games_played": 582,
-        "win_rate": 0.5859106529209622
+        "games_played": 643,
+        "win_rate": 0.5847589424572317
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "MOE"
+        ],
+        "games_played": 328,
+        "win_rate": 0.5823170731707317
     },
     {
         "team": [
@@ -1067,17 +1157,17 @@
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 2668,
-        "win_rate": 0.5835832083958021
+        "games_played": 2841,
+        "win_rate": 0.5811334037310806
     },
     {
         "team": [
-            "CLANCY",
-            "KENJI",
+            "DARRYL",
+            "MOE",
             "SURGE"
         ],
-        "games_played": 1808,
-        "win_rate": 0.5835176991150443
+        "games_played": 463,
+        "win_rate": 0.5809935205183585
     },
     {
         "team": [
@@ -1085,17 +1175,17 @@
             "MOE",
             "RICO"
         ],
-        "games_played": 1500,
-        "win_rate": 0.5826666666666667
+        "games_played": 1627,
+        "win_rate": 0.5808236017209588
     },
     {
         "team": [
             "GALE",
-            "MOE",
-            "RICO"
+            "KENJI",
+            "STU"
         ],
-        "games_played": 397,
-        "win_rate": 0.5818639798488665
+        "games_played": 325,
+        "win_rate": 0.5784615384615385
     },
     {
         "team": [
@@ -1103,26 +1193,53 @@
             "KENJI",
             "MAISIE"
         ],
-        "games_played": 466,
-        "win_rate": 0.5793991416309013
+        "games_played": 506,
+        "win_rate": 0.5770750988142292
     },
     {
         "team": [
-            "CLANCY",
-            "FRANK",
-            "STU"
-        ],
-        "games_played": 404,
-        "win_rate": 0.5767326732673267
-    },
-    {
-        "team": [
-            "CLANCY",
             "COLT",
-            "FRANK"
+            "STU",
+            "SURGE"
         ],
-        "games_played": 332,
-        "win_rate": 0.5753012048192772
+        "games_played": 529,
+        "win_rate": 0.5765595463137996
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 413,
+        "win_rate": 0.576271186440678
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 382,
+        "win_rate": 0.5759162303664922
+    },
+    {
+        "team": [
+            "FRANK",
+            "MAX",
+            "RICO"
+        ],
+        "games_played": 393,
+        "win_rate": 0.5750636132315522
+    },
+    {
+        "team": [
+            "GALE",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 435,
+        "win_rate": 0.5747126436781609
     },
     {
         "team": [
@@ -1130,53 +1247,71 @@
             "MOE",
             "RICO"
         ],
-        "games_played": 374,
-        "win_rate": 0.5748663101604278
+        "games_played": 406,
+        "win_rate": 0.5738916256157636
     },
     {
         "team": [
-            "BUZZ",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 477,
-        "win_rate": 0.5744234800838575
-    },
-    {
-        "team": [
-            "BIBI",
-            "MAISIE",
+            "EL PRIMO",
+            "KENJI",
             "RICO"
         ],
-        "games_played": 401,
-        "win_rate": 0.57356608478803
+        "games_played": 1113,
+        "win_rate": 0.5723270440251572
     },
     {
         "team": [
-            "DARRYL",
-            "STU",
+            "EL PRIMO",
+            "MOE",
             "SURGE"
         ],
-        "games_played": 368,
-        "win_rate": 0.5733695652173914
+        "games_played": 540,
+        "win_rate": 0.5722222222222222
     },
     {
         "team": [
-            "CLANCY",
-            "JACKY",
-            "KENJI"
+            "EL PRIMO",
+            "MOE",
+            "MORTIS"
         ],
-        "games_played": 755,
-        "win_rate": 0.5721854304635762
+        "games_played": 348,
+        "win_rate": 0.5718390804597702
     },
     {
         "team": [
-            "BUZZ",
+            "MAISIE",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 687,
+        "win_rate": 0.5705967976710334
+    },
+    {
+        "team": [
             "FRANK",
-            "JACKY"
+            "NITA",
+            "SURGE"
         ],
-        "games_played": 577,
-        "win_rate": 0.5719237435008665
+        "games_played": 626,
+        "win_rate": 0.5702875399361023
+    },
+    {
+        "team": [
+            "FANG",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 349,
+        "win_rate": 0.5702005730659025
+    },
+    {
+        "team": [
+            "FRANK",
+            "MOE",
+            "MORTIS"
+        ],
+        "games_played": 1388,
+        "win_rate": 0.5698847262247838
     },
     {
         "team": [
@@ -1184,17 +1319,71 @@
             "KENJI",
             "TARA"
         ],
-        "games_played": 322,
-        "win_rate": 0.5714285714285714
+        "games_played": 341,
+        "win_rate": 0.5689149560117303
     },
     {
         "team": [
-            "CORDELIUS",
-            "MORTIS",
-            "RICO"
+            "JACKY",
+            "MOE",
+            "MORTIS"
         ],
-        "games_played": 384,
-        "win_rate": 0.5703125
+        "games_played": 545,
+        "win_rate": 0.5688073394495413
+    },
+    {
+        "team": [
+            "BUZZ",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 532,
+        "win_rate": 0.5676691729323309
+    },
+    {
+        "team": [
+            "NITA",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 946,
+        "win_rate": 0.5676532769556025
+    },
+    {
+        "team": [
+            "MOE",
+            "MORTIS",
+            "STU"
+        ],
+        "games_played": 797,
+        "win_rate": 0.5671267252195734
+    },
+    {
+        "team": [
+            "NITA",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 358,
+        "win_rate": 0.5670391061452514
+    },
+    {
+        "team": [
+            "KENJI",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 6272,
+        "win_rate": 0.5669642857142857
+    },
+    {
+        "team": [
+            "BUZZ",
+            "EL PRIMO",
+            "SURGE"
+        ],
+        "games_played": 339,
+        "win_rate": 0.5663716814159292
     },
     {
         "team": [
@@ -1202,17 +1391,44 @@
             "STU",
             "SURGE"
         ],
-        "games_played": 1316,
-        "win_rate": 0.5699088145896657
+        "games_played": 1385,
+        "win_rate": 0.5653429602888087
     },
     {
         "team": [
-            "JACKY",
-            "MOE",
-            "MORTIS"
+            "EL PRIMO",
+            "KENJI",
+            "STU"
         ],
-        "games_played": 513,
-        "win_rate": 0.5692007797270955
+        "games_played": 381,
+        "win_rate": 0.5643044619422573
+    },
+    {
+        "team": [
+            "MAX",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 413,
+        "win_rate": 0.5641646489104116
+    },
+    {
+        "team": [
+            "CORDELIUS",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 415,
+        "win_rate": 0.563855421686747
+    },
+    {
+        "team": [
+            "FRANK",
+            "MAISIE",
+            "SURGE"
+        ],
+        "games_played": 529,
+        "win_rate": 0.5633270321361059
     },
     {
         "team": [
@@ -1220,17 +1436,116 @@
             "NITA",
             "RICO"
         ],
-        "games_played": 383,
-        "win_rate": 0.5691906005221932
+        "games_played": 404,
+        "win_rate": 0.5618811881188119
     },
     {
         "team": [
-            "FRANK",
+            "BUZZ",
+            "KENJI",
+            "MOE"
+        ],
+        "games_played": 608,
+        "win_rate": 0.5608552631578947
+    },
+    {
+        "team": [
+            "CLANCY",
             "MOE",
+            "RICO"
+        ],
+        "games_played": 748,
+        "win_rate": 0.5601604278074866
+    },
+    {
+        "team": [
+            "KENJI",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 1864,
+        "win_rate": 0.5600858369098712
+    },
+    {
+        "team": [
+            "BIBI",
+            "MAISIE",
+            "RICO"
+        ],
+        "games_played": 425,
+        "win_rate": 0.56
+    },
+    {
+        "team": [
+            "DARRYL",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 381,
+        "win_rate": 0.5590551181102362
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "JACKY",
+            "SURGE"
+        ],
+        "games_played": 1276,
+        "win_rate": 0.5579937304075235
+    },
+    {
+        "team": [
+            "GALE",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 992,
+        "win_rate": 0.5574596774193549
+    },
+    {
+        "team": [
+            "BUZZ",
+            "FRANK",
+            "JACKY"
+        ],
+        "games_played": 671,
+        "win_rate": 0.5573770491803278
+    },
+    {
+        "team": [
+            "CLANCY",
+            "COLT",
+            "FRANK"
+        ],
+        "games_played": 366,
+        "win_rate": 0.5573770491803278
+    },
+    {
+        "team": [
+            "CLANCY",
+            "JACKY",
+            "KENJI"
+        ],
+        "games_played": 810,
+        "win_rate": 0.5567901234567901
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "FRANK",
+            "JACKY"
+        ],
+        "games_played": 370,
+        "win_rate": 0.5567567567567567
+    },
+    {
+        "team": [
+            "BIBI",
+            "GALE",
             "MORTIS"
         ],
-        "games_played": 1301,
-        "win_rate": 0.568793235972329
+        "games_played": 586,
+        "win_rate": 0.5563139931740614
     },
     {
         "team": [
@@ -1238,62 +1553,8 @@
             "RICO",
             "SANDY"
         ],
-        "games_played": 419,
-        "win_rate": 0.568019093078759
-    },
-    {
-        "team": [
-            "NITA",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 876,
-        "win_rate": 0.567351598173516
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "KENJI",
-            "RICO"
-        ],
-        "games_played": 1028,
-        "win_rate": 0.5671206225680934
-    },
-    {
-        "team": [
-            "MOE",
-            "MORTIS",
-            "STU"
-        ],
-        "games_played": 735,
-        "win_rate": 0.5659863945578232
-    },
-    {
-        "team": [
-            "CLANCY",
-            "MOE",
-            "RICO"
-        ],
-        "games_played": 721,
-        "win_rate": 0.565880721220527
-    },
-    {
-        "team": [
-            "BUZZ",
-            "FRANK",
-            "MOE"
-        ],
-        "games_played": 403,
-        "win_rate": 0.56575682382134
-    },
-    {
-        "team": [
-            "MAISIE",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 656,
-        "win_rate": 0.5655487804878049
+        "games_played": 453,
+        "win_rate": 0.5562913907284768
     },
     {
         "team": [
@@ -1301,287 +1562,107 @@
             "JACKY",
             "RICO"
         ],
-        "games_played": 359,
-        "win_rate": 0.5654596100278552
+        "games_played": 376,
+        "win_rate": 0.5558510638297872
     },
     {
         "team": [
-            "GALE",
-            "STU",
+            "KENJI",
+            "MAX",
+            "MORTIS"
+        ],
+        "games_played": 333,
+        "win_rate": 0.5555555555555556
+    },
+    {
+        "team": [
+            "FRANK",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 1270,
+        "win_rate": 0.5551181102362205
+    },
+    {
+        "team": [
+            "JACKY",
+            "RICO",
             "SURGE"
         ],
-        "games_played": 407,
-        "win_rate": 0.5651105651105651
+        "games_played": 2112,
+        "win_rate": 0.5549242424242424
     },
     {
         "team": [
-            "EL PRIMO",
+            "BUZZ",
+            "FRANK",
+            "MOE"
+        ],
+        "games_played": 433,
+        "win_rate": 0.5542725173210161
+    },
+    {
+        "team": [
             "KENJI",
-            "STU"
+            "MOE",
+            "MORTIS"
+        ],
+        "games_played": 2162,
+        "win_rate": 0.5536540240518039
+    },
+    {
+        "team": [
+            "DARRYL",
+            "KENJI",
+            "RICO"
+        ],
+        "games_played": 925,
+        "win_rate": 0.5535135135135135
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "MOE"
+        ],
+        "games_played": 991,
+        "win_rate": 0.5529767911200807
+    },
+    {
+        "team": [
+            "BIBI",
+            "MAX",
+            "SURGE"
         ],
         "games_played": 351,
-        "win_rate": 0.5641025641025641
-    },
-    {
-        "team": [
-            "BIBI",
-            "MAX",
-            "SURGE"
-        ],
-        "games_played": 330,
-        "win_rate": 0.5636363636363636
-    },
-    {
-        "team": [
-            "KENJI",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 5769,
-        "win_rate": 0.563009187034148
-    },
-    {
-        "team": [
-            "KENJI",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 1735,
-        "win_rate": 0.562536023054755
-    },
-    {
-        "team": [
-            "KENJI",
-            "MAX",
-            "MORTIS"
-        ],
-        "games_played": 320,
-        "win_rate": 0.5625
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 470,
-        "win_rate": 0.5617021276595745
-    },
-    {
-        "team": [
-            "BUZZ",
-            "EL PRIMO",
-            "SURGE"
-        ],
-        "games_played": 301,
-        "win_rate": 0.5614617940199336
-    },
-    {
-        "team": [
-            "BIBI",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 1274,
-        "win_rate": 0.5612244897959183
-    },
-    {
-        "team": [
-            "GALE",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 924,
-        "win_rate": 0.5595238095238095
-    },
-    {
-        "team": [
-            "NITA",
-            "STU",
-            "SURGE"
-        ],
-        "games_played": 310,
-        "win_rate": 0.5580645161290323
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "FRANK",
-            "MOE"
-        ],
-        "games_played": 776,
-        "win_rate": 0.5579896907216495
-    },
-    {
-        "team": [
-            "JACKY",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 1941,
-        "win_rate": 0.5564142194744977
-    },
-    {
-        "team": [
-            "FRANK",
-            "MAISIE",
-            "SURGE"
-        ],
-        "games_played": 466,
-        "win_rate": 0.555793991416309
-    },
-    {
-        "team": [
-            "KENJI",
-            "MOE",
-            "MORTIS"
-        ],
-        "games_played": 2018,
-        "win_rate": 0.5550049554013875
-    },
-    {
-        "team": [
-            "FRANK",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 1149,
-        "win_rate": 0.5543951261966927
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "STU",
-            "SURGE"
-        ],
-        "games_played": 318,
-        "win_rate": 0.5534591194968553
-    },
-    {
-        "team": [
-            "BIBI",
-            "DARRYL",
-            "SURGE"
-        ],
-        "games_played": 403,
-        "win_rate": 0.5533498759305211
-    },
-    {
-        "team": [
-            "DARRYL",
-            "KENJI",
-            "RICO"
-        ],
-        "games_played": 829,
-        "win_rate": 0.5524728588661038
-    },
-    {
-        "team": [
-            "FANG",
-            "MOE",
-            "RICO"
-        ],
-        "games_played": 308,
-        "win_rate": 0.551948051948052
-    },
-    {
-        "team": [
-            "BIBI",
-            "KENJI",
-            "RICO"
-        ],
-        "games_played": 3939,
-        "win_rate": 0.5514089870525514
-    },
-    {
-        "team": [
-            "BUZZ",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 565,
-        "win_rate": 0.5504424778761062
-    },
-    {
-        "team": [
-            "FRANK",
-            "JACKY",
-            "RICO"
-        ],
-        "games_played": 1653,
-        "win_rate": 0.5486993345432547
-    },
-    {
-        "team": [
-            "RICO",
-            "STU",
-            "SURGE"
-        ],
-        "games_played": 1993,
-        "win_rate": 0.5479177119919719
-    },
-    {
-        "team": [
-            "BIBI",
-            "CLANCY",
-            "KENJI"
-        ],
-        "games_played": 1090,
-        "win_rate": 0.5477064220183486
-    },
-    {
-        "team": [
-            "FRANK",
-            "GALE",
-            "RICO"
-        ],
-        "games_played": 610,
-        "win_rate": 0.5475409836065573
-    },
-    {
-        "team": [
-            "FRANK",
-            "JACKY",
-            "SURGE"
-        ],
-        "games_played": 1469,
-        "win_rate": 0.5473110959836623
+        "win_rate": 0.5527065527065527
     },
     {
         "team": [
             "CLANCY",
-            "FRANK",
-            "KENJI"
+            "KENJI",
+            "RICO"
         ],
-        "games_played": 1590,
-        "win_rate": 0.5471698113207547
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "FRANK",
-            "SURGE"
-        ],
-        "games_played": 830,
-        "win_rate": 0.5469879518072289
+        "games_played": 1681,
+        "win_rate": 0.552647233789411
     },
     {
         "team": [
             "CORDELIUS",
-            "FRANK",
+            "KENJI",
             "RICO"
         ],
-        "games_played": 309,
-        "win_rate": 0.5469255663430421
+        "games_played": 451,
+        "win_rate": 0.5521064301552107
     },
     {
         "team": [
             "BIBI",
-            "JACKY",
+            "RICO",
             "STU"
         ],
-        "games_played": 339,
-        "win_rate": 0.5457227138643068
+        "games_played": 1393,
+        "win_rate": 0.5513280689160086
     },
     {
         "team": [
@@ -1589,80 +1670,44 @@
             "RICO",
             "SURGE"
         ],
-        "games_played": 396,
-        "win_rate": 0.5454545454545454
+        "games_played": 434,
+        "win_rate": 0.5506912442396313
     },
     {
         "team": [
             "BIBI",
-            "DYNAMIKE",
-            "MOE"
-        ],
-        "games_played": 904,
-        "win_rate": 0.5453539823008849
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "KENJI",
-            "MOE"
-        ],
-        "games_played": 321,
-        "win_rate": 0.5451713395638629
-    },
-    {
-        "team": [
             "CLANCY",
+            "JACKY"
+        ],
+        "games_played": 538,
+        "win_rate": 0.550185873605948
+    },
+    {
+        "team": [
+            "BIBI",
             "KENJI",
             "RICO"
         ],
-        "games_played": 1550,
-        "win_rate": 0.5451612903225806
+        "games_played": 4235,
+        "win_rate": 0.549232585596222
     },
     {
         "team": [
             "FRANK",
-            "STU",
-            "SURGE"
+            "JACKY",
+            "RICO"
         ],
-        "games_played": 1274,
-        "win_rate": 0.5447409733124019
+        "games_played": 1791,
+        "win_rate": 0.5488553880513679
     },
     {
         "team": [
-            "BIBI",
             "FRANK",
+            "GALE",
             "KENJI"
         ],
-        "games_played": 3211,
-        "win_rate": 0.544690127686079
-    },
-    {
-        "team": [
-            "BIBI",
-            "GALE",
-            "MORTIS"
-        ],
-        "games_played": 538,
-        "win_rate": 0.5446096654275093
-    },
-    {
-        "team": [
-            "BIBI",
-            "MAISIE",
-            "MORTIS"
-        ],
-        "games_played": 472,
-        "win_rate": 0.5444915254237288
-    },
-    {
-        "team": [
-            "DARRYL",
-            "MOE",
-            "SURGE"
-        ],
-        "games_played": 394,
-        "win_rate": 0.5431472081218274
+        "games_played": 713,
+        "win_rate": 0.5483870967741935
     },
     {
         "team": [
@@ -1670,26 +1715,26 @@
             "COLT",
             "MOE"
         ],
-        "games_played": 315,
-        "win_rate": 0.5428571428571428
+        "games_played": 343,
+        "win_rate": 0.5481049562682215
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "FRANK",
+            "SURGE"
+        ],
+        "games_played": 889,
+        "win_rate": 0.547806524184477
     },
     {
         "team": [
             "BIBI",
-            "CLANCY",
-            "JACKY"
+            "DARRYL",
+            "SURGE"
         ],
-        "games_played": 476,
-        "win_rate": 0.542016806722689
-    },
-    {
-        "team": [
-            "FRANK",
-            "MAISIE",
-            "MORTIS"
-        ],
-        "games_played": 454,
-        "win_rate": 0.5418502202643172
+        "games_played": 461,
+        "win_rate": 0.5466377440347071
     },
     {
         "team": [
@@ -1697,17 +1742,107 @@
             "RICO",
             "TARA"
         ],
-        "games_played": 471,
-        "win_rate": 0.5414012738853503
+        "games_played": 509,
+        "win_rate": 0.5461689587426326
+    },
+    {
+        "team": [
+            "BIBI",
+            "MAISIE",
+            "MORTIS"
+        ],
+        "games_played": 504,
+        "win_rate": 0.5456349206349206
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 1715,
+        "win_rate": 0.5446064139941691
+    },
+    {
+        "team": [
+            "FRANK",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 1390,
+        "win_rate": 0.5446043165467626
+    },
+    {
+        "team": [
+            "BULL",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 314,
+        "win_rate": 0.5445859872611465
     },
     {
         "team": [
             "DYNAMIKE",
-            "KENJI",
-            "NITA"
+            "JACKY",
+            "KENJI"
         ],
-        "games_played": 390,
-        "win_rate": 0.541025641025641
+        "games_played": 1182,
+        "win_rate": 0.5439932318104906
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 3522,
+        "win_rate": 0.5434412265758092
+    },
+    {
+        "team": [
+            "FRANK",
+            "JACKY",
+            "SURGE"
+        ],
+        "games_played": 1623,
+        "win_rate": 0.5428219346888478
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FRANK",
+            "JACKY"
+        ],
+        "games_played": 632,
+        "win_rate": 0.5427215189873418
+    },
+    {
+        "team": [
+            "RICO",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 2162,
+        "win_rate": 0.5411655874190564
+    },
+    {
+        "team": [
+            "CORDELIUS",
+            "FRANK",
+            "RICO"
+        ],
+        "games_played": 318,
+        "win_rate": 0.5408805031446541
+    },
+    {
+        "team": [
+            "BIBI",
+            "MAX",
+            "RICO"
+        ],
+        "games_played": 309,
+        "win_rate": 0.540453074433657
     },
     {
         "team": [
@@ -1715,53 +1850,44 @@
             "BUZZ",
             "JACKY"
         ],
-        "games_played": 416,
-        "win_rate": 0.5408653846153846
+        "games_played": 459,
+        "win_rate": 0.5403050108932462
     },
     {
         "team": [
+            "FANG",
             "FRANK",
+            "RICO"
+        ],
+        "games_played": 786,
+        "win_rate": 0.539440203562341
+    },
+    {
+        "team": [
+            "GALE",
             "KENJI",
             "RICO"
         ],
-        "games_played": 3616,
-        "win_rate": 0.5389933628318584
+        "games_played": 827,
+        "win_rate": 0.5392986698911729
     },
     {
         "team": [
-            "CORDELIUS",
+            "BIBI",
             "KENJI",
+            "MAX"
+        ],
+        "games_played": 308,
+        "win_rate": 0.538961038961039
+    },
+    {
+        "team": [
+            "JACKY",
+            "NITA",
             "SURGE"
         ],
-        "games_played": 364,
-        "win_rate": 0.5384615384615384
-    },
-    {
-        "team": [
-            "KENJI",
-            "MELODIE",
-            "RICO"
-        ],
-        "games_played": 324,
-        "win_rate": 0.5370370370370371
-    },
-    {
-        "team": [
-            "CLANCY",
-            "DYNAMIKE",
-            "MOE"
-        ],
-        "games_played": 321,
-        "win_rate": 0.5358255451713395
-    },
-    {
-        "team": [
-            "FRANK",
-            "JACKY",
-            "MORTIS"
-        ],
-        "games_played": 1930,
-        "win_rate": 0.5357512953367876
+        "games_played": 308,
+        "win_rate": 0.538961038961039
     },
     {
         "team": [
@@ -1769,53 +1895,44 @@
             "KENJI",
             "RICO"
         ],
-        "games_played": 1206,
-        "win_rate": 0.5356550580431177
-    },
-    {
-        "team": [
-            "FRANK",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 3837,
-        "win_rate": 0.5355746677091477
-    },
-    {
-        "team": [
-            "FRANK",
-            "JACKY",
-            "STU"
-        ],
-        "games_played": 434,
-        "win_rate": 0.5345622119815668
+        "games_played": 1372,
+        "win_rate": 0.5386297376093294
     },
     {
         "team": [
             "FRANK",
             "KENJI",
-            "NITA"
+            "RICO"
         ],
-        "games_played": 539,
-        "win_rate": 0.5343228200371057
+        "games_played": 3900,
+        "win_rate": 0.5379487179487179
     },
     {
         "team": [
             "BIBI",
-            "RICO",
-            "SHELLY"
+            "FRANK",
+            "MAISIE"
         ],
-        "games_played": 427,
-        "win_rate": 0.5339578454332553
+        "games_played": 305,
+        "win_rate": 0.5377049180327869
     },
     {
         "team": [
-            "DYNAMIKE",
-            "GALE",
-            "KENJI"
+            "FRANK",
+            "MAISIE",
+            "MORTIS"
         ],
-        "games_played": 467,
-        "win_rate": 0.5331905781584583
+        "games_played": 493,
+        "win_rate": 0.537525354969574
+    },
+    {
+        "team": [
+            "KENJI",
+            "MELODIE",
+            "RICO"
+        ],
+        "games_played": 365,
+        "win_rate": 0.536986301369863
     },
     {
         "team": [
@@ -1823,116 +1940,71 @@
             "RICO",
             "SURGE"
         ],
-        "games_played": 366,
-        "win_rate": 0.5327868852459017
+        "games_played": 395,
+        "win_rate": 0.5367088607594936
     },
     {
         "team": [
-            "DYNAMIKE",
+            "BUZZ",
             "JACKY",
             "KENJI"
         ],
-        "games_played": 1050,
-        "win_rate": 0.5323809523809524
-    },
-    {
-        "team": [
-            "GALE",
-            "KENJI",
-            "RICO"
-        ],
-        "games_played": 761,
-        "win_rate": 0.5321944809461235
-    },
-    {
-        "team": [
-            "BIBI",
-            "CLANCY",
-            "RICO"
-        ],
-        "games_played": 989,
-        "win_rate": 0.5308392315470172
-    },
-    {
-        "team": [
-            "CLANCY",
-            "FRANK",
-            "JACKY"
-        ],
-        "games_played": 584,
-        "win_rate": 0.5308219178082192
-    },
-    {
-        "team": [
-            "FRANK",
-            "GALE",
-            "SURGE"
-        ],
-        "games_played": 748,
-        "win_rate": 0.5307486631016043
-    },
-    {
-        "team": [
-            "DARRYL",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 671,
-        "win_rate": 0.5305514157973175
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "FRANK",
-            "STU"
-        ],
-        "games_played": 634,
-        "win_rate": 0.5299684542586751
+        "games_played": 710,
+        "win_rate": 0.5366197183098591
     },
     {
         "team": [
             "KENJI",
             "NITA",
-            "SURGE"
+            "RICO"
         ],
-        "games_played": 810,
-        "win_rate": 0.5296296296296297
+        "games_played": 835,
+        "win_rate": 0.5365269461077844
     },
     {
         "team": [
-            "BUZZ",
-            "JACKY",
-            "KENJI"
-        ],
-        "games_played": 648,
-        "win_rate": 0.529320987654321
-    },
-    {
-        "team": [
-            "BUZZ",
-            "JACKY",
+            "CLANCY",
+            "EL PRIMO",
             "SURGE"
         ],
-        "games_played": 482,
-        "win_rate": 0.529045643153527
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "JACKY",
-            "SURGE"
-        ],
-        "games_played": 1082,
-        "win_rate": 0.5277264325323475
+        "games_played": 302,
+        "win_rate": 0.5364238410596026
     },
     {
         "team": [
             "BIBI",
-            "FRANK",
-            "JACKY"
+            "CLANCY",
+            "KENJI"
         ],
-        "games_played": 1440,
-        "win_rate": 0.5263888888888889
+        "games_played": 1212,
+        "win_rate": 0.5363036303630363
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "SPIKE"
+        ],
+        "games_played": 306,
+        "win_rate": 0.5359477124183006
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "NITA"
+        ],
+        "games_played": 586,
+        "win_rate": 0.5358361774744027
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 344,
+        "win_rate": 0.5348837209302325
     },
     {
         "team": [
@@ -1940,8 +2012,206 @@
             "EL PRIMO",
             "KENJI"
         ],
-        "games_played": 758,
-        "win_rate": 0.5263852242744064
+        "games_played": 827,
+        "win_rate": 0.5332527206771464
+    },
+    {
+        "team": [
+            "CORDELIUS",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 377,
+        "win_rate": 0.53315649867374
+    },
+    {
+        "team": [
+            "FRANK",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 2101,
+        "win_rate": 0.5316515944788196
+    },
+    {
+        "team": [
+            "FRANK",
+            "GALE",
+            "RICO"
+        ],
+        "games_played": 672,
+        "win_rate": 0.53125
+    },
+    {
+        "team": [
+            "JACKY",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 2020,
+        "win_rate": 0.5311881188118812
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "FRANK",
+            "STU"
+        ],
+        "games_played": 735,
+        "win_rate": 0.5306122448979592
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FANG",
+            "SURGE"
+        ],
+        "games_played": 311,
+        "win_rate": 0.5305466237942122
+    },
+    {
+        "team": [
+            "BUZZ",
+            "DYNAMIKE",
+            "JACKY"
+        ],
+        "games_played": 330,
+        "win_rate": 0.5303030303030303
+    },
+    {
+        "team": [
+            "FRANK",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 4165,
+        "win_rate": 0.5298919567827131
+    },
+    {
+        "team": [
+            "MAISIE",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 604,
+        "win_rate": 0.5298013245033113
+    },
+    {
+        "team": [
+            "FRANK",
+            "JACKY",
+            "STU"
+        ],
+        "games_played": 455,
+        "win_rate": 0.5296703296703297
+    },
+    {
+        "team": [
+            "MOE",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 1961,
+        "win_rate": 0.5293217746047935
+    },
+    {
+        "team": [
+            "KENJI",
+            "NITA",
+            "SURGE"
+        ],
+        "games_played": 885,
+        "win_rate": 0.5288135593220339
+    },
+    {
+        "team": [
+            "BIBI",
+            "RICO",
+            "SHELLY"
+        ],
+        "games_played": 464,
+        "win_rate": 0.5280172413793104
+    },
+    {
+        "team": [
+            "CLANCY",
+            "DYNAMIKE",
+            "MOE"
+        ],
+        "games_played": 353,
+        "win_rate": 0.5269121813031161
+    },
+    {
+        "team": [
+            "BIBI",
+            "JACKY",
+            "STU"
+        ],
+        "games_played": 372,
+        "win_rate": 0.5268817204301075
+    },
+    {
+        "team": [
+            "FRANK",
+            "JACKY",
+            "KENJI"
+        ],
+        "games_played": 1886,
+        "win_rate": 0.5254506892895016
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "MOE",
+            "MORTIS"
+        ],
+        "games_played": 1030,
+        "win_rate": 0.525242718446602
+    },
+    {
+        "team": [
+            "BUZZ",
+            "JACKY",
+            "SURGE"
+        ],
+        "games_played": 558,
+        "win_rate": 0.525089605734767
+    },
+    {
+        "team": [
+            "CLANCY",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 402,
+        "win_rate": 0.5248756218905473
+    },
+    {
+        "team": [
+            "BIBI",
+            "EL PRIMO",
+            "RICO"
+        ],
+        "games_played": 785,
+        "win_rate": 0.5248407643312102
+    },
+    {
+        "team": [
+            "CLANCY",
+            "EL PRIMO",
+            "FRANK"
+        ],
+        "games_played": 404,
+        "win_rate": 0.5247524752475248
+    },
+    {
+        "team": [
+            "FRANK",
+            "GALE",
+            "SURGE"
+        ],
+        "games_played": 808,
+        "win_rate": 0.5247524752475248
     },
     {
         "team": [
@@ -1949,62 +2219,8 @@
             "STU",
             "SURGE"
         ],
-        "games_played": 537,
-        "win_rate": 0.5251396648044693
-    },
-    {
-        "team": [
-            "CLANCY",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 360,
-        "win_rate": 0.525
-    },
-    {
-        "team": [
-            "JACKY",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 1861,
-        "win_rate": 0.5249865663621709
-    },
-    {
-        "team": [
-            "MAISIE",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 541,
-        "win_rate": 0.5249537892791127
-    },
-    {
-        "team": [
-            "CORDELIUS",
-            "KENJI",
-            "RICO"
-        ],
-        "games_played": 381,
-        "win_rate": 0.5249343832020997
-    },
-    {
-        "team": [
-            "BUZZ",
-            "JACKY",
-            "RICO"
-        ],
-        "games_played": 623,
-        "win_rate": 0.5248796147672552
-    },
-    {
-        "team": [
-            "BUZZ",
-            "FRANK",
-            "KENJI"
-        ],
-        "games_played": 1247,
-        "win_rate": 0.5244587008821171
+        "games_played": 572,
+        "win_rate": 0.5244755244755245
     },
     {
         "team": [
@@ -2012,89 +2228,17 @@
             "DARRYL",
             "FRANK"
         ],
-        "games_played": 450,
-        "win_rate": 0.5244444444444445
-    },
-    {
-        "team": [
-            "COLT",
-            "MOE",
-            "MORTIS"
-        ],
-        "games_played": 496,
-        "win_rate": 0.5241935483870968
-    },
-    {
-        "team": [
-            "CLANCY",
-            "EL PRIMO",
-            "FRANK"
-        ],
-        "games_played": 382,
-        "win_rate": 0.5235602094240838
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "FRANK",
-            "JACKY"
-        ],
-        "games_played": 319,
-        "win_rate": 0.5235109717868338
-    },
-    {
-        "team": [
-            "KENJI",
-            "NITA",
-            "RICO"
-        ],
-        "games_played": 791,
-        "win_rate": 0.5233881163084703
-    },
-    {
-        "team": [
-            "MOE",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 1784,
-        "win_rate": 0.522982062780269
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "MOE",
-            "MORTIS"
-        ],
-        "games_played": 937,
-        "win_rate": 0.5229455709711847
+        "games_played": 475,
+        "win_rate": 0.5242105263157895
     },
     {
         "team": [
             "BIBI",
-            "EL PRIMO",
-            "RICO"
+            "JESSIE",
+            "SURGE"
         ],
-        "games_played": 698,
-        "win_rate": 0.5229226361031518
-    },
-    {
-        "team": [
-            "FRANK",
-            "JACKY",
-            "KENJI"
-        ],
-        "games_played": 1758,
-        "win_rate": 0.5227531285551763
-    },
-    {
-        "team": [
-            "JACKY",
-            "KENJI",
-            "STU"
-        ],
-        "games_played": 577,
-        "win_rate": 0.5216637781629117
+        "games_played": 313,
+        "win_rate": 0.5239616613418531
     },
     {
         "team": [
@@ -2102,62 +2246,62 @@
             "GALE",
             "SURGE"
         ],
-        "games_played": 702,
-        "win_rate": 0.5213675213675214
+        "games_played": 749,
+        "win_rate": 0.5220293724966623
+    },
+    {
+        "team": [
+            "BUZZ",
+            "JACKY",
+            "RICO"
+        ],
+        "games_played": 659,
+        "win_rate": 0.5220030349013657
     },
     {
         "team": [
             "DARRYL",
-            "DYNAMIKE",
+            "FRANK",
             "SURGE"
         ],
-        "games_played": 439,
-        "win_rate": 0.5193621867881549
+        "games_played": 646,
+        "win_rate": 0.521671826625387
     },
     {
         "team": [
-            "GALE",
-            "MORTIS",
+            "BIBI",
+            "CLANCY",
             "RICO"
         ],
-        "games_played": 753,
-        "win_rate": 0.5192563081009296
+        "games_played": 1054,
+        "win_rate": 0.5208728652751423
     },
     {
         "team": [
-            "BIBI",
-            "DYNAMIKE",
-            "JACKY"
+            "BUZZ",
+            "EL PRIMO",
+            "KENJI"
         ],
-        "games_played": 782,
-        "win_rate": 0.5191815856777494
+        "games_played": 325,
+        "win_rate": 0.52
     },
     {
         "team": [
-            "BIBI",
-            "FRANK",
-            "STU"
-        ],
-        "games_played": 883,
-        "win_rate": 0.5175537938844847
-    },
-    {
-        "team": [
-            "FRANK",
+            "CLANCY",
             "GALE",
             "KENJI"
         ],
-        "games_played": 650,
-        "win_rate": 0.5169230769230769
+        "games_played": 304,
+        "win_rate": 0.5197368421052632
     },
     {
         "team": [
-            "DYNAMIKE",
-            "KENJI",
-            "RICO"
+            "BIBI",
+            "FANG",
+            "KENJI"
         ],
-        "games_played": 2606,
-        "win_rate": 0.5168841135840369
+        "games_played": 645,
+        "win_rate": 0.5193798449612403
     },
     {
         "team": [
@@ -2165,62 +2309,116 @@
             "FRANK",
             "MAX"
         ],
-        "games_played": 302,
-        "win_rate": 0.5165562913907285
+        "games_played": 310,
+        "win_rate": 0.5193548387096775
+    },
+    {
+        "team": [
+            "DARRYL",
+            "DYNAMIKE",
+            "SURGE"
+        ],
+        "games_played": 491,
+        "win_rate": 0.5193482688391039
+    },
+    {
+        "team": [
+            "BUZZ",
+            "EL PRIMO",
+            "RICO"
+        ],
+        "games_played": 320,
+        "win_rate": 0.51875
     },
     {
         "team": [
             "DYNAMIKE",
-            "RICO",
+            "KENJI",
+            "RICO"
+        ],
+        "games_played": 2887,
+        "win_rate": 0.5181849670938691
+    },
+    {
+        "team": [
+            "FANG",
+            "JACKY",
+            "KENJI"
+        ],
+        "games_played": 469,
+        "win_rate": 0.5181236673773987
+    },
+    {
+        "team": [
+            "CLANCY",
+            "KENJI",
             "STU"
         ],
-        "games_played": 1054,
+        "games_played": 583,
+        "win_rate": 0.5180102915951973
+    },
+    {
+        "team": [
+            "BIBI",
+            "JACKY",
+            "RICO"
+        ],
+        "games_played": 1404,
+        "win_rate": 0.5178062678062678
+    },
+    {
+        "team": [
+            "DARRYL",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 743,
+        "win_rate": 0.5168236877523553
+    },
+    {
+        "team": [
+            "CLANCY",
+            "DYNAMIKE",
+            "KENJI"
+        ],
+        "games_played": 937,
+        "win_rate": 0.5165421558164355
+    },
+    {
+        "team": [
+            "JACKY",
+            "KENJI",
+            "STU"
+        ],
+        "games_played": 616,
+        "win_rate": 0.5162337662337663
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "FRANK",
+            "RICO"
+        ],
+        "games_played": 837,
         "win_rate": 0.5161290322580645
     },
     {
         "team": [
-            "DYNAMIKE",
-            "GALE",
-            "RICO"
-        ],
-        "games_played": 438,
-        "win_rate": 0.5159817351598174
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "FRANK",
-            "RICO"
-        ],
-        "games_played": 756,
-        "win_rate": 0.5158730158730159
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "EL PRIMO",
-            "RICO"
-        ],
-        "games_played": 667,
-        "win_rate": 0.5157421289355323
-    },
-    {
-        "team": [
-            "MAISIE",
-            "MORTIS",
+            "RICO",
+            "SHELLY",
             "SURGE"
         ],
-        "games_played": 540,
-        "win_rate": 0.5148148148148148
+        "games_played": 465,
+        "win_rate": 0.5161290322580645
     },
     {
         "team": [
-            "FRANK",
-            "MAX",
-            "RICO"
+            "COLT",
+            "MOE",
+            "MORTIS"
         ],
-        "games_played": 307,
-        "win_rate": 0.5146579804560261
+        "games_played": 531,
+        "win_rate": 0.5160075329566854
     },
     {
         "team": [
@@ -2228,98 +2426,8 @@
             "FRANK",
             "KENJI"
         ],
-        "games_played": 657,
-        "win_rate": 0.5144596651445966
-    },
-    {
-        "team": [
-            "COLT",
-            "JACKY",
-            "RICO"
-        ],
-        "games_played": 380,
-        "win_rate": 0.5131578947368421
-    },
-    {
-        "team": [
-            "BIBI",
-            "JACKY",
-            "RICO"
-        ],
-        "games_played": 1296,
-        "win_rate": 0.5131172839506173
-    },
-    {
-        "team": [
-            "BUZZ",
-            "CLANCY",
-            "RICO"
-        ],
-        "games_played": 523,
-        "win_rate": 0.5124282982791587
-    },
-    {
-        "team": [
-            "CLANCY",
-            "DYNAMIKE",
-            "KENJI"
-        ],
-        "games_played": 821,
-        "win_rate": 0.5115712545676004
-    },
-    {
-        "team": [
-            "BUZZ",
-            "EL PRIMO",
-            "KENJI"
-        ],
-        "games_played": 307,
-        "win_rate": 0.511400651465798
-    },
-    {
-        "team": [
-            "BIBI",
-            "MAISIE",
-            "SURGE"
-        ],
-        "games_played": 356,
-        "win_rate": 0.5112359550561798
-    },
-    {
-        "team": [
-            "CLANCY",
-            "JACKY",
-            "RICO"
-        ],
-        "games_played": 633,
-        "win_rate": 0.5102685624012638
-    },
-    {
-        "team": [
-            "BIBI",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 3718,
-        "win_rate": 0.5102205486820871
-    },
-    {
-        "team": [
-            "BIBI",
-            "FANG",
-            "KENJI"
-        ],
-        "games_played": 614,
-        "win_rate": 0.509771986970684
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "FRANK",
-            "KENJI"
-        ],
-        "games_played": 820,
-        "win_rate": 0.5097560975609756
+        "games_played": 702,
+        "win_rate": 0.5156695156695157
     },
     {
         "team": [
@@ -2327,8 +2435,80 @@
             "MAISIE",
             "MORTIS"
         ],
-        "games_played": 673,
-        "win_rate": 0.5096582466567607
+        "games_played": 710,
+        "win_rate": 0.5154929577464789
+    },
+    {
+        "team": [
+            "MAISIE",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 582,
+        "win_rate": 0.5154639175257731
+    },
+    {
+        "team": [
+            "BIBI",
+            "MAISIE",
+            "SURGE"
+        ],
+        "games_played": 398,
+        "win_rate": 0.5150753768844221
+    },
+    {
+        "team": [
+            "BIBI",
+            "FANG",
+            "JACKY"
+        ],
+        "games_played": 301,
+        "win_rate": 0.5149501661129569
+    },
+    {
+        "team": [
+            "GALE",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 781,
+        "win_rate": 0.5147247119078106
+    },
+    {
+        "team": [
+            "DARRYL",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 752,
+        "win_rate": 0.5146276595744681
+    },
+    {
+        "team": [
+            "FANG",
+            "MOE",
+            "RICO"
+        ],
+        "games_played": 342,
+        "win_rate": 0.5146198830409356
+    },
+    {
+        "team": [
+            "BUZZ",
+            "DYNAMIKE",
+            "RICO"
+        ],
+        "games_played": 962,
+        "win_rate": 0.5145530145530145
+    },
+    {
+        "team": [
+            "BUZZ",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 1342,
+        "win_rate": 0.5141579731743666
     },
     {
         "team": [
@@ -2336,35 +2516,161 @@
             "MELODIE",
             "SURGE"
         ],
-        "games_played": 340,
-        "win_rate": 0.5088235294117647
+        "games_played": 366,
+        "win_rate": 0.5136612021857924
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "EL PRIMO",
+            "RICO"
+        ],
+        "games_played": 742,
+        "win_rate": 0.5134770889487871
+    },
+    {
+        "team": [
+            "COLT",
+            "JACKY",
+            "SURGE"
+        ],
+        "games_played": 488,
+        "win_rate": 0.5122950819672131
+    },
+    {
+        "team": [
+            "BIBI",
+            "MELODIE",
+            "RICO"
+        ],
+        "games_played": 326,
+        "win_rate": 0.5122699386503068
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
+            "STU"
+        ],
+        "games_played": 1130,
+        "win_rate": 0.511504424778761
+    },
+    {
+        "team": [
+            "CLANCY",
+            "JACKY",
+            "RICO"
+        ],
+        "games_played": 681,
+        "win_rate": 0.5110132158590308
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "JACKY"
+        ],
+        "games_played": 1577,
+        "win_rate": 0.5104629042485732
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "JACKY"
+        ],
+        "games_played": 876,
+        "win_rate": 0.5102739726027398
     },
     {
         "team": [
             "BUZZ",
             "CLANCY",
-            "SURGE"
+            "RICO"
         ],
-        "games_played": 454,
-        "win_rate": 0.5088105726872246
+        "games_played": 565,
+        "win_rate": 0.5097345132743363
     },
     {
         "team": [
+            "DYNAMIKE",
             "KENJI",
-            "STU",
-            "SURGE"
+            "STU"
         ],
-        "games_played": 1570,
-        "win_rate": 0.5082802547770701
+        "games_played": 893,
+        "win_rate": 0.509518477043673
     },
     {
         "team": [
             "BIBI",
-            "MORTIS",
+            "FRANK",
+            "STU"
+        ],
+        "games_played": 962,
+        "win_rate": 0.5093555093555093
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "KENJI",
+            "NITA"
+        ],
+        "games_played": 428,
+        "win_rate": 0.5093457943925234
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 928,
+        "win_rate": 0.5086206896551724
+    },
+    {
+        "team": [
+            "BIBI",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 4071,
+        "win_rate": 0.5084745762711864
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "GALE",
             "RICO"
         ],
-        "games_played": 3510,
-        "win_rate": 0.5082621082621083
+        "games_played": 478,
+        "win_rate": 0.5083682008368201
+    },
+    {
+        "team": [
+            "KENJI",
+            "SANDY",
+            "SURGE"
+        ],
+        "games_played": 301,
+        "win_rate": 0.5083056478405316
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "JACKY",
+            "KENJI"
+        ],
+        "games_played": 386,
+        "win_rate": 0.5077720207253886
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "STU"
+        ],
+        "games_played": 1194,
+        "win_rate": 0.507537688442211
     },
     {
         "team": [
@@ -2372,26 +2678,8 @@
             "KENJI",
             "TARA"
         ],
-        "games_played": 435,
-        "win_rate": 0.5080459770114942
-    },
-    {
-        "team": [
-            "CLANCY",
-            "KENJI",
-            "STU"
-        ],
-        "games_played": 542,
-        "win_rate": 0.507380073800738
-    },
-    {
-        "team": [
-            "BIBI",
-            "KENJI",
-            "STU"
-        ],
-        "games_played": 1041,
-        "win_rate": 0.5072046109510087
+        "games_played": 471,
+        "win_rate": 0.5074309978768577
     },
     {
         "team": [
@@ -2399,26 +2687,107 @@
             "RICO",
             "SURGE"
         ],
-        "games_played": 2808,
-        "win_rate": 0.5067663817663818
+        "games_played": 3135,
+        "win_rate": 0.507177033492823
     },
     {
         "team": [
             "DYNAMIKE",
-            "KENJI",
-            "STU"
+            "GALE",
+            "KENJI"
         ],
-        "games_played": 831,
-        "win_rate": 0.50661853188929
+        "games_played": 503,
+        "win_rate": 0.5069582504970179
     },
     {
         "team": [
-            "FANG",
+            "BIBI",
+            "MOE",
+            "STU"
+        ],
+        "games_played": 478,
+        "win_rate": 0.5062761506276151
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FRANK",
+            "SURGE"
+        ],
+        "games_played": 1267,
+        "win_rate": 0.505130228887135
+    },
+    {
+        "team": [
+            "COLT",
             "JACKY",
             "RICO"
         ],
-        "games_played": 304,
-        "win_rate": 0.506578947368421
+        "games_played": 412,
+        "win_rate": 0.5048543689320388
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 1153,
+        "win_rate": 0.5047701647875108
+    },
+    {
+        "team": [
+            "BIBI",
+            "JACKY",
+            "SURGE"
+        ],
+        "games_played": 1526,
+        "win_rate": 0.5045871559633027
+    },
+    {
+        "team": [
+            "KENJI",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 1657,
+        "win_rate": 0.5045262522631261
+    },
+    {
+        "team": [
+            "BIBI",
+            "CLANCY",
+            "FRANK"
+        ],
+        "games_played": 1135,
+        "win_rate": 0.5039647577092511
+    },
+    {
+        "team": [
+            "CLANCY",
+            "DYNAMIKE",
+            "JACKY"
+        ],
+        "games_played": 425,
+        "win_rate": 0.5035294117647059
+    },
+    {
+        "team": [
+            "BUZZ",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 1560,
+        "win_rate": 0.5032051282051282
+    },
+    {
+        "team": [
+            "BUZZ",
+            "CLANCY",
+            "SURGE"
+        ],
+        "games_played": 487,
+        "win_rate": 0.5030800821355236
     },
     {
         "team": [
@@ -2426,71 +2795,26 @@
             "EL PRIMO",
             "MORTIS"
         ],
-        "games_played": 311,
-        "win_rate": 0.5048231511254019
+        "games_played": 342,
+        "win_rate": 0.5029239766081871
     },
     {
         "team": [
-            "FANG",
-            "FRANK",
-            "JACKY"
+            "BULL",
+            "KENJI",
+            "RICO"
         ],
-        "games_played": 313,
-        "win_rate": 0.5047923322683706
-    },
-    {
-        "team": [
-            "CLANCY",
-            "FRANK",
-            "SURGE"
-        ],
-        "games_played": 1142,
-        "win_rate": 0.5043782837127846
-    },
-    {
-        "team": [
-            "RICO",
-            "SHELLY",
-            "SURGE"
-        ],
-        "games_played": 419,
-        "win_rate": 0.5035799522673031
+        "games_played": 307,
+        "win_rate": 0.501628664495114
     },
     {
         "team": [
             "BIBI",
-            "JACKY",
-            "SURGE"
-        ],
-        "games_played": 1370,
-        "win_rate": 0.502919708029197
-    },
-    {
-        "team": [
-            "BUZZ",
-            "FRANK",
-            "SURGE"
-        ],
-        "games_played": 932,
-        "win_rate": 0.5021459227467812
-    },
-    {
-        "team": [
-            "DARRYL",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 688,
-        "win_rate": 0.501453488372093
-    },
-    {
-        "team": [
             "CLANCY",
-            "DYNAMIKE",
-            "JACKY"
+            "STU"
         ],
-        "games_played": 395,
-        "win_rate": 0.5012658227848101
+        "games_played": 379,
+        "win_rate": 0.5013192612137203
     },
     {
         "team": [
@@ -2498,17 +2822,80 @@
             "DYNAMIKE",
             "GALE"
         ],
-        "games_played": 407,
-        "win_rate": 0.5012285012285013
+        "games_played": 449,
+        "win_rate": 0.5011135857461024
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 950,
+        "win_rate": 0.5010526315789474
+    },
+    {
+        "team": [
+            "BUZZ",
+            "FRANK",
+            "SURGE"
+        ],
+        "games_played": 1036,
+        "win_rate": 0.500965250965251
+    },
+    {
+        "team": [
+            "KENJI",
+            "MAISIE",
+            "RICO"
+        ],
+        "games_played": 533,
+        "win_rate": 0.50093808630394
+    },
+    {
+        "team": [
+            "DARRYL",
+            "FRANK",
+            "RICO"
+        ],
+        "games_played": 605,
+        "win_rate": 0.5008264462809917
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "EL PRIMO",
+            "SURGE"
+        ],
+        "games_played": 671,
+        "win_rate": 0.5007451564828614
+    },
+    {
+        "team": [
+            "BIBI",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 3844,
+        "win_rate": 0.5005202913631633
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "GALE",
+            "SURGE"
+        ],
+        "games_played": 604,
+        "win_rate": 0.5
     },
     {
         "team": [
             "BIBI",
             "MOE",
-            "STU"
+            "MORTIS"
         ],
-        "games_played": 453,
-        "win_rate": 0.5011037527593819
+        "games_played": 1231,
+        "win_rate": 0.49959382615759546
     },
     {
         "team": [
@@ -2516,8 +2903,80 @@
             "COLT",
             "STU"
         ],
-        "games_played": 300,
-        "win_rate": 0.5
+        "games_played": 345,
+        "win_rate": 0.4985507246376812
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 4078,
+        "win_rate": 0.4982834722903384
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "MAISIE",
+            "MORTIS"
+        ],
+        "games_played": 360,
+        "win_rate": 0.49722222222222223
+    },
+    {
+        "team": [
+            "BUZZ",
+            "DYNAMIKE",
+            "SURGE"
+        ],
+        "games_played": 867,
+        "win_rate": 0.497116493656286
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FRANK",
+            "RICO"
+        ],
+        "games_played": 1208,
+        "win_rate": 0.4966887417218543
+    },
+    {
+        "team": [
+            "GALE",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 973,
+        "win_rate": 0.49537512846865367
+    },
+    {
+        "team": [
+            "BIBI",
+            "DARRYL",
+            "RICO"
+        ],
+        "games_played": 624,
+        "win_rate": 0.4951923076923077
+    },
+    {
+        "team": [
+            "EDGAR",
+            "FRANK",
+            "SURGE"
+        ],
+        "games_played": 578,
+        "win_rate": 0.49480968858131485
+    },
+    {
+        "team": [
+            "FRANK",
+            "MAISIE",
+            "RICO"
+        ],
+        "games_played": 360,
+        "win_rate": 0.49444444444444446
     },
     {
         "team": [
@@ -2525,62 +2984,35 @@
             "KENJI",
             "MAISIE"
         ],
-        "games_played": 414,
-        "win_rate": 0.5
+        "games_played": 437,
+        "win_rate": 0.494279176201373
     },
     {
         "team": [
+            "FANG",
             "FRANK",
-            "KENJI",
-            "STU"
+            "JACKY"
         ],
-        "games_played": 1060,
-        "win_rate": 0.5
+        "games_played": 344,
+        "win_rate": 0.4941860465116279
     },
     {
         "team": [
             "BUZZ",
-            "RICO",
+            "COLT",
+            "KENJI"
+        ],
+        "games_played": 429,
+        "win_rate": 0.49417249417249415
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "STU",
             "SURGE"
         ],
-        "games_played": 1406,
-        "win_rate": 0.49857752489331436
-    },
-    {
-        "team": [
-            "BIBI",
-            "FANG",
-            "RICO"
-        ],
-        "games_played": 472,
-        "win_rate": 0.4978813559322034
-    },
-    {
-        "team": [
-            "GALE",
-            "MORTIS",
-            "SURGE"
-        ],
-        "games_played": 889,
-        "win_rate": 0.49718785151856015
-    },
-    {
-        "team": [
-            "EDGAR",
-            "FRANK",
-            "SURGE"
-        ],
-        "games_played": 513,
-        "win_rate": 0.49707602339181284
-    },
-    {
-        "team": [
-            "BIBI",
-            "CLANCY",
-            "FRANK"
-        ],
-        "games_played": 1010,
-        "win_rate": 0.497029702970297
+        "games_played": 1170,
+        "win_rate": 0.49401709401709404
     },
     {
         "team": [
@@ -2588,89 +3020,71 @@
             "KENJI",
             "MORTIS"
         ],
-        "games_played": 334,
-        "win_rate": 0.49700598802395207
-    },
-    {
-        "team": [
-            "COLT",
-            "JACKY",
-            "SURGE"
-        ],
-        "games_played": 435,
-        "win_rate": 0.496551724137931
-    },
-    {
-        "team": [
-            "CLANCY",
-            "FRANK",
-            "RICO"
-        ],
-        "games_played": 1115,
-        "win_rate": 0.4959641255605381
-    },
-    {
-        "team": [
-            "BUZZ",
-            "MOE",
-            "MORTIS"
-        ],
-        "games_played": 434,
-        "win_rate": 0.49539170506912444
-    },
-    {
-        "team": [
-            "DARRYL",
-            "FRANK",
-            "RICO"
-        ],
-        "games_played": 576,
-        "win_rate": 0.4947916666666667
-    },
-    {
-        "team": [
-            "FRANK",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 3752,
-        "win_rate": 0.49386993603411516
-    },
-    {
-        "team": [
-            "DARRYL",
-            "FRANK",
-            "SURGE"
-        ],
-        "games_played": 551,
-        "win_rate": 0.49364791288566245
-    },
-    {
-        "team": [
-            "CLANCY",
-            "DYNAMIKE",
-            "FRANK"
-        ],
-        "games_played": 732,
-        "win_rate": 0.4931693989071038
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "FRANK",
-            "KENJI"
-        ],
-        "games_played": 2058,
+        "games_played": 343,
         "win_rate": 0.49271137026239065
     },
     {
         "team": [
+            "DARRYL",
+            "JACKY",
+            "KENJI"
+        ],
+        "games_played": 341,
+        "win_rate": 0.49266862170087977
+    },
+    {
+        "team": [
+            "JACKY",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 537,
+        "win_rate": 0.49162011173184356
+    },
+    {
+        "team": [
+            "DARRYL",
             "DYNAMIKE",
-            "GALE",
+            "KENJI"
+        ],
+        "games_played": 450,
+        "win_rate": 0.4911111111111111
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "RICO",
             "SURGE"
         ],
-        "games_played": 534,
-        "win_rate": 0.49250936329588013
+        "games_played": 1279,
+        "win_rate": 0.4910086004691165
+    },
+    {
+        "team": [
+            "GALE",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 408,
+        "win_rate": 0.49019607843137253
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 1082,
+        "win_rate": 0.4879852125693161
+    },
+    {
+        "team": [
+            "CLANCY",
+            "MORTIS",
+            "STU"
+        ],
+        "games_played": 447,
+        "win_rate": 0.48769574944071586
     },
     {
         "team": [
@@ -2678,116 +3092,8 @@
             "KENJI",
             "MELODIE"
         ],
-        "games_played": 400,
-        "win_rate": 0.4925
-    },
-    {
-        "team": [
-            "GALE",
-            "JACKY",
-            "MORTIS"
-        ],
-        "games_played": 372,
-        "win_rate": 0.49193548387096775
-    },
-    {
-        "team": [
-            "BIBI",
-            "BUZZ",
-            "CLANCY"
-        ],
-        "games_played": 338,
-        "win_rate": 0.4911242603550296
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "JACKY",
-            "KENJI"
-        ],
-        "games_played": 334,
-        "win_rate": 0.49101796407185627
-    },
-    {
-        "team": [
-            "BIBI",
-            "BUZZ",
-            "FRANK"
-        ],
-        "games_played": 942,
-        "win_rate": 0.49044585987261147
-    },
-    {
-        "team": [
-            "BUZZ",
-            "DYNAMIKE",
-            "RICO"
-        ],
-        "games_played": 836,
-        "win_rate": 0.4904306220095694
-    },
-    {
-        "team": [
-            "KENJI",
-            "MORTIS",
-            "NITA"
-        ],
-        "games_played": 618,
-        "win_rate": 0.49029126213592233
-    },
-    {
-        "team": [
-            "FRANK",
-            "MAISIE",
-            "RICO"
-        ],
-        "games_played": 339,
-        "win_rate": 0.4896755162241888
-    },
-    {
-        "team": [
-            "FANG",
-            "FRANK",
-            "RICO"
-        ],
-        "games_played": 601,
-        "win_rate": 0.4891846921797005
-    },
-    {
-        "team": [
-            "JACKY",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 1652,
-        "win_rate": 0.48849878934624696
-    },
-    {
-        "team": [
-            "FRANK",
-            "NITA",
-            "RICO"
-        ],
-        "games_played": 598,
-        "win_rate": 0.4882943143812709
-    },
-    {
-        "team": [
-            "JACKY",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 505,
-        "win_rate": 0.4871287128712871
-    },
-    {
-        "team": [
-            "BUZZ",
-            "STU",
-            "SURGE"
-        ],
-        "games_played": 466,
-        "win_rate": 0.4871244635193133
+        "games_played": 433,
+        "win_rate": 0.48729792147806006
     },
     {
         "team": [
@@ -2795,80 +3101,89 @@
             "MORTIS",
             "NITA"
         ],
-        "games_played": 310,
-        "win_rate": 0.4870967741935484
-    },
-    {
-        "team": [
-            "BUZZ",
-            "DYNAMIKE",
-            "SURGE"
-        ],
-        "games_played": 760,
-        "win_rate": 0.4868421052631579
-    },
-    {
-        "team": [
-            "BUZZ",
-            "CLANCY",
-            "KENJI"
-        ],
-        "games_played": 403,
-        "win_rate": 0.48635235732009924
+        "games_played": 353,
+        "win_rate": 0.48725212464589235
     },
     {
         "team": [
             "DYNAMIKE",
-            "EL PRIMO",
-            "SURGE"
+            "KENJI",
+            "MAISIE"
         ],
-        "games_played": 564,
-        "win_rate": 0.4858156028368794
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 1145,
-        "win_rate": 0.485589519650655
+        "games_played": 347,
+        "win_rate": 0.48703170028818443
     },
     {
         "team": [
             "BIBI",
+            "FANG",
+            "RICO"
+        ],
+        "games_played": 501,
+        "win_rate": 0.4870259481037924
+    },
+    {
+        "team": [
+            "BIBI",
+            "BUZZ",
+            "RICO"
+        ],
+        "games_played": 1107,
+        "win_rate": 0.4869015356820235
+    },
+    {
+        "team": [
+            "JACKY",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 1784,
+        "win_rate": 0.48654708520179374
+    },
+    {
+        "team": [
+            "FRANK",
+            "NITA",
+            "RICO"
+        ],
+        "games_played": 664,
+        "win_rate": 0.4864457831325301
+    },
+    {
+        "team": [
+            "CLANCY",
+            "DYNAMIKE",
+            "FRANK"
+        ],
+        "games_played": 825,
+        "win_rate": 0.4860606060606061
+    },
+    {
+        "team": [
+            "FANG",
+            "JACKY",
+            "RICO"
+        ],
+        "games_played": 321,
+        "win_rate": 0.48598130841121495
+    },
+    {
+        "team": [
+            "BUZZ",
             "MOE",
             "MORTIS"
         ],
-        "games_played": 1100,
-        "win_rate": 0.48545454545454547
-    },
-    {
-        "team": [
-            "CLANCY",
-            "MORTIS",
-            "STU"
-        ],
-        "games_played": 427,
-        "win_rate": 0.4847775175644028
+        "games_played": 494,
+        "win_rate": 0.48582995951417
     },
     {
         "team": [
             "DYNAMIKE",
-            "MAISIE",
-            "MORTIS"
+            "JACKY",
+            "RICO"
         ],
-        "games_played": 312,
-        "win_rate": 0.483974358974359
-    },
-    {
-        "team": [
-            "BIBI",
-            "CLANCY",
-            "STU"
-        ],
-        "games_played": 339,
-        "win_rate": 0.4837758112094395
+        "games_played": 1164,
+        "win_rate": 0.4853951890034364
     },
     {
         "team": [
@@ -2876,215 +3191,8 @@
             "KENJI",
             "MORTIS"
         ],
-        "games_played": 755,
-        "win_rate": 0.48344370860927155
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "NITA",
-            "RICO"
-        ],
-        "games_played": 482,
-        "win_rate": 0.483402489626556
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 818,
-        "win_rate": 0.4828850855745721
-    },
-    {
-        "team": [
-            "COLT",
-            "FRANK",
-            "STU"
-        ],
-        "games_played": 319,
-        "win_rate": 0.4827586206896552
-    },
-    {
-        "team": [
-            "MORTIS",
-            "NITA",
-            "RICO"
-        ],
-        "games_played": 636,
-        "win_rate": 0.4827044025157233
-    },
-    {
-        "team": [
-            "BIBI",
-            "DARRYL",
-            "RICO"
-        ],
-        "games_played": 579,
-        "win_rate": 0.48186528497409326
-    },
-    {
-        "team": [
-            "KENJI",
-            "SPIKE",
-            "SURGE"
-        ],
-        "games_played": 330,
-        "win_rate": 0.4818181818181818
-    },
-    {
-        "team": [
-            "MORTIS",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 1402,
-        "win_rate": 0.4814550641940086
-    },
-    {
-        "team": [
-            "COLT",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 1100,
-        "win_rate": 0.4809090909090909
-    },
-    {
-        "team": [
-            "BIBI",
-            "FRANK",
-            "RICO"
-        ],
-        "games_played": 2479,
-        "win_rate": 0.48083904800322713
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 2594,
-        "win_rate": 0.47956823438704704
-    },
-    {
-        "team": [
-            "CLANCY",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 1283,
-        "win_rate": 0.4793452844894778
-    },
-    {
-        "team": [
-            "JACKY",
-            "STU",
-            "SURGE"
-        ],
-        "games_played": 572,
-        "win_rate": 0.479020979020979
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "STU",
-            "SURGE"
-        ],
-        "games_played": 948,
-        "win_rate": 0.47890295358649787
-    },
-    {
-        "team": [
-            "BIBI",
-            "JACKY",
-            "KENJI"
-        ],
-        "games_played": 1479,
-        "win_rate": 0.47734956051386074
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "JACKY",
-            "RICO"
-        ],
-        "games_played": 1054,
-        "win_rate": 0.47722960151802657
-    },
-    {
-        "team": [
-            "RICO",
-            "SANDY",
-            "SURGE"
-        ],
-        "games_played": 304,
-        "win_rate": 0.4769736842105263
-    },
-    {
-        "team": [
-            "BIBI",
-            "COLT",
-            "SURGE"
-        ],
-        "games_played": 898,
-        "win_rate": 0.4766146993318486
-    },
-    {
-        "team": [
-            "BIBI",
-            "EL PRIMO",
-            "FRANK"
-        ],
-        "games_played": 586,
-        "win_rate": 0.4761092150170648
-    },
-    {
-        "team": [
-            "KENJI",
-            "MAISIE",
-            "RICO"
-        ],
-        "games_played": 499,
-        "win_rate": 0.4749498997995992
-    },
-    {
-        "team": [
-            "BIBI",
-            "DYNAMIKE",
-            "KENJI"
-        ],
-        "games_played": 1945,
-        "win_rate": 0.47455012853470435
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "NITA",
-            "SURGE"
-        ],
-        "games_played": 373,
-        "win_rate": 0.4745308310991957
-    },
-    {
-        "team": [
-            "DARRYL",
-            "JACKY",
-            "KENJI"
-        ],
-        "games_played": 323,
-        "win_rate": 0.47368421052631576
-    },
-    {
-        "team": [
-            "COLT",
-            "FRANK",
-            "KENJI"
-        ],
-        "games_played": 987,
-        "win_rate": 0.47315096251266464
+        "games_played": 802,
+        "win_rate": 0.4850374064837905
     },
     {
         "team": [
@@ -3092,17 +3200,35 @@
             "KENJI",
             "SURGE"
         ],
-        "games_played": 1256,
-        "win_rate": 0.4729299363057325
+        "games_played": 1361,
+        "win_rate": 0.4849375459221161
     },
     {
         "team": [
-            "EL PRIMO",
+            "KENJI",
             "MORTIS",
-            "RICO"
+            "NITA"
         ],
-        "games_played": 840,
-        "win_rate": 0.4726190476190476
+        "games_played": 661,
+        "win_rate": 0.48411497730711045
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 2899,
+        "win_rate": 0.48395998620213865
+    },
+    {
+        "team": [
+            "BIBI",
+            "BUZZ",
+            "FRANK"
+        ],
+        "games_played": 1056,
+        "win_rate": 0.48295454545454547
     },
     {
         "team": [
@@ -3110,35 +3236,71 @@
             "FANG",
             "SURGE"
         ],
-        "games_played": 508,
-        "win_rate": 0.47244094488188976
-    },
-    {
-        "team": [
-            "MORTIS",
-            "STU",
-            "SURGE"
-        ],
-        "games_played": 1410,
-        "win_rate": 0.4723404255319149
+        "games_played": 582,
+        "win_rate": 0.48281786941580757
     },
     {
         "team": [
             "BIBI",
-            "COLT",
-            "FRANK"
+            "FRANK",
+            "RICO"
         ],
-        "games_played": 578,
-        "win_rate": 0.47231833910034604
+        "games_played": 2735,
+        "win_rate": 0.4822669104204753
     },
     {
         "team": [
-            "EDGAR",
+            "FANG",
             "FRANK",
             "KENJI"
         ],
-        "games_played": 735,
-        "win_rate": 0.47210884353741495
+        "games_played": 849,
+        "win_rate": 0.4817432273262662
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 1246,
+        "win_rate": 0.48154093097913325
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "NITA",
+            "SURGE"
+        ],
+        "games_played": 449,
+        "win_rate": 0.48106904231625836
+    },
+    {
+        "team": [
+            "BIBI",
+            "RICO",
+            "TARA"
+        ],
+        "games_played": 343,
+        "win_rate": 0.48104956268221577
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "SURGE"
+        ],
+        "games_played": 2882,
+        "win_rate": 0.48091603053435117
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 2290,
+        "win_rate": 0.48034934497816595
     },
     {
         "team": [
@@ -3146,143 +3308,8 @@
             "FRANK",
             "JACKY"
         ],
-        "games_played": 921,
-        "win_rate": 0.47122692725298587
-    },
-    {
-        "team": [
-            "BIBI",
-            "FRANK",
-            "SURGE"
-        ],
-        "games_played": 2588,
-        "win_rate": 0.4710200927357032
-    },
-    {
-        "team": [
-            "KENJI",
-            "MORTIS",
-            "TARA"
-        ],
-        "games_played": 527,
-        "win_rate": 0.47058823529411764
-    },
-    {
-        "team": [
-            "BUZZ",
-            "COLT",
-            "KENJI"
-        ],
-        "games_played": 389,
-        "win_rate": 0.4704370179948586
-    },
-    {
-        "team": [
-            "BIBI",
-            "SHELLY",
-            "SURGE"
-        ],
-        "games_played": 321,
-        "win_rate": 0.470404984423676
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "FANG",
-            "RICO"
-        ],
-        "games_played": 468,
-        "win_rate": 0.4700854700854701
-    },
-    {
-        "team": [
-            "EDGAR",
-            "JACKY",
-            "MORTIS"
-        ],
-        "games_played": 315,
-        "win_rate": 0.46984126984126984
-    },
-    {
-        "team": [
-            "DARRYL",
-            "DYNAMIKE",
-            "KENJI"
-        ],
-        "games_played": 405,
-        "win_rate": 0.4691358024691358
-    },
-    {
-        "team": [
-            "BIBI",
-            "DYNAMIKE",
-            "EL PRIMO"
-        ],
-        "games_played": 401,
-        "win_rate": 0.4688279301745636
-    },
-    {
-        "team": [
-            "CLANCY",
-            "DYNAMIKE",
-            "RICO"
-        ],
-        "games_played": 735,
-        "win_rate": 0.46802721088435373
-    },
-    {
-        "team": [
-            "BIBI",
-            "BUZZ",
-            "RICO"
-        ],
-        "games_played": 1006,
-        "win_rate": 0.4671968190854871
-    },
-    {
-        "team": [
-            "BIBI",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 2956,
-        "win_rate": 0.4668470906630582
-    },
-    {
-        "team": [
-            "FANG",
-            "FRANK",
-            "KENJI"
-        ],
-        "games_played": 776,
-        "win_rate": 0.4652061855670103
-    },
-    {
-        "team": [
-            "FRANK",
-            "GALE",
-            "MORTIS"
-        ],
-        "games_played": 640,
-        "win_rate": 0.4640625
-    },
-    {
-        "team": [
-            "BIBI",
-            "DARRYL",
-            "MORTIS"
-        ],
-        "games_played": 524,
-        "win_rate": 0.4637404580152672
-    },
-    {
-        "team": [
-            "BUZZ",
-            "FRANK",
-            "RICO"
-        ],
-        "games_played": 1020,
-        "win_rate": 0.46372549019607845
+        "games_played": 1017,
+        "win_rate": 0.47885939036381514
     },
     {
         "team": [
@@ -3290,44 +3317,125 @@
             "DYNAMIKE",
             "FRANK"
         ],
-        "games_played": 350,
-        "win_rate": 0.46285714285714286
+        "games_played": 422,
+        "win_rate": 0.4786729857819905
     },
     {
         "team": [
-            "GALE",
-            "RICO",
+            "JACKY",
+            "STU",
             "SURGE"
         ],
-        "games_played": 685,
-        "win_rate": 0.46277372262773725
+        "games_played": 623,
+        "win_rate": 0.478330658105939
     },
     {
         "team": [
             "CLANCY",
-            "DYNAMIKE",
-            "SURGE"
-        ],
-        "games_played": 805,
-        "win_rate": 0.462111801242236
-    },
-    {
-        "team": [
-            "FANG",
             "RICO",
             "SURGE"
         ],
-        "games_played": 712,
-        "win_rate": 0.46207865168539325
+        "games_played": 1402,
+        "win_rate": 0.47717546362339514
     },
     {
         "team": [
-            "EDGAR",
+            "BIBI",
+            "JACKY",
+            "KENJI"
+        ],
+        "games_played": 1576,
+        "win_rate": 0.47715736040609136
+    },
+    {
+        "team": [
+            "BUZZ",
+            "COLT",
+            "FRANK"
+        ],
+        "games_played": 306,
+        "win_rate": 0.477124183006536
+    },
+    {
+        "team": [
+            "BUZZ",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 516,
+        "win_rate": 0.47674418604651164
+    },
+    {
+        "team": [
+            "BIBI",
+            "DARRYL",
+            "DYNAMIKE"
+        ],
+        "games_played": 319,
+        "win_rate": 0.47648902821316613
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 928,
+        "win_rate": 0.47629310344827586
+    },
+    {
+        "team": [
+            "MORTIS",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 1485,
+        "win_rate": 0.47609427609427607
+    },
+    {
+        "team": [
+            "BIBI",
+            "BUZZ",
+            "CLANCY"
+        ],
+        "games_played": 374,
+        "win_rate": 0.47593582887700536
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 3259,
+        "win_rate": 0.47529917152500767
+    },
+    {
+        "team": [
+            "BUZZ",
             "FRANK",
             "RICO"
         ],
-        "games_played": 513,
-        "win_rate": 0.4619883040935672
+        "games_played": 1086,
+        "win_rate": 0.47421731123388583
+    },
+    {
+        "team": [
+            "MORTIS",
+            "STU",
+            "SURGE"
+        ],
+        "games_played": 1529,
+        "win_rate": 0.4708960104643558
+    },
+    {
+        "team": [
+            "RICO",
+            "SANDY",
+            "SURGE"
+        ],
+        "games_played": 308,
+        "win_rate": 0.4707792207792208
     },
     {
         "team": [
@@ -3335,34 +3443,250 @@
             "MORTIS",
             "STU"
         ],
-        "games_played": 1036,
-        "win_rate": 0.4613899613899614
+        "games_played": 1127,
+        "win_rate": 0.4702750665483585
     },
     {
         "team": [
             "BIBI",
-            "FANG",
-            "FRANK"
+            "DYNAMIKE",
+            "KENJI"
         ],
-        "games_played": 453,
-        "win_rate": 0.4613686534216336
+        "games_played": 2106,
+        "win_rate": 0.4700854700854701
+    },
+    {
+        "team": [
+            "BUZZ",
+            "CLANCY",
+            "KENJI"
+        ],
+        "games_played": 430,
+        "win_rate": 0.4697674418604651
     },
     {
         "team": [
             "COLT",
-            "RICO",
-            "SURGE"
+            "FRANK",
+            "STU"
         ],
-        "games_played": 978,
-        "win_rate": 0.4611451942740286
+        "games_played": 358,
+        "win_rate": 0.4692737430167598
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "NITA",
+            "RICO"
+        ],
+        "games_played": 542,
+        "win_rate": 0.46863468634686345
+    },
+    {
+        "team": [
+            "MORTIS",
+            "NITA",
+            "RICO"
+        ],
+        "games_played": 685,
+        "win_rate": 0.4686131386861314
     },
     {
         "team": [
             "BIBI",
+            "EDGAR",
+            "RICO"
+        ],
+        "games_played": 483,
+        "win_rate": 0.46790890269151136
+    },
+    {
+        "team": [
+            "DARRYL",
+            "DYNAMIKE",
+            "RICO"
+        ],
+        "games_played": 520,
+        "win_rate": 0.4673076923076923
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "EL PRIMO",
+            "FRANK"
+        ],
+        "games_played": 546,
+        "win_rate": 0.46703296703296704
+    },
+    {
+        "team": [
+            "BIBI",
+            "EL PRIMO",
+            "FRANK"
+        ],
+        "games_played": 656,
+        "win_rate": 0.46646341463414637
+    },
+    {
+        "team": [
+            "CLANCY",
+            "DYNAMIKE",
+            "RICO"
+        ],
+        "games_played": 841,
+        "win_rate": 0.4661117717003567
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "SURGE"
+        ],
+        "games_played": 975,
+        "win_rate": 0.46564102564102566
+    },
+    {
+        "team": [
+            "BIBI",
+            "GALE",
+            "RICO"
+        ],
+        "games_played": 552,
+        "win_rate": 0.46557971014492755
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "EL PRIMO"
+        ],
+        "games_played": 447,
+        "win_rate": 0.465324384787472
+    },
+    {
+        "team": [
+            "KENJI",
             "MORTIS",
+            "TARA"
+        ],
+        "games_played": 559,
+        "win_rate": 0.46511627906976744
+    },
+    {
+        "team": [
+            "EDGAR",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 798,
+        "win_rate": 0.4649122807017544
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "MORTIS",
+            "STU"
+        ],
+        "games_played": 349,
+        "win_rate": 0.46418338108882523
+    },
+    {
+        "team": [
+            "FANG",
+            "FRANK",
+            "SURGE"
+        ],
+        "games_played": 614,
+        "win_rate": 0.46416938110749184
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "FRANK"
+        ],
+        "games_played": 655,
+        "win_rate": 0.46412213740458014
+    },
+    {
+        "team": [
+            "KENJI",
+            "RICO",
+            "SPIKE"
+        ],
+        "games_played": 332,
+        "win_rate": 0.463855421686747
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "FANG",
+            "RICO"
+        ],
+        "games_played": 520,
+        "win_rate": 0.4634615384615385
+    },
+    {
+        "team": [
+            "EDGAR",
+            "KENJI",
+            "RICO"
+        ],
+        "games_played": 587,
+        "win_rate": 0.46337308347529815
+    },
+    {
+        "team": [
+            "GALE",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 775,
+        "win_rate": 0.4632258064516129
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "KENJI",
+            "SHELLY"
+        ],
+        "games_played": 303,
+        "win_rate": 0.46204620462046203
+    },
+    {
+        "team": [
+            "FRANK",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 3501,
+        "win_rate": 0.46186803770351326
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
             "NITA"
         ],
-        "games_played": 575,
+        "games_played": 585,
+        "win_rate": 0.46153846153846156
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 349,
+        "win_rate": 0.46131805157593125
+    },
+    {
+        "team": [
+            "FRANK",
+            "GALE",
+            "MORTIS"
+        ],
+        "games_played": 690,
         "win_rate": 0.4608695652173913
     },
     {
@@ -3371,26 +3695,26 @@
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 1271,
-        "win_rate": 0.45790715971675844
+        "games_played": 1361,
+        "win_rate": 0.4599559147685525
     },
     {
         "team": [
-            "DYNAMIKE",
-            "JACKY",
-            "MORTIS"
-        ],
-        "games_played": 1090,
-        "win_rate": 0.4577981651376147
-    },
-    {
-        "team": [
-            "FRANK",
+            "BIBI",
             "MORTIS",
+            "NITA"
+        ],
+        "games_played": 635,
+        "win_rate": 0.45984251968503936
+    },
+    {
+        "team": [
+            "FANG",
+            "KENJI",
             "RICO"
         ],
-        "games_played": 3186,
-        "win_rate": 0.45731324544883867
+        "games_played": 833,
+        "win_rate": 0.4597839135654262
     },
     {
         "team": [
@@ -3398,8 +3722,107 @@
             "BUZZ",
             "KENJI"
         ],
-        "games_played": 980,
-        "win_rate": 0.45714285714285713
+        "games_played": 1084,
+        "win_rate": 0.45940959409594095
+    },
+    {
+        "team": [
+            "BIBI",
+            "EL PRIMO",
+            "SURGE"
+        ],
+        "games_played": 714,
+        "win_rate": 0.45938375350140054
+    },
+    {
+        "team": [
+            "KENJI",
+            "SPIKE",
+            "SURGE"
+        ],
+        "games_played": 357,
+        "win_rate": 0.45938375350140054
+    },
+    {
+        "team": [
+            "BUZZ",
+            "DYNAMIKE",
+            "FRANK"
+        ],
+        "games_played": 701,
+        "win_rate": 0.4593437945791726
+    },
+    {
+        "team": [
+            "FRANK",
+            "RICO",
+            "TARA"
+        ],
+        "games_played": 305,
+        "win_rate": 0.45901639344262296
+    },
+    {
+        "team": [
+            "BIBI",
+            "DARRYL",
+            "MORTIS"
+        ],
+        "games_played": 551,
+        "win_rate": 0.4573502722323049
+    },
+    {
+        "team": [
+            "FANG",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 786,
+        "win_rate": 0.45674300254452926
+    },
+    {
+        "team": [
+            "FRANK",
+            "SURGE",
+            "TARA"
+        ],
+        "games_played": 379,
+        "win_rate": 0.45646437994722955
+    },
+    {
+        "team": [
+            "COLT",
+            "FRANK",
+            "SURGE"
+        ],
+        "games_played": 986,
+        "win_rate": 0.4563894523326572
+    },
+    {
+        "team": [
+            "EDGAR",
+            "FRANK",
+            "RICO"
+        ],
+        "games_played": 550,
+        "win_rate": 0.45636363636363636
+    },
+    {
+        "team": [
+            "EDGAR",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 331,
+        "win_rate": 0.4561933534743202
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "EL PRIMO",
+            "KENJI"
+        ],
+        "games_played": 617,
+        "win_rate": 0.4554294975688817
     },
     {
         "team": [
@@ -3407,17 +3830,62 @@
             "FRANK",
             "MORTIS"
         ],
-        "games_played": 1054,
-        "win_rate": 0.45635673624288425
+        "games_played": 1149,
+        "win_rate": 0.45517841601392517
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 1212,
+        "win_rate": 0.4546204620462046
+    },
+    {
+        "team": [
+            "CHESTER",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 319,
+        "win_rate": 0.45454545454545453
+    },
+    {
+        "team": [
+            "MORTIS",
+            "NITA",
+            "SURGE"
+        ],
+        "games_played": 777,
+        "win_rate": 0.4543114543114543
     },
     {
         "team": [
             "KENJI",
-            "RICO",
-            "SPIKE"
+            "MORTIS",
+            "RICO"
         ],
-        "games_played": 309,
-        "win_rate": 0.4563106796116505
+        "games_played": 4169,
+        "win_rate": 0.45430558887023265
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "KENJI"
+        ],
+        "games_played": 891,
+        "win_rate": 0.45342312008978675
+    },
+    {
+        "team": [
+            "JACKY",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 1886,
+        "win_rate": 0.4533404029692471
     },
     {
         "team": [
@@ -3425,35 +3893,17 @@
             "SURGE",
             "TICK"
         ],
-        "games_played": 364,
-        "win_rate": 0.45604395604395603
+        "games_played": 417,
+        "win_rate": 0.45323741007194246
     },
     {
         "team": [
-            "EDGAR",
-            "KENJI",
-            "RICO"
+            "MORTIS",
+            "RICO",
+            "SURGE"
         ],
-        "games_played": 551,
-        "win_rate": 0.455535390199637
-    },
-    {
-        "team": [
-            "BIBI",
-            "COLT",
-            "KENJI"
-        ],
-        "games_played": 835,
-        "win_rate": 0.4550898203592814
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "EL PRIMO",
-            "FRANK"
-        ],
-        "games_played": 466,
-        "win_rate": 0.45493562231759654
+        "games_played": 4843,
+        "win_rate": 0.45302498451373113
     },
     {
         "team": [
@@ -3461,305 +3911,26 @@
             "KENJI",
             "MORTIS"
         ],
-        "games_played": 1302,
-        "win_rate": 0.45468509984639016
-    },
-    {
-        "team": [
-            "BIBI",
-            "EL PRIMO",
-            "SURGE"
-        ],
-        "games_played": 658,
-        "win_rate": 0.45440729483282677
-    },
-    {
-        "team": [
-            "BIBI",
-            "KENJI",
-            "NITA"
-        ],
-        "games_played": 542,
-        "win_rate": 0.45387453874538747
+        "games_played": 1414,
+        "win_rate": 0.4526166902404526
     },
     {
         "team": [
             "DYNAMIKE",
-            "MORTIS",
-            "NITA"
-        ],
-        "games_played": 399,
-        "win_rate": 0.45363408521303256
-    },
-    {
-        "team": [
-            "COLT",
-            "FRANK",
-            "SURGE"
-        ],
-        "games_played": 910,
-        "win_rate": 0.45274725274725275
-    },
-    {
-        "team": [
-            "MORTIS",
-            "RICO",
-            "SURGE"
-        ],
-        "games_played": 4401,
-        "win_rate": 0.45194274028629855
-    },
-    {
-        "team": [
-            "FANG",
-            "KENJI",
-            "RICO"
-        ],
-        "games_played": 757,
-        "win_rate": 0.45178335535006603
-    },
-    {
-        "team": [
-            "BIBI",
-            "DYNAMIKE",
-            "RICO"
-        ],
-        "games_played": 2068,
-        "win_rate": 0.45164410058027077
-    },
-    {
-        "team": [
-            "KENJI",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 3784,
-        "win_rate": 0.4513742071881607
-    },
-    {
-        "team": [
-            "JACKY",
-            "MORTIS",
-            "SURGE"
-        ],
-        "games_played": 1722,
-        "win_rate": 0.45005807200929154
-    },
-    {
-        "team": [
-            "BIBI",
-            "DYNAMIKE",
-            "STU"
-        ],
-        "games_played": 581,
-        "win_rate": 0.44922547332185886
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "MORTIS",
-            "STU"
-        ],
-        "games_played": 303,
-        "win_rate": 0.44884488448844884
-    },
-    {
-        "team": [
-            "BIBI",
-            "EDGAR",
-            "RICO"
-        ],
-        "games_played": 439,
-        "win_rate": 0.44874715261959
-    },
-    {
-        "team": [
-            "BIBI",
-            "NITA",
-            "SURGE"
-        ],
-        "games_played": 462,
-        "win_rate": 0.44805194805194803
-    },
-    {
-        "team": [
-            "CLANCY",
-            "JACKY",
-            "MORTIS"
-        ],
-        "games_played": 616,
-        "win_rate": 0.44805194805194803
-    },
-    {
-        "team": [
-            "MORTIS",
-            "NITA",
-            "SURGE"
-        ],
-        "games_played": 721,
-        "win_rate": 0.44798890429958393
-    },
-    {
-        "team": [
-            "BIBI",
-            "GALE",
-            "RICO"
-        ],
-        "games_played": 496,
-        "win_rate": 0.4475806451612903
-    },
-    {
-        "team": [
-            "KENJI",
-            "RICO",
-            "SHELLY"
-        ],
-        "games_played": 452,
-        "win_rate": 0.4469026548672566
-    },
-    {
-        "team": [
-            "MORTIS",
-            "RICO",
-            "SHELLY"
-        ],
-        "games_played": 381,
-        "win_rate": 0.4461942257217848
-    },
-    {
-        "team": [
-            "FANG",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 711,
-        "win_rate": 0.44585091420534456
-    },
-    {
-        "team": [
-            "FRANK",
             "MORTIS",
             "TARA"
         ],
-        "games_played": 431,
-        "win_rate": 0.44547563805104406
-    },
-    {
-        "team": [
-            "JACKY",
-            "KENJI",
-            "MORTIS"
-        ],
-        "games_played": 1745,
-        "win_rate": 0.4446991404011461
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 315,
-        "win_rate": 0.4444444444444444
-    },
-    {
-        "team": [
-            "DARRYL",
-            "DYNAMIKE",
-            "RICO"
-        ],
-        "games_played": 433,
-        "win_rate": 0.44341801385681295
-    },
-    {
-        "team": [
-            "BUZZ",
-            "JACKY",
-            "MORTIS"
-        ],
-        "games_played": 560,
-        "win_rate": 0.44285714285714284
-    },
-    {
-        "team": [
-            "RICO",
-            "SPIKE",
-            "SURGE"
-        ],
-        "games_played": 391,
-        "win_rate": 0.4424552429667519
-    },
-    {
-        "team": [
-            "FANG",
-            "FRANK",
-            "SURGE"
-        ],
-        "games_played": 547,
-        "win_rate": 0.4424131627056673
-    },
-    {
-        "team": [
-            "BIBI",
-            "DYNAMIKE",
-            "SURGE"
-        ],
-        "games_played": 1800,
-        "win_rate": 0.44222222222222224
-    },
-    {
-        "team": [
-            "BUZZ",
-            "MORTIS",
-            "STU"
-        ],
-        "games_played": 405,
-        "win_rate": 0.4419753086419753
+        "games_played": 323,
+        "win_rate": 0.4520123839009288
     },
     {
         "team": [
             "COLT",
-            "FRANK",
-            "RICO"
-        ],
-        "games_played": 806,
-        "win_rate": 0.44044665012406947
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "FRANK",
+            "RICO",
             "SURGE"
         ],
-        "games_played": 1930,
-        "win_rate": 0.43937823834196893
-    },
-    {
-        "team": [
-            "BIBI",
-            "CLANCY",
-            "MORTIS"
-        ],
-        "games_played": 947,
-        "win_rate": 0.4392819429778247
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "EL PRIMO",
-            "KENJI"
-        ],
-        "games_played": 513,
-        "win_rate": 0.43859649122807015
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "FRANK",
-            "RICO"
-        ],
-        "games_played": 1830,
-        "win_rate": 0.4382513661202186
+        "games_played": 1081,
+        "win_rate": 0.4514338575393155
     },
     {
         "team": [
@@ -3767,17 +3938,26 @@
             "SHELLY",
             "SURGE"
         ],
-        "games_played": 388,
-        "win_rate": 0.4381443298969072
+        "games_played": 421,
+        "win_rate": 0.4513064133016627
     },
     {
         "team": [
-            "EL PRIMO",
+            "COLT",
             "JACKY",
-            "RICO"
+            "KENJI"
         ],
-        "games_played": 331,
-        "win_rate": 0.4380664652567976
+        "games_played": 450,
+        "win_rate": 0.45111111111111113
+    },
+    {
+        "team": [
+            "CLANCY",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 679,
+        "win_rate": 0.45066273932253315
     },
     {
         "team": [
@@ -3785,215 +3965,269 @@
             "MAISIE",
             "SURGE"
         ],
-        "games_played": 345,
-        "win_rate": 0.43768115942028984
+        "games_played": 364,
+        "win_rate": 0.45054945054945056
     },
     {
         "team": [
             "BIBI",
-            "SURGE",
-            "TARA"
-        ],
-        "games_played": 361,
-        "win_rate": 0.4376731301939058
-    },
-    {
-        "team": [
-            "CLANCY",
-            "COLT",
-            "KENJI"
-        ],
-        "games_played": 389,
-        "win_rate": 0.4370179948586118
-    },
-    {
-        "team": [
-            "BUZZ",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 1174,
-        "win_rate": 0.43696763202725725
-    },
-    {
-        "team": [
-            "BIBI",
-            "CLANCY",
+            "NITA",
             "SURGE"
         ],
-        "games_played": 1083,
-        "win_rate": 0.43674976915974145
+        "games_played": 491,
+        "win_rate": 0.45010183299389
     },
     {
         "team": [
-            "RICO",
-            "SURGE",
-            "TARA"
+            "KENJI",
+            "MELODIE",
+            "MORTIS"
         ],
-        "games_played": 353,
-        "win_rate": 0.43626062322946174
+        "games_played": 300,
+        "win_rate": 0.45
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "RICO"
+        ],
+        "games_played": 2263,
+        "win_rate": 0.448519664162616
+    },
+    {
+        "team": [
+            "EDGAR",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 692,
+        "win_rate": 0.4479768786127168
     },
     {
         "team": [
             "BUZZ",
-            "DYNAMIKE",
-            "FRANK"
-        ],
-        "games_played": 599,
-        "win_rate": 0.4357262103505843
-    },
-    {
-        "team": [
-            "FANG",
-            "KENJI",
-            "MORTIS"
-        ],
-        "games_played": 781,
-        "win_rate": 0.4353393085787452
-    },
-    {
-        "team": [
             "COLT",
-            "JACKY",
-            "KENJI"
+            "SURGE"
+        ],
+        "games_played": 412,
+        "win_rate": 0.44660194174757284
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "MORTIS",
+            "NITA"
         ],
         "games_played": 421,
-        "win_rate": 0.4346793349168646
+        "win_rate": 0.44655581947743467
     },
     {
         "team": [
             "DYNAMIKE",
-            "FANG",
-            "KENJI"
+            "FRANK",
+            "RICO"
         ],
-        "games_played": 517,
-        "win_rate": 0.4332688588007737
+        "games_played": 2011,
+        "win_rate": 0.44654400795624066
     },
     {
         "team": [
-            "EL PRIMO",
+            "BIBI",
+            "CLANCY",
+            "SURGE"
+        ],
+        "games_played": 1201,
+        "win_rate": 0.4462947543713572
+    },
+    {
+        "team": [
+            "JACKY",
             "KENJI",
             "MORTIS"
         ],
-        "games_played": 929,
-        "win_rate": 0.4327233584499462
+        "games_played": 1855,
+        "win_rate": 0.44528301886792454
     },
     {
         "team": [
             "CLANCY",
-            "MORTIS",
-            "RICO"
+            "COLT",
+            "KENJI"
         ],
-        "games_played": 1061,
-        "win_rate": 0.43166823751178135
+        "games_played": 420,
+        "win_rate": 0.4452380952380952
     },
     {
         "team": [
-            "EDGAR",
+            "COLT",
+            "FRANK",
+            "RICO"
+        ],
+        "games_played": 899,
+        "win_rate": 0.44493882091212456
+    },
+    {
+        "team": [
+            "FANG",
             "RICO",
             "SURGE"
         ],
-        "games_played": 610,
-        "win_rate": 0.4311475409836066
+        "games_played": 807,
+        "win_rate": 0.4448574969021066
     },
     {
         "team": [
             "BIBI",
-            "DYNAMIKE",
-            "FRANK"
-        ],
-        "games_played": 1596,
-        "win_rate": 0.43107769423558895
-    },
-    {
-        "team": [
-            "BIBI",
-            "BUZZ",
-            "SURGE"
-        ],
-        "games_played": 1042,
-        "win_rate": 0.42994241842610365
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "FRANK",
-            "MORTIS"
-        ],
-        "games_played": 808,
-        "win_rate": 0.42945544554455445
-    },
-    {
-        "team": [
-            "BUZZ",
-            "COLT",
-            "SURGE"
-        ],
-        "games_played": 345,
-        "win_rate": 0.4289855072463768
-    },
-    {
-        "team": [
-            "EDGAR",
-            "KENJI",
-            "SURGE"
-        ],
-        "games_played": 649,
-        "win_rate": 0.4283513097072419
-    },
-    {
-        "team": [
-            "FRANK",
             "SURGE",
             "TARA"
         ],
-        "games_played": 348,
-        "win_rate": 0.4281609195402299
+        "games_played": 414,
+        "win_rate": 0.4444444444444444
+    },
+    {
+        "team": [
+            "CLANCY",
+            "DYNAMIKE",
+            "SURGE"
+        ],
+        "games_played": 923,
+        "win_rate": 0.4442036836403034
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "FRANK",
+            "SURGE"
+        ],
+        "games_played": 2184,
+        "win_rate": 0.4441391941391941
+    },
+    {
+        "team": [
+            "BIBI",
+            "CLANCY",
+            "MORTIS"
+        ],
+        "games_played": 1025,
+        "win_rate": 0.44390243902439025
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 444,
+        "win_rate": 0.4436936936936937
+    },
+    {
+        "team": [
+            "BUZZ",
+            "FANG",
+            "KENJI"
+        ],
+        "games_played": 316,
+        "win_rate": 0.4430379746835443
+    },
+    {
+        "team": [
+            "BIBI",
+            "FANG",
+            "FRANK"
+        ],
+        "games_played": 505,
+        "win_rate": 0.4415841584158416
+    },
+    {
+        "team": [
+            "BIBI",
+            "SHELLY",
+            "SURGE"
+        ],
+        "games_played": 375,
+        "win_rate": 0.44
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "STU"
+        ],
+        "games_played": 652,
+        "win_rate": 0.4386503067484663
+    },
+    {
+        "team": [
+            "BUZZ",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 611,
+        "win_rate": 0.4386252045826514
+    },
+    {
+        "team": [
+            "MORTIS",
+            "RICO",
+            "SHELLY"
+        ],
+        "games_played": 420,
+        "win_rate": 0.4380952380952381
+    },
+    {
+        "team": [
+            "RICO",
+            "SPIKE",
+            "SURGE"
+        ],
+        "games_played": 409,
+        "win_rate": 0.43765281173594134
+    },
+    {
+        "team": [
+            "BUZZ",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 1298,
+        "win_rate": 0.43759630200308164
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "SURGE"
+        ],
+        "games_played": 2052,
+        "win_rate": 0.4371345029239766
+    },
+    {
+        "team": [
+            "KENJI",
+            "RICO",
+            "SHELLY"
+        ],
+        "games_played": 476,
+        "win_rate": 0.4369747899159664
     },
     {
         "team": [
             "COLT",
             "DYNAMIKE",
-            "FRANK"
+            "KENJI"
         ],
-        "games_played": 459,
-        "win_rate": 0.42701525054466233
+        "games_played": 678,
+        "win_rate": 0.4365781710914454
     },
     {
         "team": [
-            "DARRYL",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 570,
-        "win_rate": 0.4263157894736842
-    },
-    {
-        "team": [
-            "BUZZ",
-            "CLANCY",
-            "FRANK"
-        ],
-        "games_played": 373,
-        "win_rate": 0.4262734584450402
-    },
-    {
-        "team": [
-            "CLANCY",
-            "MORTIS",
-            "SURGE"
-        ],
-        "games_played": 1110,
-        "win_rate": 0.4261261261261261
-    },
-    {
-        "team": [
-            "COLT",
             "EL PRIMO",
+            "FRANK",
             "MORTIS"
         ],
-        "games_played": 310,
-        "win_rate": 0.4258064516129032
+        "games_played": 875,
+        "win_rate": 0.43657142857142855
     },
     {
         "team": [
@@ -4001,8 +4235,44 @@
             "FRANK",
             "NITA"
         ],
-        "games_played": 411,
-        "win_rate": 0.4257907542579075
+        "games_played": 454,
+        "win_rate": 0.43612334801762115
+    },
+    {
+        "team": [
+            "BUZZ",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 1312,
+        "win_rate": 0.43597560975609756
+    },
+    {
+        "team": [
+            "FANG",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 828,
+        "win_rate": 0.43478260869565216
+    },
+    {
+        "team": [
+            "BUZZ",
+            "CLANCY",
+            "FRANK"
+        ],
+        "games_played": 410,
+        "win_rate": 0.43414634146341463
+    },
+    {
+        "team": [
+            "BUZZ",
+            "EL PRIMO",
+            "FRANK"
+        ],
+        "games_played": 303,
+        "win_rate": 0.43234323432343236
     },
     {
         "team": [
@@ -4010,26 +4280,125 @@
             "KENJI",
             "RICO"
         ],
-        "games_played": 1020,
-        "win_rate": 0.4245098039215686
+        "games_played": 1128,
+        "win_rate": 0.4317375886524823
     },
     {
         "team": [
-            "KENJI",
-            "SURGE",
-            "TICK"
+            "CLANCY",
+            "MORTIS",
+            "RICO"
         ],
-        "games_played": 422,
-        "win_rate": 0.42417061611374407
+        "games_played": 1182,
+        "win_rate": 0.43147208121827413
     },
     {
         "team": [
             "CLANCY",
             "COLT",
+            "RICO"
+        ],
+        "games_played": 364,
+        "win_rate": 0.43131868131868134
+    },
+    {
+        "team": [
+            "COLT",
+            "JACKY",
             "MORTIS"
         ],
-        "games_played": 354,
-        "win_rate": 0.423728813559322
+        "games_played": 518,
+        "win_rate": 0.4305019305019305
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "MORTIS"
+        ],
+        "games_played": 3351,
+        "win_rate": 0.4297224709042077
+    },
+    {
+        "team": [
+            "DARRYL",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 622,
+        "win_rate": 0.4292604501607717
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "FRANK"
+        ],
+        "games_played": 1744,
+        "win_rate": 0.4288990825688073
+    },
+    {
+        "team": [
+            "EDGAR",
+            "FRANK",
+            "JACKY"
+        ],
+        "games_played": 322,
+        "win_rate": 0.42857142857142855
+    },
+    {
+        "team": [
+            "RICO",
+            "SURGE",
+            "TARA"
+        ],
+        "games_played": 397,
+        "win_rate": 0.4282115869017632
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 995,
+        "win_rate": 0.42814070351758793
+    },
+    {
+        "team": [
+            "COLT",
+            "EL PRIMO",
+            "MORTIS"
+        ],
+        "games_played": 335,
+        "win_rate": 0.42686567164179107
+    },
+    {
+        "team": [
+            "BIBI",
+            "EDGAR",
+            "KENJI"
+        ],
+        "games_played": 565,
+        "win_rate": 0.4265486725663717
+    },
+    {
+        "team": [
+            "BUZZ",
+            "DYNAMIKE",
+            "MORTIS"
+        ],
+        "games_played": 894,
+        "win_rate": 0.4261744966442953
+    },
+    {
+        "team": [
+            "FANG",
+            "FRANK",
+            "MORTIS"
+        ],
+        "games_played": 690,
+        "win_rate": 0.4260869565217391
     },
     {
         "team": [
@@ -4037,8 +4406,8 @@
             "MORTIS",
             "STU"
         ],
-        "games_played": 699,
-        "win_rate": 0.4234620886981402
+        "games_played": 761,
+        "win_rate": 0.42575558475689884
     },
     {
         "team": [
@@ -4046,125 +4415,44 @@
             "RICO",
             "SURGE"
         ],
-        "games_played": 487,
-        "win_rate": 0.42299794661190965
+        "games_played": 534,
+        "win_rate": 0.4250936329588015
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "FANG",
+            "KENJI"
+        ],
+        "games_played": 546,
+        "win_rate": 0.4249084249084249
     },
     {
         "team": [
             "BUZZ",
-            "MORTIS",
+            "DYNAMIKE",
+            "KENJI"
+        ],
+        "games_played": 737,
+        "win_rate": 0.42469470827679784
+    },
+    {
+        "team": [
+            "FANG",
+            "JACKY",
             "SURGE"
         ],
-        "games_played": 1116,
-        "win_rate": 0.4229390681003584
-    },
-    {
-        "team": [
-            "BIBI",
-            "EDGAR",
-            "FRANK"
-        ],
-        "games_played": 421,
-        "win_rate": 0.42280285035629456
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "FRANK",
-            "NITA"
-        ],
-        "games_played": 310,
-        "win_rate": 0.42258064516129035
-    },
-    {
-        "team": [
-            "CLANCY",
-            "COLT",
-            "RICO"
-        ],
-        "games_played": 346,
-        "win_rate": 0.42196531791907516
+        "games_played": 304,
+        "win_rate": 0.4243421052631579
     },
     {
         "team": [
             "BIBI",
             "FRANK",
-            "MORTIS"
+            "TICK"
         ],
-        "games_played": 2980,
-        "win_rate": 0.4214765100671141
-    },
-    {
-        "team": [
-            "EL PRIMO",
-            "JACKY",
-            "MORTIS"
-        ],
-        "games_played": 404,
-        "win_rate": 0.4207920792079208
-    },
-    {
-        "team": [
-            "FANG",
-            "JACKY",
-            "KENJI"
-        ],
-        "games_played": 363,
-        "win_rate": 0.418732782369146
-    },
-    {
-        "team": [
-            "FANG",
-            "FRANK",
-            "MORTIS"
-        ],
-        "games_played": 645,
-        "win_rate": 0.4186046511627907
-    },
-    {
-        "team": [
-            "COLT",
-            "KENJI",
-            "STU"
-        ],
-        "games_played": 333,
-        "win_rate": 0.4174174174174174
-    },
-    {
-        "team": [
-            "BUZZ",
-            "DYNAMIKE",
-            "KENJI"
-        ],
-        "games_played": 657,
-        "win_rate": 0.4170471841704718
-    },
-    {
-        "team": [
-            "COLT",
-            "MORTIS",
-            "STU"
-        ],
-        "games_played": 514,
-        "win_rate": 0.4163424124513619
-    },
-    {
-        "team": [
-            "COLT",
-            "DYNAMIKE",
-            "KENJI"
-        ],
-        "games_played": 592,
-        "win_rate": 0.4155405405405405
-    },
-    {
-        "team": [
-            "BIBI",
-            "EDGAR",
-            "KENJI"
-        ],
-        "games_played": 519,
-        "win_rate": 0.4142581888246628
+        "games_played": 378,
+        "win_rate": 0.42328042328042326
     },
     {
         "team": [
@@ -4172,26 +4460,98 @@
             "FRANK",
             "MORTIS"
         ],
-        "games_played": 495,
-        "win_rate": 0.41414141414141414
-    },
-    {
-        "team": [
-            "BIBI",
-            "MORTIS",
-            "STU"
-        ],
-        "games_played": 925,
-        "win_rate": 0.41405405405405404
+        "games_played": 552,
+        "win_rate": 0.4221014492753623
     },
     {
         "team": [
             "DYNAMIKE",
-            "FANG",
+            "FRANK",
+            "NITA"
+        ],
+        "games_played": 339,
+        "win_rate": 0.4218289085545723
+    },
+    {
+        "team": [
+            "FRANK",
+            "MORTIS",
+            "TARA"
+        ],
+        "games_played": 465,
+        "win_rate": 0.421505376344086
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "JACKY",
+            "RICO"
+        ],
+        "games_played": 368,
+        "win_rate": 0.421195652173913
+    },
+    {
+        "team": [
+            "BIBI",
+            "BUZZ",
             "SURGE"
         ],
-        "games_played": 377,
-        "win_rate": 0.41114058355437666
+        "games_played": 1167,
+        "win_rate": 0.4207369323050557
+    },
+    {
+        "team": [
+            "BIBI",
+            "EDGAR",
+            "FRANK"
+        ],
+        "games_played": 485,
+        "win_rate": 0.42061855670103093
+    },
+    {
+        "team": [
+            "KENJI",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 475,
+        "win_rate": 0.4189473684210526
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "EDGAR",
+            "SURGE"
+        ],
+        "games_played": 444,
+        "win_rate": 0.4189189189189189
+    },
+    {
+        "team": [
+            "CLANCY",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 1177,
+        "win_rate": 0.41886151231945623
+    },
+    {
+        "team": [
+            "MELODIE",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 324,
+        "win_rate": 0.4166666666666667
+    },
+    {
+        "team": [
+            "EDGAR",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 709,
+        "win_rate": 0.41607898448519043
     },
     {
         "team": [
@@ -4199,8 +4559,26 @@
             "GALE",
             "MORTIS"
         ],
-        "games_played": 450,
-        "win_rate": 0.4111111111111111
+        "games_played": 484,
+        "win_rate": 0.4152892561983471
+    },
+    {
+        "team": [
+            "BUZZ",
+            "MORTIS",
+            "STU"
+        ],
+        "games_played": 465,
+        "win_rate": 0.4150537634408602
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "KENJI",
+            "TARA"
+        ],
+        "games_played": 311,
+        "win_rate": 0.41479099678456594
     },
     {
         "team": [
@@ -4208,35 +4586,53 @@
             "MORTIS",
             "RICO"
         ],
-        "games_played": 2301,
-        "win_rate": 0.4098218166014776
+        "games_played": 2552,
+        "win_rate": 0.4141849529780564
     },
     {
         "team": [
-            "BIBI",
-            "FRANK",
-            "TICK"
-        ],
-        "games_played": 327,
-        "win_rate": 0.40978593272171254
-    },
-    {
-        "team": [
-            "BIBI",
             "COLT",
-            "MORTIS"
+            "DYNAMIKE",
+            "SURGE"
         ],
-        "games_played": 887,
-        "win_rate": 0.4092446448703495
+        "games_played": 611,
+        "win_rate": 0.41407528641571195
     },
     {
         "team": [
-            "BIBI",
+            "COLT",
             "MORTIS",
-            "TARA"
+            "STU"
         ],
-        "games_played": 317,
-        "win_rate": 0.4069400630914827
+        "games_played": 570,
+        "win_rate": 0.41403508771929826
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "FANG",
+            "FRANK"
+        ],
+        "games_played": 440,
+        "win_rate": 0.4113636363636364
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "EDGAR",
+            "KENJI"
+        ],
+        "games_played": 479,
+        "win_rate": 0.4091858037578288
+    },
+    {
+        "team": [
+            "BUZZ",
+            "KENJI",
+            "STU"
+        ],
+        "games_played": 308,
+        "win_rate": 0.4090909090909091
     },
     {
         "team": [
@@ -4244,8 +4640,17 @@
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 3428,
-        "win_rate": 0.4063593932322054
+        "games_played": 3775,
+        "win_rate": 0.40794701986754967
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "RICO"
+        ],
+        "games_played": 815,
+        "win_rate": 0.40736196319018403
     },
     {
         "team": [
@@ -4253,53 +4658,8 @@
             "FANG",
             "MORTIS"
         ],
-        "games_played": 424,
-        "win_rate": 0.4056603773584906
-    },
-    {
-        "team": [
-            "BIBI",
-            "KENJI",
-            "MORTIS"
-        ],
-        "games_played": 3232,
-        "win_rate": 0.4056311881188119
-    },
-    {
-        "team": [
-            "BIBI",
-            "COLT",
-            "RICO"
-        ],
-        "games_played": 727,
-        "win_rate": 0.40440165061898214
-    },
-    {
-        "team": [
-            "FRANK",
-            "KENJI",
-            "MORTIS"
-        ],
-        "games_played": 3726,
-        "win_rate": 0.40365002683843265
-    },
-    {
-        "team": [
-            "COLT",
-            "DYNAMIKE",
-            "SURGE"
-        ],
-        "games_played": 558,
-        "win_rate": 0.4032258064516129
-    },
-    {
-        "team": [
-            "COLT",
-            "JACKY",
-            "MORTIS"
-        ],
-        "games_played": 459,
-        "win_rate": 0.40305010893246185
+        "games_played": 477,
+        "win_rate": 0.40670859538784065
     },
     {
         "team": [
@@ -4307,17 +4667,89 @@
             "RICO",
             "TARA"
         ],
-        "games_played": 358,
-        "win_rate": 0.4022346368715084
+        "games_played": 396,
+        "win_rate": 0.4065656565656566
     },
     {
         "team": [
             "BIBI",
-            "RICO",
-            "TICK"
+            "MORTIS",
+            "STU"
         ],
-        "games_played": 351,
-        "win_rate": 0.4017094017094017
+        "games_played": 1016,
+        "win_rate": 0.406496062992126
+    },
+    {
+        "team": [
+            "BIBI",
+            "COLT",
+            "MORTIS"
+        ],
+        "games_played": 978,
+        "win_rate": 0.40286298568507156
+    },
+    {
+        "team": [
+            "BIBI",
+            "MORTIS",
+            "TARA"
+        ],
+        "games_played": 348,
+        "win_rate": 0.40229885057471265
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "FRANK"
+        ],
+        "games_played": 522,
+        "win_rate": 0.40229885057471265
+    },
+    {
+        "team": [
+            "CLANCY",
+            "COLT",
+            "MORTIS"
+        ],
+        "games_played": 398,
+        "win_rate": 0.4020100502512563
+    },
+    {
+        "team": [
+            "BIBI",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 1516,
+        "win_rate": 0.4017150395778364
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 3537,
+        "win_rate": 0.4011874469889737
+    },
+    {
+        "team": [
+            "DARRYL",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 559,
+        "win_rate": 0.4007155635062612
+    },
+    {
+        "team": [
+            "BIBI",
+            "BUZZ",
+            "DYNAMIKE"
+        ],
+        "games_played": 600,
+        "win_rate": 0.4
     },
     {
         "team": [
@@ -4325,8 +4757,8 @@
             "DYNAMIKE",
             "MORTIS"
         ],
-        "games_played": 694,
-        "win_rate": 0.40057636887608067
+        "games_played": 775,
+        "win_rate": 0.4
     },
     {
         "team": [
@@ -4334,89 +4766,62 @@
             "FRANK",
             "JACKY"
         ],
-        "games_played": 352,
-        "win_rate": 0.4005681818181818
+        "games_played": 378,
+        "win_rate": 0.3994708994708995
     },
     {
         "team": [
-            "DYNAMIKE",
-            "EDGAR",
-            "SURGE"
+            "COLT",
+            "KENJI",
+            "STU"
         ],
-        "games_played": 382,
-        "win_rate": 0.4005235602094241
-    },
-    {
-        "team": [
-            "FRANK",
-            "MORTIS",
-            "NITA"
-        ],
-        "games_played": 587,
-        "win_rate": 0.40034071550255534
+        "games_played": 348,
+        "win_rate": 0.3994252873563218
     },
     {
         "team": [
             "BIBI",
-            "CLANCY",
-            "DYNAMIKE"
+            "BUZZ",
+            "MORTIS"
         ],
-        "games_played": 515,
-        "win_rate": 0.39805825242718446
-    },
-    {
-        "team": [
-            "BIBI",
-            "FRANK",
-            "SHELLY"
-        ],
-        "games_played": 375,
-        "win_rate": 0.3973333333333333
+        "games_played": 978,
+        "win_rate": 0.3987730061349693
     },
     {
         "team": [
             "BUZZ",
-            "COLT",
+            "EL PRIMO",
             "MORTIS"
         ],
-        "games_played": 345,
-        "win_rate": 0.39710144927536234
+        "games_played": 304,
+        "win_rate": 0.3980263157894737
     },
     {
         "team": [
-            "DYNAMIKE",
-            "EDGAR",
-            "FRANK"
-        ],
-        "games_played": 310,
-        "win_rate": 0.3967741935483871
-    },
-    {
-        "team": [
-            "CLANCY",
-            "DYNAMIKE",
-            "MORTIS"
-        ],
-        "games_played": 799,
-        "win_rate": 0.3954943679599499
-    },
-    {
-        "team": [
-            "EDGAR",
+            "EL PRIMO",
             "MORTIS",
-            "RICO"
+            "SURGE"
         ],
-        "games_played": 544,
-        "win_rate": 0.3952205882352941
+        "games_played": 902,
+        "win_rate": 0.39800443458980045
     },
     {
         "team": [
-            "BIBI",
-            "KENJI",
-            "TICK"
+            "BUZZ",
+            "FRANK",
+            "MORTIS"
         ],
-        "games_played": 437,
-        "win_rate": 0.39359267734553777
+        "games_played": 1201,
+        "win_rate": 0.3980016652789342
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 4035,
+        "win_rate": 0.3960346964064436
     },
     {
         "team": [
@@ -4424,89 +4829,125 @@
             "DYNAMIKE",
             "FANG"
         ],
-        "games_played": 354,
-        "win_rate": 0.3926553672316384
+        "games_played": 379,
+        "win_rate": 0.39577836411609496
     },
     {
         "team": [
-            "DYNAMIKE",
-            "EDGAR",
-            "KENJI"
+            "BUZZ",
+            "COLT",
+            "MORTIS"
         ],
-        "games_played": 427,
-        "win_rate": 0.3911007025761124
+        "games_played": 382,
+        "win_rate": 0.39528795811518325
+    },
+    {
+        "team": [
+            "FRANK",
+            "MORTIS",
+            "NITA"
+        ],
+        "games_played": 633,
+        "win_rate": 0.3949447077409163
+    },
+    {
+        "team": [
+            "CLANCY",
+            "FRANK",
+            "MORTIS"
+        ],
+        "games_played": 1338,
+        "win_rate": 0.39461883408071746
+    },
+    {
+        "team": [
+            "EL PRIMO",
+            "JACKY",
+            "SURGE"
+        ],
+        "games_played": 317,
+        "win_rate": 0.3943217665615142
+    },
+    {
+        "team": [
+            "FRANK",
+            "MORTIS",
+            "SHELLY"
+        ],
+        "games_played": 509,
+        "win_rate": 0.3929273084479371
     },
     {
         "team": [
             "BIBI",
-            "JACKY",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 3309,
+        "win_rate": 0.39286793593230585
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "STU"
+        ],
+        "games_played": 1342,
+        "win_rate": 0.3926974664679583
+    },
+    {
+        "team": [
+            "CLANCY",
+            "DYNAMIKE",
             "MORTIS"
         ],
-        "games_played": 1423,
-        "win_rate": 0.39072382290934643
+        "games_played": 883,
+        "win_rate": 0.39184597961494905
+    },
+    {
+        "team": [
+            "COLT",
+            "RICO",
+            "STU"
+        ],
+        "games_played": 378,
+        "win_rate": 0.3915343915343915
     },
     {
         "team": [
             "DYNAMIKE",
             "FANG",
-            "FRANK"
+            "SURGE"
         ],
-        "games_played": 389,
-        "win_rate": 0.38817480719794345
+        "games_played": 447,
+        "win_rate": 0.39149888143176736
     },
     {
         "team": [
             "KENJI",
-            "MORTIS",
-            "STU"
-        ],
-        "games_played": 1265,
-        "win_rate": 0.38814229249011856
-    },
-    {
-        "team": [
-            "BIBI",
-            "BUZZ",
-            "MORTIS"
-        ],
-        "games_played": 874,
-        "win_rate": 0.3878718535469107
-    },
-    {
-        "team": [
-            "EL PRIMO",
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 819,
-        "win_rate": 0.38705738705738707
+        "games_played": 4266,
+        "win_rate": 0.39006094702297234
     },
     {
         "team": [
             "DYNAMIKE",
-            "FRANK",
+            "EDGAR",
             "MORTIS"
         ],
-        "games_played": 2060,
-        "win_rate": 0.38398058252427186
+        "games_played": 380,
+        "win_rate": 0.3894736842105263
     },
     {
         "team": [
-            "FRANK",
-            "MORTIS",
+            "DYNAMIKE",
+            "RICO",
             "SHELLY"
         ],
-        "games_played": 435,
-        "win_rate": 0.3839080459770115
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "KENJI",
-            "MORTIS"
-        ],
-        "games_played": 2519,
-        "win_rate": 0.3830885271933307
+        "games_played": 306,
+        "win_rate": 0.3888888888888889
     },
     {
         "team": [
@@ -4514,89 +4955,53 @@
             "MORTIS",
             "TICK"
         ],
-        "games_played": 512,
-        "win_rate": 0.3828125
-    },
-    {
-        "team": [
-            "BIBI",
-            "MORTIS",
-            "SURGE"
-        ],
-        "games_played": 3051,
-        "win_rate": 0.3824975417895772
-    },
-    {
-        "team": [
-            "KENJI",
-            "MORTIS",
-            "SURGE"
-        ],
-        "games_played": 3904,
-        "win_rate": 0.382172131147541
-    },
-    {
-        "team": [
-            "KENJI",
-            "RICO",
-            "TICK"
-        ],
-        "games_played": 461,
-        "win_rate": 0.38177874186550975
-    },
-    {
-        "team": [
-            "JACKY",
-            "MORTIS",
-            "STU"
-        ],
-        "games_played": 456,
-        "win_rate": 0.3815789473684211
-    },
-    {
-        "team": [
-            "BIBI",
-            "DYNAMIKE",
-            "MORTIS"
-        ],
-        "games_played": 1819,
-        "win_rate": 0.38152831225948325
-    },
-    {
-        "team": [
-            "BUZZ",
-            "FRANK",
-            "MORTIS"
-        ],
-        "games_played": 1099,
-        "win_rate": 0.3812556869881711
+        "games_played": 563,
+        "win_rate": 0.3872113676731794
     },
     {
         "team": [
             "FRANK",
-            "RICO",
+            "KENJI",
             "SHELLY"
         ],
-        "games_played": 311,
-        "win_rate": 0.37942122186495175
-    },
-    {
-        "team": [
-            "BUZZ",
-            "DYNAMIKE",
-            "MORTIS"
-        ],
-        "games_played": 762,
-        "win_rate": 0.37926509186351703
+        "games_played": 491,
+        "win_rate": 0.3869653767820774
     },
     {
         "team": [
             "BIBI",
-            "BUZZ",
+            "CLANCY",
             "DYNAMIKE"
         ],
-        "games_played": 509,
-        "win_rate": 0.3791748526522593
+        "games_played": 566,
+        "win_rate": 0.3869257950530035
+    },
+    {
+        "team": [
+            "EDGAR",
+            "MORTIS",
+            "RICO"
+        ],
+        "games_played": 587,
+        "win_rate": 0.3850085178875639
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "SHELLY"
+        ],
+        "games_played": 432,
+        "win_rate": 0.38425925925925924
+    },
+    {
+        "team": [
+            "BIBI",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 396,
+        "win_rate": 0.3838383838383838
     },
     {
         "team": [
@@ -4604,35 +5009,98 @@
             "SURGE",
             "TICK"
         ],
-        "games_played": 306,
-        "win_rate": 0.3790849673202614
+        "games_played": 334,
+        "win_rate": 0.38323353293413176
     },
     {
         "team": [
-            "CLANCY",
+            "DYNAMIKE",
             "FRANK",
             "MORTIS"
         ],
-        "games_played": 1185,
-        "win_rate": 0.3789029535864979
+        "games_played": 2296,
+        "win_rate": 0.3828397212543554
+    },
+    {
+        "team": [
+            "KENJI",
+            "RICO",
+            "TICK"
+        ],
+        "games_played": 507,
+        "win_rate": 0.3826429980276134
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 482,
+        "win_rate": 0.3817427385892116
     },
     {
         "team": [
             "DYNAMIKE",
             "EDGAR",
-            "MORTIS"
+            "FRANK"
         ],
-        "games_played": 354,
-        "win_rate": 0.3785310734463277
+        "games_played": 349,
+        "win_rate": 0.38108882521489973
     },
     {
         "team": [
             "FANG",
             "MORTIS",
+            "RICO"
+        ],
+        "games_played": 659,
+        "win_rate": 0.38088012139605465
+    },
+    {
+        "team": [
+            "BIBI",
+            "DYNAMIKE",
+            "MORTIS"
+        ],
+        "games_played": 2005,
+        "win_rate": 0.38054862842892767
+    },
+    {
+        "team": [
+            "FANG",
+            "JACKY",
+            "MORTIS"
+        ],
+        "games_played": 314,
+        "win_rate": 0.37898089171974525
+    },
+    {
+        "team": [
+            "BIBI",
+            "RICO",
+            "TICK"
+        ],
+        "games_played": 388,
+        "win_rate": 0.3788659793814433
+    },
+    {
+        "team": [
+            "BIBI",
+            "EDGAR",
             "SURGE"
         ],
-        "games_played": 690,
-        "win_rate": 0.3782608695652174
+        "games_played": 547,
+        "win_rate": 0.376599634369287
+    },
+    {
+        "team": [
+            "JACKY",
+            "MORTIS",
+            "STU"
+        ],
+        "games_played": 489,
+        "win_rate": 0.37627811860940696
     },
     {
         "team": [
@@ -4640,44 +5108,26 @@
             "KENJI",
             "SHELLY"
         ],
-        "games_played": 328,
-        "win_rate": 0.3780487804878049
+        "games_played": 359,
+        "win_rate": 0.37604456824512533
     },
     {
         "team": [
-            "BIBI",
-            "MORTIS",
+            "FRANK",
+            "KENJI",
             "TICK"
         ],
-        "games_played": 349,
-        "win_rate": 0.3753581661891118
+        "games_played": 469,
+        "win_rate": 0.3752665245202559
     },
     {
         "team": [
-            "COLT",
-            "RICO",
-            "STU"
-        ],
-        "games_played": 347,
-        "win_rate": 0.3746397694524496
-    },
-    {
-        "team": [
-            "DARRYL",
-            "MORTIS",
-            "SURGE"
-        ],
-        "games_played": 494,
-        "win_rate": 0.37449392712550605
-    },
-    {
-        "team": [
-            "CLANCY",
-            "GALE",
+            "DYNAMIKE",
+            "KENJI",
             "MORTIS"
         ],
-        "games_played": 320,
-        "win_rate": 0.371875
+        "games_played": 2796,
+        "win_rate": 0.3748211731044349
     },
     {
         "team": [
@@ -4685,8 +5135,8 @@
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 2284,
-        "win_rate": 0.3712784588441331
+        "games_played": 2583,
+        "win_rate": 0.37282229965156793
     },
     {
         "team": [
@@ -4694,35 +5144,8 @@
             "SHELLY",
             "SURGE"
         ],
-        "games_played": 341,
-        "win_rate": 0.36950146627565983
-    },
-    {
-        "team": [
-            "FRANK",
-            "KENJI",
-            "SHELLY"
-        ],
-        "games_played": 453,
-        "win_rate": 0.3686534216335541
-    },
-    {
-        "team": [
-            "BIBI",
-            "FANG",
-            "MORTIS"
-        ],
-        "games_played": 528,
-        "win_rate": 0.36742424242424243
-    },
-    {
-        "team": [
-            "COLT",
-            "KENJI",
-            "MORTIS"
-        ],
-        "games_played": 1102,
-        "win_rate": 0.36569872958257715
+        "games_played": 383,
+        "win_rate": 0.370757180156658
     },
     {
         "team": [
@@ -4730,8 +5153,44 @@
             "SHELLY",
             "SURGE"
         ],
-        "games_played": 401,
-        "win_rate": 0.3640897755610973
+        "games_played": 454,
+        "win_rate": 0.3700440528634361
+    },
+    {
+        "team": [
+            "FANG",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 754,
+        "win_rate": 0.3673740053050398
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 1217,
+        "win_rate": 0.36729663105998356
+    },
+    {
+        "team": [
+            "FRANK",
+            "RICO",
+            "SHELLY"
+        ],
+        "games_played": 338,
+        "win_rate": 0.3668639053254438
+    },
+    {
+        "team": [
+            "EDGAR",
+            "FRANK",
+            "MORTIS"
+        ],
+        "games_played": 695,
+        "win_rate": 0.36258992805755397
     },
     {
         "team": [
@@ -4739,80 +5198,35 @@
             "SURGE",
             "TARA"
         ],
-        "games_played": 349,
-        "win_rate": 0.35816618911174786
-    },
-    {
-        "team": [
-            "COLT",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 921,
-        "win_rate": 0.3572204125950054
-    },
-    {
-        "team": [
-            "FANG",
-            "MORTIS",
-            "RICO"
-        ],
-        "games_played": 577,
-        "win_rate": 0.35701906412478335
-    },
-    {
-        "team": [
-            "BUZZ",
-            "CLANCY",
-            "MORTIS"
-        ],
-        "games_played": 352,
-        "win_rate": 0.35511363636363635
-    },
-    {
-        "team": [
-            "EDGAR",
-            "FRANK",
-            "MORTIS"
-        ],
-        "games_played": 601,
-        "win_rate": 0.3544093178036606
+        "games_played": 391,
+        "win_rate": 0.36061381074168797
     },
     {
         "team": [
             "BIBI",
-            "EDGAR",
-            "SURGE"
+            "FANG",
+            "MORTIS"
         ],
-        "games_played": 484,
-        "win_rate": 0.34917355371900827
+        "games_played": 583,
+        "win_rate": 0.3602058319039451
     },
     {
         "team": [
-            "RICO",
-            "SURGE",
-            "TICK"
+            "CLANCY",
+            "GALE",
+            "MORTIS"
         ],
-        "games_played": 402,
-        "win_rate": 0.3482587064676617
+        "games_played": 331,
+        "win_rate": 0.3595166163141994
     },
     {
         "team": [
-            "FRANK",
+            "DYNAMIKE",
             "KENJI",
             "TICK"
         ],
-        "games_played": 429,
-        "win_rate": 0.3473193473193473
-    },
-    {
-        "team": [
-            "BIBI",
-            "EL PRIMO",
-            "MORTIS"
-        ],
-        "games_played": 612,
-        "win_rate": 0.3464052287581699
+        "games_played": 319,
+        "win_rate": 0.3542319749216301
     },
     {
         "team": [
@@ -4820,53 +5234,35 @@
             "DARRYL",
             "KENJI"
         ],
-        "games_played": 379,
-        "win_rate": 0.34564643799472294
+        "games_played": 415,
+        "win_rate": 0.35180722891566263
     },
     {
         "team": [
-            "BUZZ",
-            "KENJI",
-            "MORTIS"
-        ],
-        "games_played": 1256,
-        "win_rate": 0.34156050955414013
-    },
-    {
-        "team": [
+            "BIBI",
             "DYNAMIKE",
-            "EL PRIMO",
-            "MORTIS"
+            "EDGAR"
         ],
-        "games_played": 505,
-        "win_rate": 0.3405940594059406
-    },
-    {
-        "team": [
-            "DARRYL",
-            "DYNAMIKE",
-            "MORTIS"
-        ],
-        "games_played": 385,
-        "win_rate": 0.34025974025974026
-    },
-    {
-        "team": [
-            "DYNAMIKE",
-            "MORTIS",
-            "SHELLY"
-        ],
-        "games_played": 327,
-        "win_rate": 0.3394495412844037
+        "games_played": 316,
+        "win_rate": 0.3512658227848101
     },
     {
         "team": [
             "COLT",
-            "DYNAMIKE",
+            "MORTIS",
             "RICO"
         ],
-        "games_played": 578,
-        "win_rate": 0.3391003460207612
+        "games_played": 1033,
+        "win_rate": 0.3504356243949661
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "EDGAR",
+            "RICO"
+        ],
+        "games_played": 432,
+        "win_rate": 0.34953703703703703
     },
     {
         "team": [
@@ -4874,8 +5270,26 @@
             "SURGE",
             "TICK"
         ],
-        "games_played": 459,
-        "win_rate": 0.33769063180827885
+        "games_played": 507,
+        "win_rate": 0.34911242603550297
+    },
+    {
+        "team": [
+            "DARRYL",
+            "DYNAMIKE",
+            "MORTIS"
+        ],
+        "games_played": 445,
+        "win_rate": 0.34831460674157305
+    },
+    {
+        "team": [
+            "BIBI",
+            "EL PRIMO",
+            "MORTIS"
+        ],
+        "games_played": 666,
+        "win_rate": 0.34684684684684686
     },
     {
         "team": [
@@ -4883,35 +5297,44 @@
             "MORTIS",
             "TICK"
         ],
-        "games_played": 461,
-        "win_rate": 0.3362255965292842
+        "games_played": 507,
+        "win_rate": 0.34516765285996054
     },
     {
         "team": [
-            "MORTIS",
+            "BUZZ",
+            "CLANCY",
+            "MORTIS"
+        ],
+        "games_played": 406,
+        "win_rate": 0.3448275862068966
+    },
+    {
+        "team": [
             "RICO",
+            "SURGE",
             "TICK"
         ],
-        "games_played": 364,
-        "win_rate": 0.33516483516483514
+        "games_played": 451,
+        "win_rate": 0.3436807095343681
     },
     {
         "team": [
-            "DARRYL",
+            "BUZZ",
             "KENJI",
             "MORTIS"
         ],
-        "games_played": 553,
-        "win_rate": 0.33273056057866185
+        "games_played": 1405,
+        "win_rate": 0.3423487544483986
     },
     {
         "team": [
-            "BIBI",
-            "EDGAR",
-            "MORTIS"
+            "COLT",
+            "DYNAMIKE",
+            "RICO"
         ],
-        "games_played": 506,
-        "win_rate": 0.3300395256916996
+        "games_played": 647,
+        "win_rate": 0.3415765069551777
     },
     {
         "team": [
@@ -4919,17 +5342,17 @@
             "MORTIS",
             "SHELLY"
         ],
-        "games_played": 460,
-        "win_rate": 0.32608695652173914
+        "games_played": 534,
+        "win_rate": 0.3389513108614232
     },
     {
         "team": [
             "DYNAMIKE",
-            "EDGAR",
-            "RICO"
+            "EL PRIMO",
+            "MORTIS"
         ],
-        "games_played": 377,
-        "win_rate": 0.3183023872679045
+        "games_played": 556,
+        "win_rate": 0.3381294964028777
     },
     {
         "team": [
@@ -4937,8 +5360,35 @@
             "COLT",
             "RICO"
         ],
-        "games_played": 344,
-        "win_rate": 0.3168604651162791
+        "games_played": 382,
+        "win_rate": 0.337696335078534
+    },
+    {
+        "team": [
+            "DARRYL",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 612,
+        "win_rate": 0.3366013071895425
+    },
+    {
+        "team": [
+            "BIBI",
+            "EDGAR",
+            "MORTIS"
+        ],
+        "games_played": 563,
+        "win_rate": 0.33570159857904086
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "MORTIS",
+            "SHELLY"
+        ],
+        "games_played": 353,
+        "win_rate": 0.3314447592067989
     },
     {
         "team": [
@@ -4946,8 +5396,17 @@
             "RICO",
             "TICK"
         ],
-        "games_played": 345,
-        "win_rate": 0.3130434782608696
+        "games_played": 379,
+        "win_rate": 0.32717678100263853
+    },
+    {
+        "team": [
+            "MORTIS",
+            "RICO",
+            "TICK"
+        ],
+        "games_played": 430,
+        "win_rate": 0.32325581395348835
     },
     {
         "team": [
@@ -4955,8 +5414,17 @@
             "SPIKE",
             "SURGE"
         ],
+        "games_played": 322,
+        "win_rate": 0.3198757763975155
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "TARA"
+        ],
         "games_played": 306,
-        "win_rate": 0.3104575163398693
+        "win_rate": 0.31699346405228757
     },
     {
         "team": [
@@ -4964,26 +5432,17 @@
             "KENJI",
             "MORTIS"
         ],
-        "games_played": 677,
-        "win_rate": 0.30132939438700146
+        "games_played": 742,
+        "win_rate": 0.3045822102425876
     },
     {
         "team": [
-            "EDGAR",
+            "DYNAMIKE",
             "MORTIS",
-            "SURGE"
+            "TICK"
         ],
-        "games_played": 520,
-        "win_rate": 0.2980769230769231
-    },
-    {
-        "team": [
-            "BIBI",
-            "MORTIS",
-            "SHELLY"
-        ],
-        "games_played": 365,
-        "win_rate": 0.27945205479452057
+        "games_played": 318,
+        "win_rate": 0.29245283018867924
     },
     {
         "team": [
@@ -4991,7 +5450,25 @@
             "COLT",
             "DYNAMIKE"
         ],
-        "games_played": 473,
-        "win_rate": 0.2642706131078224
+        "games_played": 535,
+        "win_rate": 0.28785046728971964
+    },
+    {
+        "team": [
+            "EDGAR",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 586,
+        "win_rate": 0.2815699658703072
+    },
+    {
+        "team": [
+            "BIBI",
+            "MORTIS",
+            "SHELLY"
+        ],
+        "games_played": 416,
+        "win_rate": 0.2764423076923077
     }
 ]

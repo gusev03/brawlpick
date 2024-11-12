@@ -5,8 +5,17 @@
             "GENE",
             "TICK"
         ],
-        "games_played": 330,
-        "win_rate": 0.6909090909090909
+        "games_played": 421,
+        "win_rate": 0.7292161520190024
+    },
+    {
+        "team": [
+            "COLT",
+            "GENE",
+            "GROM"
+        ],
+        "games_played": 301,
+        "win_rate": 0.7209302325581395
     },
     {
         "team": [
@@ -14,8 +23,8 @@
             "GENE",
             "GUS"
         ],
-        "games_played": 338,
-        "win_rate": 0.6804733727810651
+        "games_played": 344,
+        "win_rate": 0.686046511627907
     },
     {
         "team": [
@@ -23,8 +32,8 @@
             "DYNAMIKE",
             "GENE"
         ],
-        "games_played": 672,
-        "win_rate": 0.6666666666666666
+        "games_played": 785,
+        "win_rate": 0.6764331210191082
     },
     {
         "team": [
@@ -32,7 +41,7 @@
             "DYNAMIKE",
             "FRANK"
         ],
-        "games_played": 326,
-        "win_rate": 0.6226993865030674
+        "games_played": 342,
+        "win_rate": 0.6257309941520468
     }
 ]

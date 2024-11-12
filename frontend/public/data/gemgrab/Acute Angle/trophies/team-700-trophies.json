@@ -1,0 +1,110 @@
+[
+    {
+        "team": [
+            "CROW",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 324,
+        "win_rate": 0.6512345679012346
+    },
+    {
+        "team": [
+            "CROW",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 439,
+        "win_rate": 0.5831435079726651
+    },
+    {
+        "team": [
+            "EDGAR",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 379,
+        "win_rate": 0.5382585751978892
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 620,
+        "win_rate": 0.535483870967742
+    },
+    {
+        "team": [
+            "COLT",
+            "CROW",
+            "MORTIS"
+        ],
+        "games_played": 341,
+        "win_rate": 0.530791788856305
+    },
+    {
+        "team": [
+            "COLT",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 408,
+        "win_rate": 0.49754901960784315
+    },
+    {
+        "team": [
+            "MORTIS",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 306,
+        "win_rate": 0.48366013071895425
+    },
+    {
+        "team": [
+            "LEON",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 321,
+        "win_rate": 0.48286604361370716
+    },
+    {
+        "team": [
+            "COLT",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 490,
+        "win_rate": 0.47346938775510206
+    },
+    {
+        "team": [
+            "MORTIS",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 417,
+        "win_rate": 0.47002398081534774
+    },
+    {
+        "team": [
+            "COLT",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 332,
+        "win_rate": 0.463855421686747
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "MORTIS"
+        ],
+        "games_played": 301,
+        "win_rate": 0.37209302325581395
+    }
+]

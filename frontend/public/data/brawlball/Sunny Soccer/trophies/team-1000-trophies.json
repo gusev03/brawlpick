@@ -1,11 +1,56 @@
 [
     {
         "team": [
+            "KENJI",
+            "RICO",
+            "SURGE"
+        ],
+        "games_played": 328,
+        "win_rate": 0.5182926829268293
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 323,
+        "win_rate": 0.47678018575851394
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 319,
+        "win_rate": 0.45454545454545453
+    },
+    {
+        "team": [
             "FRANK",
             "KENJI",
             "SURGE"
         ],
-        "games_played": 358,
-        "win_rate": 0.44692737430167595
+        "games_played": 417,
+        "win_rate": 0.44844124700239807
+    },
+    {
+        "team": [
+            "FRANK",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 301,
+        "win_rate": 0.4219269102990033
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 307,
+        "win_rate": 0.4201954397394137
     }
 ]

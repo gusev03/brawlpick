@@ -1,12 +1,39 @@
 [
     {
         "team": [
+            "EDGAR",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 346,
+        "win_rate": 0.5751445086705202
+    },
+    {
+        "team": [
+            "CROW",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 324,
+        "win_rate": 0.5370370370370371
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 326,
+        "win_rate": 0.5245398773006135
+    },
+    {
+        "team": [
             "COLT",
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 403,
-        "win_rate": 0.5235732009925558
+        "games_played": 435,
+        "win_rate": 0.5241379310344828
     },
     {
         "team": [
@@ -14,8 +41,8 @@
             "KENJI",
             "MORTIS"
         ],
-        "games_played": 307,
-        "win_rate": 0.501628664495114
+        "games_played": 327,
+        "win_rate": 0.5168195718654435
     },
     {
         "team": [
@@ -23,8 +50,8 @@
             "MORTIS",
             "SURGE"
         ],
-        "games_played": 369,
-        "win_rate": 0.5013550135501355
+        "games_played": 396,
+        "win_rate": 0.5126262626262627
     },
     {
         "team": [
@@ -32,8 +59,8 @@
             "CROW",
             "MORTIS"
         ],
-        "games_played": 304,
-        "win_rate": 0.4901315789473684
+        "games_played": 326,
+        "win_rate": 0.5030674846625767
     },
     {
         "team": [
@@ -41,8 +68,17 @@
             "SURGE",
             "TICK"
         ],
-        "games_played": 341,
-        "win_rate": 0.4780058651026393
+        "games_played": 376,
+        "win_rate": 0.4867021276595745
+    },
+    {
+        "team": [
+            "LEON",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 315,
+        "win_rate": 0.48253968253968255
     },
     {
         "team": [
@@ -50,7 +86,7 @@
             "MORTIS",
             "TICK"
         ],
-        "games_played": 373,
-        "win_rate": 0.4772117962466488
+        "games_played": 400,
+        "win_rate": 0.4675
     }
 ]

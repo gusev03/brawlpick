@@ -1,0 +1,191 @@
+[
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "POCO"
+        ],
+        "games_played": 363,
+        "win_rate": 0.7741046831955923
+    },
+    {
+        "team": [
+            "KENJI",
+            "PENNY",
+            "SURGE"
+        ],
+        "games_played": 476,
+        "win_rate": 0.7457983193277311
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 650,
+        "win_rate": 0.6676923076923077
+    },
+    {
+        "team": [
+            "BIBI",
+            "FRANK",
+            "KENJI"
+        ],
+        "games_played": 309,
+        "win_rate": 0.656957928802589
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "PENNY"
+        ],
+        "games_played": 317,
+        "win_rate": 0.6529968454258676
+    },
+    {
+        "team": [
+            "KENJI",
+            "MOE",
+            "SURGE"
+        ],
+        "games_played": 423,
+        "win_rate": 0.624113475177305
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "MORTIS"
+        ],
+        "games_played": 336,
+        "win_rate": 0.6130952380952381
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 411,
+        "win_rate": 0.6009732360097324
+    },
+    {
+        "team": [
+            "FRANK",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 484,
+        "win_rate": 0.5805785123966942
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "SURGE"
+        ],
+        "games_played": 366,
+        "win_rate": 0.5573770491803278
+    },
+    {
+        "team": [
+            "KENJI",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 867,
+        "win_rate": 0.5340253748558247
+    },
+    {
+        "team": [
+            "BIBI",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 485,
+        "win_rate": 0.534020618556701
+    },
+    {
+        "team": [
+            "JESSIE",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 565,
+        "win_rate": 0.5274336283185841
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "KENJI",
+            "SURGE"
+        ],
+        "games_played": 516,
+        "win_rate": 0.4883720930232558
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "JESSIE",
+            "KENJI"
+        ],
+        "games_played": 331,
+        "win_rate": 0.4652567975830816
+    },
+    {
+        "team": [
+            "KENJI",
+            "PENNY",
+            "TICK"
+        ],
+        "games_played": 465,
+        "win_rate": 0.44731182795698926
+    },
+    {
+        "team": [
+            "KENJI",
+            "POCO",
+            "TICK"
+        ],
+        "games_played": 316,
+        "win_rate": 0.41455696202531644
+    },
+    {
+        "team": [
+            "JESSIE",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 330,
+        "win_rate": 0.39090909090909093
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "KENJI",
+            "TICK"
+        ],
+        "games_played": 609,
+        "win_rate": 0.38752052545155996
+    },
+    {
+        "team": [
+            "KENJI",
+            "MORTIS",
+            "TICK"
+        ],
+        "games_played": 494,
+        "win_rate": 0.3623481781376518
+    },
+    {
+        "team": [
+            "DYNAMIKE",
+            "SURGE",
+            "TICK"
+        ],
+        "games_played": 384,
+        "win_rate": 0.3125
+    }
+]

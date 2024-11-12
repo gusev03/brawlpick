@@ -1,0 +1,173 @@
+[
+    {
+        "team": [
+            "ANGELO",
+            "COLT",
+            "PIPER"
+        ],
+        "games_played": 423,
+        "win_rate": 0.6832151300236406
+    },
+    {
+        "team": [
+            "ANGELO",
+            "LILY",
+            "PIPER"
+        ],
+        "games_played": 344,
+        "win_rate": 0.6453488372093024
+    },
+    {
+        "team": [
+            "LEON",
+            "PIPER",
+            "TICK"
+        ],
+        "games_played": 425,
+        "win_rate": 0.5811764705882353
+    },
+    {
+        "team": [
+            "COLT",
+            "PIPER",
+            "TICK"
+        ],
+        "games_played": 609,
+        "win_rate": 0.5303776683087028
+    },
+    {
+        "team": [
+            "BROCK",
+            "PIPER",
+            "TICK"
+        ],
+        "games_played": 334,
+        "win_rate": 0.5299401197604791
+    },
+    {
+        "team": [
+            "COLT",
+            "LEON",
+            "PIPER"
+        ],
+        "games_played": 565,
+        "win_rate": 0.5292035398230088
+    },
+    {
+        "team": [
+            "ANGELO",
+            "PIPER",
+            "TICK"
+        ],
+        "games_played": 346,
+        "win_rate": 0.5144508670520231
+    },
+    {
+        "team": [
+            "BROCK",
+            "GROM",
+            "PIPER"
+        ],
+        "games_played": 338,
+        "win_rate": 0.5088757396449705
+    },
+    {
+        "team": [
+            "BROCK",
+            "LEON",
+            "PIPER"
+        ],
+        "games_played": 360,
+        "win_rate": 0.5055555555555555
+    },
+    {
+        "team": [
+            "BROCK",
+            "COLT",
+            "PIPER"
+        ],
+        "games_played": 482,
+        "win_rate": 0.504149377593361
+    },
+    {
+        "team": [
+            "COLT",
+            "MANDY",
+            "PIPER"
+        ],
+        "games_played": 328,
+        "win_rate": 0.47560975609756095
+    },
+    {
+        "team": [
+            "COLT",
+            "GROM",
+            "PIPER"
+        ],
+        "games_played": 395,
+        "win_rate": 0.46582278481012657
+    },
+    {
+        "team": [
+            "COLT",
+            "DYNAMIKE",
+            "PIPER"
+        ],
+        "games_played": 361,
+        "win_rate": 0.4626038781163435
+    },
+    {
+        "team": [
+            "GROM",
+            "PIPER",
+            "TICK"
+        ],
+        "games_played": 335,
+        "win_rate": 0.44776119402985076
+    },
+    {
+        "team": [
+            "MANDY",
+            "PIPER",
+            "TICK"
+        ],
+        "games_played": 309,
+        "win_rate": 0.40129449838187703
+    },
+    {
+        "team": [
+            "EDGAR",
+            "PIPER",
+            "TICK"
+        ],
+        "games_played": 346,
+        "win_rate": 0.3930635838150289
+    },
+    {
+        "team": [
+            "EDGAR",
+            "LEON",
+            "PIPER"
+        ],
+        "games_played": 349,
+        "win_rate": 0.3868194842406877
+    },
+    {
+        "team": [
+            "BROCK",
+            "EDGAR",
+            "PIPER"
+        ],
+        "games_played": 320,
+        "win_rate": 0.38125
+    },
+    {
+        "team": [
+            "COLT",
+            "EDGAR",
+            "PIPER"
+        ],
+        "games_played": 398,
+        "win_rate": 0.36180904522613067
+    }
+]

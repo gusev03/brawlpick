@@ -5,8 +5,8 @@
             "GUS",
             "PIPER"
         ],
-        "games_played": 301,
-        "win_rate": 0.6810631229235881
+        "games_played": 315,
+        "win_rate": 0.6952380952380952
     },
     {
         "team": [
@@ -14,8 +14,17 @@
             "MANDY",
             "PIPER"
         ],
-        "games_played": 330,
-        "win_rate": 0.5606060606060606
+        "games_played": 371,
+        "win_rate": 0.5741239892183289
+    },
+    {
+        "team": [
+            "ANGELO",
+            "BROCK",
+            "PIPER"
+        ],
+        "games_played": 320,
+        "win_rate": 0.571875
     },
     {
         "team": [
@@ -23,7 +32,7 @@
             "MANDY",
             "PIPER"
         ],
-        "games_played": 314,
-        "win_rate": 0.4585987261146497
+        "games_played": 346,
+        "win_rate": 0.45664739884393063
     }
 ]
