@@ -148,11 +148,11 @@ async def main():
             workers = []
 
             # Create 20 workers
-            logger.info("Creating first batch of workers...")
+            logger.info("Creating workers...")
             for _ in range(20):
                 workers.append(asyncio.create_task(worker()))
             
-            # Wait 1 million processed players before cutting off workers to reset the loop
+            # Wait 500k processed players before cutting off workers to reset the loop
             logger.info(f"Waiting for {500_000} players to be processed...")
             while len(processed_players) < 500_000:
                 await asyncio.sleep(5)
