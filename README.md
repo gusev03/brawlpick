@@ -14,9 +14,9 @@ git clone https://github.com/gusev03/brawlpick.git
 
 ## data-collection
 
-The data collection folder contains everything needed to pull data and scripts to write and read to a PostgreSQL database
+The data collection folder includes scripts for retrieving data from the Brawl Stars API and interacting with a PostgreSQL database for reading and writing.
 
-1. Create a database in PostgreSQL and record the username, password, and database name
+1. Create a PostgreSQL database and record the username, password, and database name
 
 2. Make a .env file with environment variables:
 ```
